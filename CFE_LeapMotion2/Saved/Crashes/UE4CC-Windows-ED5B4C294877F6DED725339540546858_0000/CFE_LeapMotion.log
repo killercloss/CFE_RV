@@ -1,0 +1,1027 @@
+﻿Log file open, 05/24/19 15:52:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CFE_LeapMotion
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.320513
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.263s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G, GPU: AMD Radeon(TM) R6 Graphics
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.24-20.52.58:043][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.24-20.52.58:043][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.24-20.52.58:043][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.24-20.52.58:043][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.24-20.52.58:043][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.24-20.52.58:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.24-20.52.58:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.24-20.52.58:044][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.24-20.52.58:049][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:049][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.24-20.52.58:049][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.24-20.52.58:049][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:049][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.24-20.52.58:049][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.24-20.52.58:050][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.24-20.52.58:051][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.24-20.52.58:052][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.24-20.52.58:052][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.24-20.52.58:052][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.24-20.52.58:052][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.24-20.52.58:052][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:052][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.24-20.52.58:052][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.24-20.52.58:052][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.24-20.52.58:052][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.24-20.52.58:083][  0]LogHAL: Display: Platform has ~ 7 GB [7455145984 / 8589934592 / 7], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.24-20.52.58:083][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.24-20.52.58:083][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.24-20.52.58:083][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:083][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.05.24-20.52.58:083][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.05.24-20.52.58:084][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.24-20.52.58:085][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.05.24-20.52.58:086][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.05.24-20.52.58:086][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.24-20.52.58:086][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.05.24-20.52.58:086][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.05.24-20.52.58:086][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.24-20.52.58:087][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.24-20.52.58:087][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.24-20.52.58:087][  0]LogInit: Computer: DESKTOP-RTM83TK
+[2019.05.24-20.52.58:087][  0]LogInit: User: Samuel
+[2019.05.24-20.52.58:087][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.24-20.52.58:087][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.24-20.52.58:088][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2019.05.24-20.52.58:088][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.24-20.52.58:088][  0]LogMemory: Process Physical Memory: 102.69 MB used, 102.70 MB peak
+[2019.05.24-20.52.58:088][  0]LogMemory: Process Virtual Memory: 96.14 MB used, 96.14 MB peak
+[2019.05.24-20.52.58:088][  0]LogMemory: Physical Memory: 3541.55 MB used,  3568.23 MB free, 7109.78 MB total
+[2019.05.24-20.52.58:088][  0]LogMemory: Virtual Memory: 4641.57 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.05.24-20.52.58:132][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.05.24-20.52.58:132][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.05.24-20.52.58:980][  0]LogStreaming: Display: Took  0.848s to InitEngineTextLocalization.
+[2019.05.24-20.52.58:980][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.24-20.52.59:052][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.24-20.52.59:052][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.24-20.52.59:602][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.24-20.52.59:602][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.24-20.52.59:671][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R6 Graphics' (Feature Level 11_0)
+[2019.05.24-20.52.59:671][  0]LogD3D11RHI:       1012/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.05.24-20.52.59:681][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.24-20.52.59:681][  0]LogD3D11RHI:       0/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.24-20.52.59:681][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.24-20.52.59:698][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.24-20.52.59:698][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.24-20.52.59:699][  0]LogWindows: EnumDisplayDevices:
+[2019.05.24-20.52.59:699][  0]LogWindows:    0. 'AMD Radeon(TM) R6 Graphics' (P:1 D:1)
+[2019.05.24-20.52.59:700][  0]LogWindows:    1. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.05.24-20.52.59:701][  0]LogWindows:    2. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.05.24-20.52.59:701][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.05.24-20.52.59:701][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R6 Graphics
+[2019.05.24-20.52.59:701][  0]LogD3D11RHI:   Driver Version: 15.201.1101.1002 (internal:15.201.1101.1002, unified:15.201.1101.1002)
+[2019.05.24-20.52.59:701][  0]LogD3D11RHI:      Driver Date: 8-21-2015
+[2019.05.24-20.52.59:701][  0]LogRHI: Texture pool is 708 MB (70% of 1012 MB)
+[2019.05.24-20.52.59:876][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.24-20.52.59:912][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2019.05.24-20.53.00:817][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.24-20.53.00:847][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.24-20.53.00:883][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.24-20.53.00:914][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.24-20.53.00:943][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.24-20.53.00:970][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.24-20.53.01:006][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.24-20.53.01:035][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.24-20.53.01:049][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.24-20.53.01:212][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:212][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:212][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:212][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:212][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:212][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:212][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:212][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.24-20.53.01:216][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.24-20.53.01:315][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.24-20.53.01:315][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.24-20.53.01:364][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.24-20.53.01:365][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.24-20.53.01:395][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.24-20.53.01:423][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.24-20.53.01:449][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.24-20.53.01:476][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.24-20.53.01:590][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.24-20.53.01:590][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.24-20.53.01:590][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.24-20.53.01:738][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Intermediate/Shaders/WorkingDirectory/6788/).
+[2019.05.24-20.53.01:739][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel/AppData/Local/Temp/UnrealShaderWorkingDir/E62E46794077C51B64E035ABFB6E6BA7/'.
+[2019.05.24-20.53.01:743][  0]LogXGEController: Cleaning working directory: C:/Users/Samuel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.24-20.53.01:744][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.24-20.53.01:744][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.24-20.53.01:744][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.24-20.53.03:615][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.24-20.53.03:801][  0]LogDerivedDataCache: Loaded boot cache 0.19s 71MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.24-20.53.03:801][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.24-20.53.03:801][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.24-20.53.03:802][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.24-20.53.03:802][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.24-20.53.03:802][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.24-20.53.03:839][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.24-20.53.03:840][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.24-20.53.03:840][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.24-20.53.03:854][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.24-20.53.03:854][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.24-20.53.03:854][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.24-20.53.03:932][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.24-20.53.03:936][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.24-20.53.03:938][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.24-20.53.04:185][  0]LogAssetRegistry: FAssetRegistry took 0.0634 seconds to start up
+[2019.05.24-20.53.05:175][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.24-20.53.05:361][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.24-20.53.05:370][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.24-20.53.05:370][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.24-20.53.05:370][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.24-20.53.05:370][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.24-20.53.05:573][  0]LogNetVersion: CFE_LeapMotion 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1837852655)
+[2019.05.24-20.53.06:998][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.138444 seconds
+[2019.05.24-20.53.07:013][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.24-20.53.07:013][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.24-20.53.07:013][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.24-20.53.09:053][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.24-20.53.09:071][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.24-20.53.10:526][  0]SourceControl: Source control is disabled
+[2019.05.24-20.53.12:115][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.24-20.53.12:236][  0]LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' (GetLastError=126)
+[2019.05.24-20.53.12:236][  0]LogWindows: File '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' does not exist
+[2019.05.24-20.53.12:236][  0]LeapMotionLog: Leap Plugin started v3.3.1
+[2019.05.24-20.53.12:245][  0]LogOcInput: OculusInput pre-init called
+[2019.05.24-20.53.12:473][  0]LogClass: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly
+[2019.05.24-20.53.12:473][  0]LogClass: Warning: FBodyStateDeviceConfig::InputType is not initialized properly
+[2019.05.24-20.53.12:474][  0]LogClass: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly
+[2019.05.24-20.53.12:474][  0]LogClass: Display: 3 Uninitialized script stuct members found
+[2019.05.24-20.53.12:476][  0]LogAutomationTest: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly
+[2019.05.24-20.53.12:476][  0]LogAutomationTest: Warning: FBodyStateDeviceConfig::InputType is not initialized properly
+[2019.05.24-20.53.12:476][  0]LogAutomationTest: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly
+[2019.05.24-20.53.12:482][  0]LogEngine: Initializing Engine...
+[2019.05.24-20.53.12:484][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.24-20.53.12:487][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.24-20.53.12:487][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.24-20.53.12:487][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.24-20.53.12:487][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.24-20.53.13:106][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.24-20.53.13:166][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.24-20.53.13:190][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-20.53.13:331][  0]LogInit: FAudioDevice initialized.
+[2019.05.24-20.53.13:332][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.24-20.53.14:064][  0]LogDerivedDataCache: Saved boot cache 0.73s 71MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.24-20.53.14:085][  0]LogInit: Texture streaming: Enabled
+[2019.05.24-20.53.14:126][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.24-20.53.14:126][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={B9F932CF-4EBF-55B7-BD2C-9F81D5CE59AD}
+[2019.05.24-20.53.14:161][  0]LogInit: Transaction tracking system initialized
+[2019.05.24-20.53.14:218][  0]BlueprintLog: New page: Editor Load
+[2019.05.24-20.53.14:401][  0]LocalizationService: Localization service is disabled
+[2019.05.24-20.53.16:434][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/' took 0.03s
+[2019.05.24-20.53.16:434][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.24-20.53.16:434][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.24-20.53.16:434][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.24-20.53.16:434][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.24-20.53.16:434][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.24-20.53.16:434][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.24-20.53.16:435][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.24-20.53.16:781][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.24-20.53.16:782][  0]LightingResults: New page: Lighting Build
+[2019.05.24-20.53.16:788][  0]MapCheck: New page: Map Check
+[2019.05.24-20.53.16:788][  0]LightingResults: New page: Lighting Build
+[2019.05.24-20.53.18:155][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.24-20.53.18:172][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.24-20.53.18:320][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.24-20.53.18:321][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.459ms to complete.
+[2019.05.24-20.53.18:321][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.541
+[2019.05.24-20.53.18:472][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-20.53.18:492][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-20.53.18:511][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-20.53.18:532][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-20.53.18:551][  0]LogCollectionManager: Loaded 0 collections in 0.004710 seconds
+[2019.05.24-20.53.18:576][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Collections/' took 0.01s
+[2019.05.24-20.53.18:576][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/Developers/Samuel/Collections/' took 0.00s
+[2019.05.24-20.53.18:576][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/Collections/' took 0.00s
+[2019.05.24-20.53.18:576][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.24-20.53.18:603][  0]LogContentBrowser: Native class hierarchy populated in 0.0270 seconds. Added 2665 classes and 628 folders.
+[2019.05.24-20.53.18:621][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.05.24-20.53.18:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:631][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:638][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.24-20.53.18:767][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.05.24-20.53.18:781][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.05.24-20.53.19:014][  0]LogSlate: Took 0.002444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.24-20.53.19:024][  0]LogSlate: Took 0.000613 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.24-20.53.19:039][  0]LogSlate: Took 0.000504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.24-20.53.19:303][  0]LogRenderer: Reallocating scene render targets to support 856x300 Format 9 NumSamples 1 (Frame:1).
+[2019.05.24-20.53.20:296][  0]LogSlate: Took 0.000491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.24-20.53.20:520][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.05.24-20.53.20:521][  0]LogLoad: (Engine Initialization) Total time: 26.35 seconds
+[2019.05.24-20.53.20:521][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.24-20.53.20:562][  0]LeapMotionLog: ServiceMessageLoop started.
+[2019.05.24-20.53.20:562][  0]BodyStateLog: BodyState::DeviceAttached: Leap Motion (1)
+[2019.05.24-20.53.20:563][  0]BodyStateLog: BodyState::DeviceAttached: HMD (2)
+[2019.05.24-20.53.20:677][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.05.24-20.53.20:823][  1]LeapMotionLog: LeapService: OnConnect.
+[2019.05.24-20.53.21:034][  2]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.05.24-20.53.21:842][  5]LogSlate: Took 0.000616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.24-20.53.21:898][  6]LogAssetRegistry: Asset discovery search completed in 17.7357 seconds
+[2019.05.24-20.53.21:902][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.24-20.53.21:902][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000195 seconds (updated 0 objects)
+[2019.05.24-20.53.31:343][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-20.53.31:503][100]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Character/BP_Pawn.BP_Pawn
+[2019.05.24-20.53.32:548][100]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 117 classes and 0 folders.
+[2019.05.24-20.53.34:320][100]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/BLUEPRINTS/BP_Item.BP_Item
+[2019.05.24-20.53.35:097][100]LogTemp: Bone cache synced: 20
+[2019.05.24-20.53.35:101][100]LogTemp: Bone cache synced: 0
+[2019.05.24-20.53.35:101][100]LogTemp: Bone cache synced: 20
+[2019.05.24-20.53.35:117][100]LogSlate: Took 0.000505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.24-20.53.35:602][101]LogSlate: Took 0.000822 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.24-20.54.11:357][158]BlueprintLog: New page: Compile BP_Item
+[2019.05.24-20.54.11:982][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:983][158]LogTemp: Bone cache synced: 0
+[2019.05.24-20.54.11:984][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:988][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:988][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:990][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:990][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:992][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:992][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:994][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:995][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:997][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:997][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:999][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.11:999][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.12:001][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.12:001][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.12:003][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.12:003][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.12:022][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.12:024][158]LogTemp: Bone cache synced: 0
+[2019.05.24-20.54.12:025][158]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.13:680][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/BLUEPRINTS/BP_Item" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset" SILENT=true
+[2019.05.24-20.54.13:937][214]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Item253BFF614D93B9330ADB5A8BC1875F70.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset'
+[2019.05.24-20.54.49:828][197]BlueprintLog: New page: Compile BP_Item
+[2019.05.24-20.54.50:389][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:391][197]LogTemp: Bone cache synced: 0
+[2019.05.24-20.54.50:392][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:396][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:396][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:398][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:398][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:400][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:400][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:402][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:402][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:404][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:404][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:406][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:406][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:408][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:408][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:410][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:410][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:430][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.50:432][197]LogTemp: Bone cache synced: 0
+[2019.05.24-20.54.50:433][197]LogTemp: Bone cache synced: 20
+[2019.05.24-20.54.51:178][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/BLUEPRINTS/BP_Item" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset" SILENT=true
+[2019.05.24-20.54.51:474][206]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Item9AB2A002498306F572B6BF98C0848E83.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset'
+[2019.05.24-20.56.20:179][318]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.20:181][318]LogTemp: Bone cache synced: 0
+[2019.05.24-20.56.20:181][318]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:077][869]BlueprintLog: New page: Compile BP_Pawn
+[2019.05.24-20.56.30:224][869]LogBlueprint: Warning: [Compiler BP_Pawn] Could not find the function 'CAN_INTERACT_NEW_PROCESS' called from  CAN INTERACT NEW PROCESS
+[2019.05.24-20.56.30:234][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:236][869]LogTemp: Bone cache synced: 0
+[2019.05.24-20.56.30:236][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:240][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:241][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:243][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:243][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:245][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:245][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:247][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:247][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:250][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:250][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:252][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:252][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:254][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:254][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:256][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:256][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:604][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:606][869]LogTemp: Bone cache synced: 0
+[2019.05.24-20.56.30:606][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:644][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:646][869]LogTemp: Bone cache synced: 0
+[2019.05.24-20.56.30:646][869]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.30:655][869]LogBlueprint: Warning: [Compiler BP_Pawn] [0216.48] Compile of BP_Pawn successful, but with 1 Warning(s) [in 577 ms] (/Game/BP_Character/BP_Pawn.BP_Pawn)
+[2019.05.24-20.56.31:497][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Character/BP_Pawn" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset" SILENT=true
+[2019.05.24-20.56.31:715][890]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_PawnA63A277747B528824B0B309321B58F1D.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset'
+[2019.05.24-20.56.39:622][326]BlueprintLog: New page: Compile BP_Item
+[2019.05.24-20.56.40:222][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:224][326]LogTemp: Bone cache synced: 0
+[2019.05.24-20.56.40:224][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:228][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:228][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:230][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:230][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:232][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:232][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:234][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:234][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:236][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:236][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:238][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:238][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:240][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:240][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:242][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:242][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:263][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:265][326]LogTemp: Bone cache synced: 0
+[2019.05.24-20.56.40:265][326]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.40:927][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/BLUEPRINTS/BP_Item" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset" SILENT=true
+[2019.05.24-20.56.41:181][332]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_ItemC4FBFF3645AC971471C6B1A7DDC88843.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset'
+[2019.05.24-20.56.42:248][379]BlueprintLog: New page: Compile BP_Pawn
+[2019.05.24-20.56.42:397][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:399][379]LogTemp: Bone cache synced: 0
+[2019.05.24-20.56.42:399][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:403][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:404][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:406][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:406][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:408][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:408][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:410][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:410][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:412][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:412][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:414][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:415][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:417][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:417][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:419][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:419][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:767][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:769][379]LogTemp: Bone cache synced: 0
+[2019.05.24-20.56.42:769][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:807][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.42:809][379]LogTemp: Bone cache synced: 0
+[2019.05.24-20.56.42:809][379]LogTemp: Bone cache synced: 20
+[2019.05.24-20.56.43:369][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Character/BP_Pawn" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset" SILENT=true
+[2019.05.24-20.56.43:559][385]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_PawnDC3736FC495FC5065EB1D5B02CA093DF.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset'
+[2019.05.24-20.57.55:602][475]LogTemp: Bone cache synced: 20
+[2019.05.24-20.57.55:604][475]LogTemp: Bone cache synced: 0
+[2019.05.24-20.57.55:604][475]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:685][927]BlueprintLog: New page: Compile BP_Pawn
+[2019.05.24-20.58.03:826][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:828][927]LogTemp: Bone cache synced: 0
+[2019.05.24-20.58.03:828][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:833][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:833][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:834][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:835][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:836][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:836][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:839][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:839][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:841][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:841][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:843][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:843][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:845][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:845][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:847][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.03:847][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.04:177][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.04:179][927]LogTemp: Bone cache synced: 0
+[2019.05.24-20.58.04:179][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.04:216][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.04:217][927]LogTemp: Bone cache synced: 0
+[2019.05.24-20.58.04:217][927]LogTemp: Bone cache synced: 20
+[2019.05.24-20.58.05:084][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Character/BP_Pawn" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset" SILENT=true
+[2019.05.24-20.58.05:281][956]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_PawnAFA1998B4BBC193D60F23DB7E98B0DAD.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset'
+[2019.05.24-21.01.05:746][103]BlueprintLog: New page: Compile BP_Item
+[2019.05.24-21.01.06:106][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:108][103]LogTemp: Bone cache synced: 0
+[2019.05.24-21.01.06:108][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:112][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:112][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:114][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:114][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:116][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:117][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:119][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:119][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:121][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:121][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:123][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:123][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:124][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:125][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:127][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:127][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:497][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:498][103]LogTemp: Bone cache synced: 0
+[2019.05.24-21.01.06:499][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:521][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.06:522][103]LogTemp: Bone cache synced: 0
+[2019.05.24-21.01.06:522][103]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.07:633][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/BLUEPRINTS/BP_Item" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset" SILENT=true
+[2019.05.24-21.01.07:946][143]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Item11D5502842FDDFD37873A08E382BAE59.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset'
+[2019.05.24-21.01.09:063][206]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-21.01.09:161][206]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.01.09:161][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-21.01.09:162][206]PIE: New page: PIE session: Minimal_Default (May 24, 2019, 11:01:09 AM)
+[2019.05.24-21.01.09:178][206]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.05.24-21.01.09:193][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014866s)
+[2019.05.24-21.01.09:194][206]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.24-21.01.09:196][206]LogPlayLevel: PIE: World Init took: (0.002862s)
+[2019.05.24-21.01.09:196][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.018504s)
+[2019.05.24-21.01.09:273][206]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-21.01.09:329][206]LogInit: FAudioDevice initialized.
+[2019.05.24-21.01.09:340][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-21.01.09:394][206]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.05.24-21.01.09:400][206]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.05.24-16.01.09
+[2019.05.24-21.01.09:402][206]LogWorld: Bringing up level for play took: 0.003727
+[2019.05.24-21.01.09:438][206]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.05.24-21.01.09:438][206]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.24-21.01.09:438][206]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.24-21.01.09:438][206]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.24-21.01.09:440][206]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.09:442][206]LogTemp: Bone cache synced: 0
+[2019.05.24-21.01.09:442][206]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.09:443][206]LeapMotionLog: AddEventDelegate (1).
+[2019.05.24-21.01.09:449][206]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.24-21.01.09:452][206]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.007
+[2019.05.24-21.01.09:453][206]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.01.09:738][206]LogRenderer: Reallocating scene render targets to support 916x536 Format 9 NumSamples 1 (Frame:1).
+[2019.05.24-21.01.11:740][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.01.11:741][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-21.01.11:812][291]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.24-21.01.11:862][291]LeapMotionLog: LeapServiceLog: Tracking optimized for head-mounted device
+[2019.05.24-21.01.11:890][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-21.01.11:890][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.01.12:227][292]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.05.24-21.01.15:173][464]LogEditorTransaction: Undo Move Nodes
+[2019.05.24-21.01.26:766][104]BlueprintLog: New page: Compile BP_Item
+[2019.05.24-21.01.27:341][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:343][104]LogTemp: Bone cache synced: 0
+[2019.05.24-21.01.27:343][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:347][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:347][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:349][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:349][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:351][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:352][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:354][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:354][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:356][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:356][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:358][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:358][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:360][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:360][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:362][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:362][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:383][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.27:384][104]LogTemp: Bone cache synced: 0
+[2019.05.24-21.01.27:385][104]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.28:343][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/BLUEPRINTS/BP_Item" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset" SILENT=true
+[2019.05.24-21.01.28:590][134]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Item085C6D4540A876074A5E948A12760996.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset'
+[2019.05.24-21.01.29:428][180]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-21.01.29:528][180]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.01.29:528][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-21.01.29:528][180]PIE: New page: PIE session: Minimal_Default (May 24, 2019, 11:01:29 AM)
+[2019.05.24-21.01.29:528][180]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.05.24-21.01.29:540][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011708s)
+[2019.05.24-21.01.29:541][180]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.24-21.01.29:542][180]LogPlayLevel: PIE: World Init took: (0.001571s)
+[2019.05.24-21.01.29:542][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013698s)
+[2019.05.24-21.01.29:629][180]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-21.01.29:681][180]LogInit: FAudioDevice initialized.
+[2019.05.24-21.01.29:692][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-21.01.29:728][180]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.05.24-21.01.29:732][180]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.05.24-16.01.29
+[2019.05.24-21.01.29:734][180]LogWorld: Bringing up level for play took: 0.004169
+[2019.05.24-21.01.29:749][180]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.24-21.01.29:749][180]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.24-21.01.29:749][180]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.24-21.01.29:751][180]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.29:753][180]LogTemp: Bone cache synced: 0
+[2019.05.24-21.01.29:753][180]LogTemp: Bone cache synced: 20
+[2019.05.24-21.01.29:754][180]LeapMotionLog: AddEventDelegate (1).
+[2019.05.24-21.01.29:761][180]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.24-21.01.29:764][180]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.681
+[2019.05.24-21.01.29:765][180]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.01.31:765][255]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.01.31:765][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-21.01.31:840][255]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.24-21.01.31:919][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-21.01.31:920][255]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.01.32:244][256]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.24-21.03.54:551][510]BlueprintLog: New page: Compile BP_Item
+[2019.05.24-21.03.55:203][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:205][510]LogTemp: Bone cache synced: 0
+[2019.05.24-21.03.55:205][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:210][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:210][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:212][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:212][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:214][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:214][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:216][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:216][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:218][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:218][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:220][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:220][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:222][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:222][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:224][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:224][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:246][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.55:248][510]LogTemp: Bone cache synced: 0
+[2019.05.24-21.03.55:248][510]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.56:172][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/BLUEPRINTS/BP_Item" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset" SILENT=true
+[2019.05.24-21.03.56:431][537]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Item4653C44E4FC44DC16EEA06BBC32C02FC.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset'
+[2019.05.24-21.03.56:846][556]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-21.03.56:946][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.03.56:947][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-21.03.56:947][556]PIE: New page: PIE session: Minimal_Default (May 24, 2019, 11:03:56 AM)
+[2019.05.24-21.03.56:947][556]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.05.24-21.03.56:959][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012119s)
+[2019.05.24-21.03.56:960][556]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.24-21.03.56:962][556]LogPlayLevel: PIE: World Init took: (0.002191s)
+[2019.05.24-21.03.56:962][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.014990s)
+[2019.05.24-21.03.57:061][556]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-21.03.57:113][556]LogInit: FAudioDevice initialized.
+[2019.05.24-21.03.57:124][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-21.03.57:163][556]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.05.24-21.03.57:167][556]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.05.24-16.03.57
+[2019.05.24-21.03.57:168][556]LogWorld: Bringing up level for play took: 0.003770
+[2019.05.24-21.03.57:183][556]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.24-21.03.57:183][556]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.24-21.03.57:183][556]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.24-21.03.57:184][556]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.57:186][556]LogTemp: Bone cache synced: 0
+[2019.05.24-21.03.57:186][556]LogTemp: Bone cache synced: 20
+[2019.05.24-21.03.57:188][556]LeapMotionLog: AddEventDelegate (1).
+[2019.05.24-21.03.57:192][556]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.24-21.03.57:195][556]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.75
+[2019.05.24-21.03.57:196][556]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.04.06:793][965]LeapMotionLog: LeapServiceLog: Leap Motion Controller detected: S323A047707
+[2019.05.24-21.04.06:799][965]LeapMotionLog: OnDeviceFound Peripheral S323A047707.
+[2019.05.24-21.04.06:832][966]LeapMotionLog: LeapServiceLog: Firmware is up to date.
+[2019.05.24-21.04.10:636][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.04.10:941][111]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.04.12:938][178]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.04.12:997][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.04.13:308][191]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.04.13:424][195]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.04.16:670][329]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.04.17:994][372]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.04.20:779][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.04.20:780][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-21.04.20:863][475]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.24-21.04.20:954][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-21.04.20:955][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.04.21:312][476]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.24-21.04.23:711][616]LeapMotionLog: Warning: OnDeviceLost S323A047707.
+[2019.05.24-21.04.23:728][617]LeapMotionLog: LeapServiceLog: Leap Motion Controller disconnected: S323A047707
+[2019.05.24-21.04.49:172][116]LogEditorViewport: Clicking on Actor (LMB): BP_Aislante_C (BP_Aislante4)
+[2019.05.24-21.04.52:574][257]LogEditorViewport: Clicking on Actor (LMB): BP_MantaAislante_C (BP_MantaAislante2)
+[2019.05.24-21.04.54:381][335]LogEditorViewport: Clicking on Actor (LMB): BP_Aislante_C (BP_Aislante4)
+[2019.05.24-21.04.55:553][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.24-21.06.07:004][595]BlueprintLog: New page: Compile BP_Item
+[2019.05.24-21.06.07:703][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:705][595]LogTemp: Bone cache synced: 0
+[2019.05.24-21.06.07:705][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:709][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:709][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:711][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:711][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:713][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:714][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:715][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:716][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:718][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:718][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:720][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:720][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:722][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:722][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:724][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:724][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:743][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.07:745][595]LogTemp: Bone cache synced: 0
+[2019.05.24-21.06.07:745][595]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.08:387][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/BLUEPRINTS/BP_Item" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset" SILENT=true
+[2019.05.24-21.06.08:672][604]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Item7E9D763046D6D0CB874A509B4DAAFF14.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/BLUEPRINTS/BP_Item.uasset'
+[2019.05.24-21.06.09:100][624]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.24-21.06.09:202][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.06.09:202][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.24-21.06.09:202][624]PIE: New page: PIE session: Minimal_Default (May 24, 2019, 11:06:09 AM)
+[2019.05.24-21.06.09:203][624]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.05.24-21.06.09:215][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011796s)
+[2019.05.24-21.06.09:216][624]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.24-21.06.09:216][624]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2019.05.24-21.06.09:217][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013887s)
+[2019.05.24-21.06.09:306][624]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.24-21.06.09:364][624]LogInit: FAudioDevice initialized.
+[2019.05.24-21.06.09:374][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-21.06.09:417][624]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.05.24-21.06.09:421][624]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.05.24-16.06.09
+[2019.05.24-21.06.09:422][624]LogWorld: Bringing up level for play took: 0.003976
+[2019.05.24-21.06.09:437][624]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.24-21.06.09:437][624]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.24-21.06.09:437][624]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.24-21.06.09:439][624]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.09:441][624]LogTemp: Bone cache synced: 0
+[2019.05.24-21.06.09:441][624]LogTemp: Bone cache synced: 20
+[2019.05.24-21.06.09:442][624]LeapMotionLog: AddEventDelegate (1).
+[2019.05.24-21.06.09:448][624]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.24-21.06.09:451][624]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.006
+[2019.05.24-21.06.09:452][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.06.16:851][926]LeapMotionLog: OnDeviceFound Peripheral S323A047707.
+[2019.05.24-21.06.16:858][926]LeapMotionLog: LeapServiceLog: Firmware is up to date.
+[2019.05.24-21.06.19:830][ 30]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.20:186][ 42]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.20:447][ 50]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.22:039][102]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.22:713][124]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.22:832][128]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.22:896][130]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.22:992][133]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.25:654][240]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.27:019][285]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.27:207][291]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.27:270][293]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.27:491][300]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.27:612][304]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.27:794][310]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.31:033][415]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.31:254][422]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.31:508][430]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.31:689][436]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.41:665][787]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.41:726][789]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.24-21.06.42:706][822]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.06.42:707][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.24-21.06.42:783][822]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.24-21.06.42:874][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.24-21.06.42:875][822]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.24-21.06.43:207][823]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.24-21.06.46:276][984]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.24-21.06.46:276][984]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
+[2019.05.24-21.06.46:647][984]LeapMotionLog: Error: LeapServiceError: Unhandled exception: [DShow] The device has been unplugged
+[2019.05.24-21.06.46:649][984]LeapMotionLog: Warning: OnDeviceLost S323A047707.
+[2019.05.24-21.06.46:651][984]LeapMotionLog: LeapServiceLog: Leap Motion Controller disconnected: S323A047707
