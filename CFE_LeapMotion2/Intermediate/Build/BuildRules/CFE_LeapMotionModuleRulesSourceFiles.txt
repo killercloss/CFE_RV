@@ -1,0 +1,4 @@
+C:\Users\Samuel\Documents\GitHub\CFE_RV\CFE_LeapMotion2\Plugins\LeapMotion\Source\BodyState\BodyState.Build.cs
+C:\Users\Samuel\Documents\GitHub\CFE_RV\CFE_LeapMotion2\Plugins\LeapMotion\Source\LeapMotion\LeapMotion.Build.cs
+C:\Users\Samuel\Documents\GitHub\CFE_RV\CFE_LeapMotion2\Plugins\LeapMotion\Source\LeapMotionEditor\LeapMotionEditor.Build.cs
+C:\Users\Samuel\Documents\GitHub\CFE_RV\CFE_LeapMotion2\Plugins\UE4Duino\Source\UE4Duino\UE4Duino.Build.cs
