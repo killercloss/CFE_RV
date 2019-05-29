@@ -1,0 +1,1853 @@
+﻿Log file open, 05/29/19 13:54:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CFE_LeapMotion
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.298066
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UE4Duino
+LogStreaming: Display: Took  0.156s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.011s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-18.54.45:111][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.29-18.54.45:111][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-18.54.45:112][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-18.54.45:115][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-18.54.45:115][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.29-18.54.45:116][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.29-18.54.45:116][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-18.54.45:116][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.29-18.54.45:138][  0]LogHAL: Display: Platform has ~ 12 GB [12778500096 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.29-18.54.45:138][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.29-18.54.45:138][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.29-18.54.45:138][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:138][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.29-18.54.45:138][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.29-18.54.45:138][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:138][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.29-18.54.45:138][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:138][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-18.54.45:138][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.29-18.54.45:138][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.29-18.54.45:138][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.29-18.54.45:138][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.29-18.54.45:138][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.29-18.54.45:139][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.29-18.54.45:140][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.29-18.54.45:140][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-18.54.45:140][  0]LogInit: Computer: DESKTOP-991SPGQ
+[2019.05.29-18.54.45:140][  0]LogInit: User: diego
+[2019.05.29-18.54.45:140][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.29-18.54.45:140][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2019.05.29-18.54.45:141][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2019.05.29-18.54.45:141][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.29-18.54.45:141][  0]LogMemory: Process Physical Memory: 104.01 MB used, 104.01 MB peak
+[2019.05.29-18.54.45:141][  0]LogMemory: Process Virtual Memory: 98.29 MB used, 98.29 MB peak
+[2019.05.29-18.54.45:141][  0]LogMemory: Physical Memory: 6976.84 MB used,  5209.69 MB free, 12186.53 MB total
+[2019.05.29-18.54.45:141][  0]LogMemory: Virtual Memory: 4654.97 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.05.29-18.54.45:178][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.05.29-18.54.45:178][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.05.29-18.54.45:626][  0]LogStreaming: Display: Took  0.448s to InitEngineTextLocalization.
+[2019.05.29-18.54.45:626][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.29-18.54.45:684][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.29-18.54.45:684][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.29-18.54.46:125][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-18.54.46:125][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.29-18.54.46:214][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.05.29-18.54.46:214][  0]LogD3D11RHI:       2010/0/6093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.29-18.54.46:226][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.05.29-18.54.46:226][  0]LogD3D11RHI:       128/0/6093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.29-18.54.46:229][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.29-18.54.46:229][  0]LogD3D11RHI:       0/0/6093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.29-18.54.46:229][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.29-18.54.46:275][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.29-18.54.46:275][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.05.29-18.54.46:275][  0]LogWindows: EnumDisplayDevices:
+[2019.05.29-18.54.46:276][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.05.29-18.54.46:276][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.05.29-18.54.46:276][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.05.29-18.54.46:277][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.29-18.54.46:277][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.05.29-18.54.46:277][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.29-18.54.46:277][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.29-18.54.46:277][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.05.29-18.54.46:330][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.29-18.54.46:350][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.29-18.54.46:958][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.29-18.54.46:972][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.29-18.54.46:987][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.29-18.54.47:001][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.29-18.54.47:015][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.29-18.54.47:030][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.29-18.54.47:045][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.29-18.54.47:059][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.29-18.54.47:066][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-18.54.47:174][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.29-18.54.47:264][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-18.54.47:264][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-18.54.47:293][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-18.54.47:293][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-18.54.47:309][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.29-18.54.47:322][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.29-18.54.47:337][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.29-18.54.47:353][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.29-18.54.47:408][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-18.54.47:408][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-18.54.47:408][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.29-18.54.47:471][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Intermediate/Shaders/WorkingDirectory/396/).
+[2019.05.29-18.54.47:471][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/diego/AppData/Local/Temp/UnrealShaderWorkingDir/AD85157747E68942BC2DE894387D1B38/'.
+[2019.05.29-18.54.47:473][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.29-18.54.47:473][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.29-18.54.47:473][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.29-18.54.49:175][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.29-18.54.49:539][  0]LogDerivedDataCache: Loaded boot cache 0.36s 71MB C:/Users/diego/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.29-18.54.49:539][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/diego/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.29-18.54.49:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.29-18.54.49:539][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.29-18.54.49:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-18.54.49:539][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.29-18.54.49:557][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.29-18.54.49:557][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-18.54.49:557][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.29-18.54.49:575][  0]LogDerivedDataCache: Using Local data cache path C:/Users/diego/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.29-18.54.49:575][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.29-18.54.49:575][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.29-18.54.49:604][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.29-18.54.49:605][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.29-18.54.49:607][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.29-18.54.49:890][  0]LogAssetRegistry: FAssetRegistry took 0.0355 seconds to start up
+[2019.05.29-18.54.50:286][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-18.54.50:463][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.29-18.54.50:467][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.29-18.54.50:467][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.29-18.54.50:467][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.29-18.54.50:467][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.29-18.54.50:490][  0]LogNetVersion: CFE_LeapMotion 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1837852655)
+[2019.05.29-18.54.51:157][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.147482 seconds
+[2019.05.29-18.54.51:166][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.29-18.54.51:166][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.29-18.54.51:166][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.29-18.54.58:986][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.29-18.54.59:002][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.29-18.55.01:512][  0]UE4DuinoLog: Warning: UE4Duino: Log Started
+[2019.05.29-18.55.01:707][  0]SourceControl: Source control is disabled
+[2019.05.29-18.55.03:669][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.29-18.55.03:737][  0]LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' (GetLastError=126)
+[2019.05.29-18.55.03:737][  0]LogWindows: File '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' does not exist
+[2019.05.29-18.55.03:737][  0]LeapMotionLog: Leap Plugin started v3.3.1
+[2019.05.29-18.55.03:743][  0]LogOcInput: OculusInput pre-init called
+[2019.05.29-18.55.03:943][  0]LogClass: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly
+[2019.05.29-18.55.03:943][  0]LogClass: Warning: FBodyStateDeviceConfig::InputType is not initialized properly
+[2019.05.29-18.55.03:943][  0]LogClass: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly
+[2019.05.29-18.55.03:943][  0]LogClass: Display: 3 Uninitialized script stuct members found
+[2019.05.29-18.55.03:944][  0]LogAutomationTest: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly
+[2019.05.29-18.55.03:944][  0]LogAutomationTest: Warning: FBodyStateDeviceConfig::InputType is not initialized properly
+[2019.05.29-18.55.03:944][  0]LogAutomationTest: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly
+[2019.05.29-18.55.03:946][  0]LogEngine: Initializing Engine...
+[2019.05.29-18.55.03:947][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-18.55.03:948][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-18.55.03:948][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-18.55.03:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-18.55.03:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-18.55.04:356][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.29-18.55.04:366][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.29-18.55.04:375][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-18.55.04:445][  0]LogInit: FAudioDevice initialized.
+[2019.05.29-18.55.04:445][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.29-18.55.04:869][  0]LogDerivedDataCache: Saved boot cache 0.42s 71MB C:/Users/diego/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.29-18.55.04:894][  0]LogInit: Texture streaming: Enabled
+[2019.05.29-18.55.04:915][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.29-18.55.04:915][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={2C40BFB6-4050-ADE1-FE3B-8CB25BD21524}
+[2019.05.29-18.55.04:935][  0]LogInit: Transaction tracking system initialized
+[2019.05.29-18.55.04:961][  0]BlueprintLog: New page: Editor Load
+[2019.05.29-18.55.05:057][  0]LocalizationService: Localization service is disabled
+[2019.05.29-18.55.05:750][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.29-18.55.05:750][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.29-18.55.05:750][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.29-18.55.05:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-18.55.05:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-18.55.05:751][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-18.55.05:751][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-18.55.06:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/' took 0.02s
+[2019.05.29-18.55.06:173][  0]Cmd: MAP LOAD FILE="C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.29-18.55.06:173][  0]LightingResults: New page: Lighting Build
+[2019.05.29-18.55.06:176][  0]MapCheck: New page: Map Check
+[2019.05.29-18.55.06:176][  0]LightingResults: New page: Lighting Build
+[2019.05.29-18.55.06:398][  0]LogBlueprint: Warning: [Compiler BP_Inventory] Could not find a variable named "rightGrab" in 'LeapDesktopLowPoly_C'.
+Make sure 'LeapDesktopLowPoly_C' has been compiled for  Get rightGrab
+[2019.05.29-18.55.06:398][  0]LogBlueprint: Warning: [Compiler BP_Inventory] Could not find a variable named "leftGrab" in 'LeapDesktopLowPoly_C'.
+Make sure 'LeapDesktopLowPoly_C' has been compiled for  Get leftGrab
+[2019.05.29-18.55.06:398][  0]LogBlueprint: Warning: [Compiler BP_Inventory] Could not find a variable named "rightGrab" in 'LeapDesktopLowPoly_C'.
+Make sure 'LeapDesktopLowPoly_C' has been compiled for  Get rightGrab
+[2019.05.29-18.55.06:398][  0]LogBlueprint: Warning: [Compiler BP_Inventory] Could not find a variable named "leftGrab" in 'LeapDesktopLowPoly_C'.
+Make sure 'LeapDesktopLowPoly_C' has been compiled for  Get leftGrab
+[2019.05.29-18.55.06:417][  0]LogBlueprint: Error: [Compiler BP_Inventory] The property associated with  Right Grab  could not be found in '/Game/BP_Items/Inventory/BP_Inventory.BP_Inventory_C'
+[2019.05.29-18.55.06:417][  0]LogBlueprint: Error: [Compiler BP_Inventory] The property associated with  Right Grab  could not be found in '/Game/BP_Items/Inventory/BP_Inventory.BP_Inventory_C'
+[2019.05.29-18.55.06:417][  0]LogBlueprint: Error: [Compiler BP_Inventory] The property associated with  Left Grab  could not be found in '/Game/BP_Items/Inventory/BP_Inventory.BP_Inventory_C'
+[2019.05.29-18.55.06:417][  0]LogBlueprint: Error: [Compiler BP_Inventory] The property associated with  Left Grab  could not be found in '/Game/BP_Items/Inventory/BP_Inventory.BP_Inventory_C'
+[2019.05.29-18.55.06:431][  0]LogBlueprint: Warning: [Compiler BP_Inventory] [0023.63] Compile of BP_Inventory failed. 4 Fatal Issue(s) 4 Warning(s) [in 49 ms] (/Game/BP_Items/Inventory/BP_Inventory.BP_Inventory)
+[2019.05.29-18.55.07:274][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.29-18.55.07:282][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.29-18.55.07:309][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.29-18.55.07:309][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2019.05.29-18.55.07:309][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.137
+[2019.05.29-18.55.07:548][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-18.55.07:556][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-18.55.07:569][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-18.55.07:581][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-18.55.07:592][  0]LogCollectionManager: Loaded 0 collections in 0.001214 seconds
+[2019.05.29-18.55.07:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Collections/' took 0.01s
+[2019.05.29-18.55.07:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/Developers/diego/Collections/' took 0.00s
+[2019.05.29-18.55.07:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/Collections/' took 0.00s
+[2019.05.29-18.55.07:610][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.29-18.55.07:623][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2666 classes and 631 folders.
+[2019.05.29-18.55.07:628][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-18.55.07:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.07:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-18.55.08:655][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-18.55.08:659][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.29-18.55.08:697][  0]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.29-18.55.08:701][  0]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.29-18.55.08:710][  0]LogSlate: Took 0.000507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.29-18.55.08:820][  0]LogRenderer: Reallocating scene render targets to support 876x436 Format 10 NumSamples 1 (Frame:1).
+[2019.05.29-18.55.08:909][  0]LogSlate: Took 0.028546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-18.55.09:005][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-18.55.09:006][  0]LogLoad: (Engine Initialization) Total time: 26.21 seconds
+[2019.05.29-18.55.09:006][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.29-18.55.09:043][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.29-18.55.09:056][  0]LeapMotionLog: ServiceMessageLoop started.
+[2019.05.29-18.55.09:056][  0]BodyStateLog: BodyState::DeviceAttached: Leap Motion (1)
+[2019.05.29-18.55.09:056][  0]BodyStateLog: BodyState::DeviceAttached: HMD (2)
+[2019.05.29-18.55.09:125][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.29-18.55.09:537][  3]LogAssetRegistry: Asset discovery search completed in 19.6697 seconds
+[2019.05.29-18.55.09:540][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.29-18.55.09:540][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2019.05.29-18.55.20:337][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-18.55.20:402][627]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.29-18.55.20:438][627]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-18.55.20:451][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-18.55.27:519][627]LogSlate: Window 'Message' being destroyed
+[2019.05.29-18.55.27:614][627]PIE: New page: PIE session: Minimal_Default (May 29, 2019, 8:55:27 AM)
+[2019.05.29-18.55.27:685][627]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.05.29-18.55.27:700][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014747s)
+[2019.05.29-18.55.27:701][627]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.29-18.55.27:701][627]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2019.05.29-18.55.27:702][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.016751s)
+[2019.05.29-18.55.27:734][627]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-18.55.27:796][627]LogInit: FAudioDevice initialized.
+[2019.05.29-18.55.27:806][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-18.55.27:930][627]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.05.29-18.55.27:948][627]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.05.29-13.55.27
+[2019.05.29-18.55.27:987][627]LogWorld: Bringing up level for play took: 0.039290
+[2019.05.29-18.55.28:086][627]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.05.29-18.55.28:087][627]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-18.55.28:087][627]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-18.55.28:087][627]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-18.55.28:089][627]LogTemp: Bone cache synced: 20
+[2019.05.29-18.55.28:107][627]LogTemp: Bone cache synced: 0
+[2019.05.29-18.55.28:108][627]LogTemp: Bone cache synced: 20
+[2019.05.29-18.55.28:108][627]LeapMotionLog: AddEventDelegate (1).
+[2019.05.29-18.55.28:273][627]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-18.55.28:280][627]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 7.376
+[2019.05.29-18.55.28:281][627]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-18.55.28:296][627]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:423][627]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2019.05.29-18.55.28:531][628]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:558][629]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:620][630]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:667][631]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:683][632]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:700][633]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:716][634]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:733][635]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:750][636]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:766][637]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:783][638]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:799][639]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:816][640]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:834][641]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:852][642]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:868][643]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:885][644]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:903][645]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:919][646]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:935][647]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:952][648]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:968][649]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.28:986][650]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:002][651]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:019][652]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:036][653]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:052][654]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:069][655]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:085][656]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:102][657]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:118][658]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:135][659]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:152][660]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:169][661]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:185][662]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:202][663]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:219][664]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:235][665]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:252][666]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:269][667]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:286][668]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:302][669]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:319][670]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:335][671]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:352][672]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:369][673]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:384][674]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:401][675]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:418][676]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:434][677]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:451][678]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:468][679]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:485][680]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:502][681]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:520][682]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:536][683]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:553][684]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:569][685]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:585][686]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:602][687]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:619][688]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:635][689]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:652][690]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:669][691]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:685][692]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:702][693]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:718][694]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:735][695]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:752][696]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:769][697]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:786][698]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:802][699]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:818][700]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:836][701]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:852][702]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:869][703]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:885][704]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:902][705]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:937][706]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:942][707]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:959][708]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:977][709]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.29:993][710]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:009][711]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:026][712]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:042][713]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:060][714]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:076][715]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:093][716]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:111][717]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:128][718]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:147][719]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:161][720]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:178][721]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:194][722]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:211][723]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:227][724]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:245][725]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:261][726]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:278][727]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:295][728]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:311][729]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:328][730]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:345][731]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:362][732]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:379][733]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:395][734]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:412][735]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:428][736]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:444][737]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:460][738]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:477][739]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:494][740]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:510][741]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:527][742]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:545][743]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:560][744]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:577][745]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:637][746]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:644][747]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:660][748]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:677][749]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:694][750]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:711][751]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:727][752]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:744][753]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:761][754]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:778][755]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:794][756]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:811][757]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:827][758]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:844][759]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:861][760]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:879][761]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:894][762]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:911][763]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:928][764]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:944][765]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:961][766]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:979][767]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.30:994][768]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:010][769]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:028][770]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:044][771]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:061][772]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:077][773]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:094][774]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:110][775]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:127][776]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:144][777]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:161][778]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:177][779]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:194][780]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:211][781]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:227][782]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:244][783]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:261][784]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:278][785]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:294][786]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:311][787]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:327][788]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:345][789]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:360][790]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:378][791]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:394][792]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:412][793]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:428][794]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:444][795]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:461][796]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:477][797]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:494][798]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:510][799]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:527][800]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:544][801]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:560][802]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:578][803]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:596][804]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:611][805]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:628][806]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:644][807]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:661][808]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:678][809]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.55.31:741][810]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:748][811]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:765][812]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:782][813]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:799][814]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:815][815]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:832][816]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:848][817]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:865][818]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:882][819]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:898][820]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:915][821]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:932][822]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:949][823]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:965][824]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:981][825]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.31:998][826]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:015][827]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:031][828]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:048][829]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:065][830]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:082][831]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:098][832]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:114][833]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:132][834]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:149][835]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:165][836]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:182][837]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:199][838]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:216][839]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:232][840]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:249][841]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:265][842]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:281][843]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:299][844]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:315][845]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:331][846]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:348][847]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:365][848]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:381][849]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:398][850]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:415][851]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:431][852]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:448][853]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:465][854]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:481][855]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:498][856]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:515][857]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:532][858]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:548][859]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:565][860]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:582][861]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:598][862]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:615][863]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:632][864]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:648][865]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:665][866]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:682][867]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:698][868]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:715][869]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:732][870]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:748][871]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:765][872]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:782][873]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:798][874]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:815][875]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:833][876]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:849][877]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:865][878]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:882][879]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:899][880]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:915][881]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:932][882]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:949][883]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:966][884]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:982][885]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.32:998][886]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:015][887]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:031][888]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:048][889]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:065][890]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:083][891]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:098][892]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:115][893]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:132][894]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:149][895]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:166][896]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:181][897]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:198][898]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:215][899]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:231][900]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:248][901]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:265][902]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:281][903]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:298][904]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:315][905]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:331][906]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:348][907]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:365][908]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:382][909]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:399][910]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:416][911]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:432][912]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:448][913]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:465][914]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:482][915]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:499][916]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:519][917]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:540][918]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:556][919]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:573][920]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:591][921]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:607][922]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:627][923]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:646][924]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:666][925]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:686][926]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:703][927]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:722][928]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:742][929]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:761][930]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:781][931]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:800][932]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:822][933]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:845][934]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:864][935]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:883][936]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:903][937]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:922][938]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:942][939]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:961][940]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.33:982][941]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:001][942]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:021][943]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:040][944]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:061][945]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:081][946]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:100][947]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:121][948]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:139][949]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:159][950]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:182][951]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:205][952]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:222][953]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:241][954]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:260][955]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:280][956]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:300][957]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:320][958]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:339][959]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:359][960]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:378][961]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:398][962]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:418][963]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:438][964]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:457][965]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:477][966]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:496][967]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:519][968]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:539][969]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:558][970]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:578][971]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:597][972]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:617][973]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:638][974]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:657][975]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:676][976]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:696][977]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:716][978]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:738][979]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:756][980]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:776][981]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:797][982]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:816][983]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:837][984]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:860][985]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:880][986]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:899][987]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:919][988]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:940][989]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:958][990]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:977][991]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.34:997][992]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:017][993]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:037][994]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:056][995]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:075][996]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:096][997]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:115][998]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:135][999]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:156][  0]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:180][  1]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:198][  2]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:217][  3]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:237][  4]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:256][  5]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:276][  6]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:296][  7]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:315][  8]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:336][  9]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:355][ 10]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:374][ 11]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:394][ 12]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:413][ 13]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:433][ 14]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:454][ 15]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:472][ 16]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:492][ 17]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:512][ 18]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:535][ 19]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:555][ 20]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:575][ 21]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:594][ 22]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:613][ 23]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:633][ 24]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:653][ 25]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:673][ 26]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:692][ 27]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:712][ 28]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:732][ 29]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:752][ 30]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:771][ 31]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:791][ 32]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:810][ 33]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:830][ 34]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:850][ 35]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:872][ 36]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:893][ 37]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:912][ 38]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:933][ 39]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:954][ 40]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:972][ 41]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.35:992][ 42]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:012][ 43]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:033][ 44]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:053][ 45]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:072][ 46]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:091][ 47]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:111][ 48]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:132][ 49]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:154][ 50]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:173][ 51]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:197][ 52]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:218][ 53]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:238][ 54]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:258][ 55]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:278][ 56]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:298][ 57]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:318][ 58]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:338][ 59]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:357][ 60]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:377][ 61]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:396][ 62]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:417][ 63]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:437][ 64]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:456][ 65]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:476][ 66]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:495][ 67]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:515][ 68]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:537][ 69]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:558][ 70]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:576][ 71]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:596][ 72]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:616][ 73]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:636][ 74]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:655][ 75]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:674][ 76]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:694][ 77]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:714][ 78]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:734][ 79]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:754][ 80]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:773][ 81]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:793][ 82]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:813][ 83]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:833][ 84]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:853][ 85]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:875][ 86]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:895][ 87]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:914][ 88]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:935][ 89]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:954][ 90]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:974][ 91]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.36:993][ 92]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:013][ 93]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:032][ 94]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:052][ 95]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:072][ 96]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:091][ 97]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:111][ 98]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:131][ 99]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:151][100]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:170][101]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:189][102]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:212][103]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:232][104]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:253][105]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:272][106]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:291][107]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:311][108]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:330][109]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:350][110]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:370][111]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:390][112]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:409][113]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:429][114]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:448][115]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:468][116]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:487][117]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:508][118]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:527][119]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:550][120]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:572][121]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:593][122]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:612][123]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:631][124]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:652][125]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:671][126]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:690][127]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:710][128]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:730][129]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:749][130]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:770][131]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:789][132]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:808][133]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:829][134]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:849][135]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:871][136]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:891][137]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:912][138]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:930][139]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:950][140]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:971][141]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.37:990][142]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.38:010][143]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.38:031][144]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.38:050][145]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.38:070][146]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.38:089][147]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.38:129][148]LogTemp: Error: Failed to setup port COM5. Error: 00000006
+[2019.05.29-18.55.38:130][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-18.55.38:142][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-18.55.38:174][148]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.29-18.55.38:288][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-18.55.38:288][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-18.55.38:355][149]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.05.29-18.55.47:880][520]LogSlate: Took 0.008674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-18.55.47:897][520]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Inventory/BP_Inventory.BP_Inventory
+[2019.05.29-18.55.48:923][520]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.05.29-18.55.50:607][520]LogSlate: Took 0.028689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.29-18.55.50:963][521]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.29-18.56.03:650][244]BlueprintLog: New page: Compile BP_Inventory
+[2019.05.29-18.56.03:691][244]LogBlueprint: Warning: [Compiler BP_Inventory] Could not find a variable named "rightGrab" in 'LeapDesktopLowPoly_C'.
+Make sure 'LeapDesktopLowPoly_C' has been compiled for  Get rightGrab
+[2019.05.29-18.56.03:691][244]LogBlueprint: Warning: [Compiler BP_Inventory] Could not find a variable named "leftGrab" in 'LeapDesktopLowPoly_C'.
+Make sure 'LeapDesktopLowPoly_C' has been compiled for  Get leftGrab
+[2019.05.29-18.56.03:691][244]LogBlueprint: Warning: [Compiler BP_Inventory] Could not find a variable named "rightGrab" in 'LeapDesktopLowPoly_C'.
+Make sure 'LeapDesktopLowPoly_C' has been compiled for  Get rightGrab
+[2019.05.29-18.56.03:691][244]LogBlueprint: Warning: [Compiler BP_Inventory] Could not find a variable named "leftGrab" in 'LeapDesktopLowPoly_C'.
+Make sure 'LeapDesktopLowPoly_C' has been compiled for  Get leftGrab
+[2019.05.29-18.56.03:692][244]LogBlueprint: Error: [Compiler BP_Inventory] This blueprint (self) is not a LeapDesktopLowPoly_C, therefore ' Target ' must have a connection.
+[2019.05.29-18.56.03:693][244]LogBlueprint: Error: [Compiler BP_Inventory] This blueprint (self) is not a LeapDesktopLowPoly_C, therefore ' Target ' must have a connection.
+[2019.05.29-18.56.03:693][244]LogBlueprint: Error: [Compiler BP_Inventory] This blueprint (self) is not a LeapDesktopLowPoly_C, therefore ' Target ' must have a connection.
+[2019.05.29-18.56.03:693][244]LogBlueprint: Error: [Compiler BP_Inventory] This blueprint (self) is not a LeapDesktopLowPoly_C, therefore ' Target ' must have a connection.
+[2019.05.29-18.56.03:693][244]LogBlueprint: Error: [Compiler BP_Inventory] Variable node  Get leftGrab  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.05.29-18.56.03:693][244]LogBlueprint: Error: [Compiler BP_Inventory] The property associated with  Left Grab  could not be found in '/Game/BP_Items/Inventory/BP_Inventory.BP_Inventory_C'
+[2019.05.29-18.56.03:693][244]LogBlueprint: Error: [Compiler BP_Inventory] Variable node  Get rightGrab  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.05.29-18.56.03:693][244]LogBlueprint: Error: [Compiler BP_Inventory] The property associated with  Right Grab  could not be found in '/Game/BP_Items/Inventory/BP_Inventory.BP_Inventory_C'
+[2019.05.29-18.56.03:693][244]LogBlueprint: Error: [Compiler BP_Inventory] Variable node  Get leftGrab  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.05.29-18.56.03:693][244]LogBlueprint: Error: [Compiler BP_Inventory] The property associated with  Left Grab  could not be found in '/Game/BP_Items/Inventory/BP_Inventory.BP_Inventory_C'
+[2019.05.29-18.56.03:693][244]LogBlueprint: Error: [Compiler BP_Inventory] Variable node  Get rightGrab  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.05.29-18.56.03:693][244]LogBlueprint: Error: [Compiler BP_Inventory] The property associated with  Right Grab  could not be found in '/Game/BP_Items/Inventory/BP_Inventory.BP_Inventory_C'
+[2019.05.29-18.56.04:183][244]LogBlueprint: Warning: [Compiler BP_Inventory] [0081.39] Compile of BP_Inventory failed. 12 Fatal Issue(s) 4 Warning(s) [in 533 ms] (/Game/BP_Items/Inventory/BP_Inventory.BP_Inventory)
+[2019.05.29-18.56.04:830][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Inventory/BP_Inventory" FILE="C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Inventory/BP_Inventory.uasset" SILENT=true
+[2019.05.29-18.56.05:042][251]LogSavePackage: Moving 'C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_InventoryD6321B384B8CBE69FFF86BBAB635BBAA.tmp' to 'C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Inventory/BP_Inventory.uasset'
+[2019.05.29-18.56.10:417][533]BlueprintLog: New page: Compile BP_Inventory
+[2019.05.29-18.56.11:485][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Inventory/BP_Inventory" FILE="C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Inventory/BP_Inventory.uasset" SILENT=true
+[2019.05.29-18.56.11:591][558]LogSavePackage: Moving 'C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Inventory5564575A46C8DADAB258419EE37BBAAB.tmp' to 'C:/Users/diego/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Inventory/BP_Inventory.uasset'
+[2019.05.29-18.56.13:525][673]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.29-18.56.13:556][673]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-18.56.13:556][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-18.56.13:556][673]PIE: New page: PIE session: Minimal_Default (May 29, 2019, 8:56:13 AM)
+[2019.05.29-18.56.13:556][673]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.05.29-18.56.13:563][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006388s)
+[2019.05.29-18.56.13:564][673]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.29-18.56.13:564][673]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2019.05.29-18.56.13:564][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007481s)
+[2019.05.29-18.56.13:595][673]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-18.56.13:658][673]LogInit: FAudioDevice initialized.
+[2019.05.29-18.56.13:665][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-18.56.13:735][673]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.05.29-18.56.13:737][673]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.05.29-13.56.13
+[2019.05.29-18.56.13:737][673]LogWorld: Bringing up level for play took: 0.001449
+[2019.05.29-18.56.13:750][673]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-18.56.13:750][673]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-18.56.13:750][673]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-18.56.13:750][673]LogTemp: Bone cache synced: 20
+[2019.05.29-18.56.13:751][673]LogTemp: Bone cache synced: 0
+[2019.05.29-18.56.13:751][673]LogTemp: Bone cache synced: 20
+[2019.05.29-18.56.13:751][673]LeapMotionLog: AddEventDelegate (1).
+[2019.05.29-18.56.13:771][673]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-18.56.13:773][673]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.869
+[2019.05.29-18.56.13:773][673]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-18.56.13:774][673]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.13:901][674]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.13:918][675]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.13:935][676]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.13:951][677]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.13:967][678]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.13:983][679]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:000][680]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:017][681]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:035][682]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:050][683]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:067][684]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:084][685]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:100][686]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:117][687]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:134][688]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:151][689]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:167][690]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:187][691]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:201][692]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:218][693]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:234][694]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:251][695]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:268][696]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:284][697]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:301][698]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:317][699]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:333][700]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:350][701]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:367][702]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:385][703]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:400][704]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:417][705]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:434][706]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:450][707]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:468][708]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:484][709]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:501][710]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:518][711]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:534][712]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:551][713]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:568][714]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:585][715]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:601][716]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:618][717]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:634][718]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:651][719]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:668][720]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:684][721]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:701][722]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:718][723]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:734][724]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:751][725]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:768][726]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:784][727]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:801][728]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:818][729]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:834][730]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:851][731]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:868][732]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:884][733]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:901][734]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:918][735]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:934][736]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:951][737]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:968][738]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.14:985][739]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:001][740]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:019][741]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:034][742]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:051][743]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:068][744]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:084][745]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:100][746]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:117][747]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:134][748]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:150][749]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:167][750]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:184][751]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:201][752]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:217][753]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:234][754]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:251][755]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:268][756]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:284][757]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:301][758]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:319][759]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:334][760]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:351][761]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:369][762]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:385][763]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:401][764]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:420][765]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:434][766]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:451][767]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:467][768]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:484][769]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:501][770]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:518][771]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:534][772]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:551][773]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:568][774]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:584][775]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:601][776]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:618][777]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:634][778]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:651][779]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:668][780]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:685][781]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:700][782]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:717][783]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:734][784]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:750][785]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:767][786]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:784][787]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:801][788]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:817][789]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:834][790]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:851][791]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:868][792]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:884][793]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:901][794]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:918][795]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:934][796]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:951][797]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:967][798]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.15:984][799]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:001][800]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:018][801]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:034][802]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:051][803]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:068][804]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:084][805]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:101][806]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:118][807]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:134][808]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:151][809]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:169][810]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:184][811]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:201][812]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:218][813]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:235][814]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:251][815]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:267][816]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:284][817]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:302][818]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:319][819]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:335][820]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:351][821]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:367][822]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:384][823]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:401][824]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:418][825]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:434][826]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:450][827]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:467][828]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:484][829]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:501][830]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:517][831]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:535][832]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:551][833]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:567][834]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:584][835]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:601][836]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:618][837]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:641][838]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:661][839]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:683][840]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:702][841]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:724][842]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:745][843]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:768][844]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:792][845]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:813][846]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:833][847]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:851][848]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:873][849]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:894][850]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:916][851]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:937][852]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:958][853]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.16:979][854]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:000][855]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:021][856]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:044][857]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:065][858]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:089][859]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:111][860]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:133][861]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:154][862]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:175][863]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:197][864]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:220][865]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:239][866]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:261][867]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:284][868]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:304][869]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:325][870]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:347][871]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:370][872]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:391][873]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:411][874]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:436][875]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:457][876]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:480][877]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:500][878]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:521][879]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:543][880]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:562][881]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:582][882]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:602][883]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:623][884]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:643][885]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:663][886]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:683][887]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:703][888]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:724][889]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:744][890]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:768][891]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:789][892]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:809][893]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:829][894]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:850][895]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:871][896]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:892][897]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:915][898]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:937][899]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:955][900]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:975][901]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.17:996][902]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:018][903]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:037][904]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:058][905]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:079][906]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:103][907]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:127][908]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:151][909]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:169][910]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:189][911]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:210][912]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:232][913]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:253][914]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:273][915]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:293][916]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:317][917]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:334][918]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:355][919]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:377][920]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:399][921]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:424][922]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:443][923]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:462][924]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:483][925]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:505][926]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:526][927]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:549][928]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:568][929]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:591][930]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:611][931]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:634][932]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:652][933]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:673][934]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:694][935]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:717][936]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:736][937]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:757][938]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:781][939]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:803][940]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:823][941]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:843][942]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:866][943]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:885][944]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:906][945]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:927][946]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:949][947]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:969][948]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.18:990][949]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:011][950]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:033][951]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:054][952]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:074][953]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:098][954]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:120][955]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:139][956]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:160][957]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:182][958]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:201][959]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:222][960]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:243][961]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:266][962]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:288][963]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:306][964]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:327][965]LogTemp: Error: Failed to setup port COM0. Error: 00000006
+[2019.05.29-18.56.19:329][965]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-18.56.19:330][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-18.56.19:363][965]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.29-18.56.19:417][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-18.56.19:417][965]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-18.56.19:537][966]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.29-18.56.28:899][473]LogAssetEditorManager: Opening Asset editor for Blueprint /LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly
+[2019.05.29-18.56.29:254][473]LogTemp: Bone cache synced: 20
+[2019.05.29-18.56.29:255][473]LogTemp: Bone cache synced: 0
+[2019.05.29-18.56.29:255][473]LogTemp: Bone cache synced: 20
+[2019.05.29-18.58.23:849][640]LogSlate: Window 'Save Content' being destroyed
+[2019.05.29-18.58.24:140][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.29-18.58.24:192][640]LogSlate: Window 'CFE_LeapMotion - Unreal Editor' being destroyed
+[2019.05.29-18.58.24:503][641]Cmd: QUIT_EDITOR
+[2019.05.29-18.58.24:870][641]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.29-18.58.24:950][641]LogExit: Preparing to exit.
+[2019.05.29-18.58.25:433][641]LogExit: Editor shut down
+[2019.05.29-18.58.25:434][641]LogExit: Transaction tracking system shut down
+[2019.05.29-18.58.26:478][641]LogExit: Object subsystem successfully closed.
+[2019.05.29-18.58.26:524][641]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.29-18.58.26:544][641]LogD3D11RHI: Shutdown
+[2019.05.29-18.58.26:544][641]LogD3D11RHI: CleanupD3DDevice
+[2019.05.29-18.58.26:642][641]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.29-18.58.27:569][641]LogModuleManager: Shutting down and abandoning module BlueprintGraph (636)
+[2019.05.29-18.58.27:569][641]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (634)
+[2019.05.29-18.58.27:569][641]LogModuleManager: Shutting down and abandoning module Voice (632)
+[2019.05.29-18.58.27:575][641]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (630)
+[2019.05.29-18.58.27:575][641]LogModuleManager: Shutting down and abandoning module SceneOutliner (628)
+[2019.05.29-18.58.27:576][641]LogModuleManager: Shutting down and abandoning module AddContentDialog (626)
+[2019.05.29-18.58.27:584][641]LogModuleManager: Shutting down and abandoning module WidgetCarousel (625)
+[2019.05.29-18.58.27:584][641]LogModuleManager: Shutting down and abandoning module EditorWidgets (622)
+[2019.05.29-18.58.27:584][641]LogModuleManager: Shutting down and abandoning module CollectionManager (620)
+[2019.05.29-18.58.27:593][641]LogModuleManager: Shutting down and abandoning module StatsViewer (618)
+[2019.05.29-18.58.27:598][641]LogModuleManager: Shutting down and abandoning module FoliageEdit (616)
+[2019.05.29-18.58.27:608][641]LogModuleManager: Shutting down and abandoning module LandscapeEditor (614)
+[2019.05.29-18.58.27:647][641]LogModuleManager: Shutting down and abandoning module MeshPaintMode (612)
+[2019.05.29-18.58.27:657][641]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (610)
+[2019.05.29-18.58.27:657][641]LogModuleManager: Shutting down and abandoning module ActorPickerMode (608)
+[2019.05.29-18.58.27:657][641]LogModuleManager: Shutting down and abandoning module GeometryMode (606)
+[2019.05.29-18.58.27:657][641]LogModuleManager: Shutting down and abandoning module TextureAlignMode (604)
+[2019.05.29-18.58.27:657][641]LogModuleManager: Shutting down and abandoning module BspMode (602)
+[2019.05.29-18.58.27:657][641]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (600)
+[2019.05.29-18.58.27:666][641]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (598)
+[2019.05.29-18.58.27:672][641]LogModuleManager: Shutting down and abandoning module AutomationWorker (596)
+[2019.05.29-18.58.27:673][641]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (594)
+[2019.05.29-18.58.27:673][641]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (592)
+[2019.05.29-18.58.27:682][641]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (590)
+[2019.05.29-18.58.27:720][641]LogModuleManager: Shutting down and abandoning module PlacementMode (589)
+[2019.05.29-18.58.27:720][641]LogModuleManager: Shutting down and abandoning module MaterialEditor (588)
+[2019.05.29-18.58.27:750][641]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (584)
+[2019.05.29-18.58.27:750][641]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (582)
+[2019.05.29-18.58.27:750][641]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (580)
+[2019.05.29-18.58.27:750][641]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (578)
+[2019.05.29-18.58.27:750][641]LogModuleManager: Shutting down and abandoning module WebMMedia (576)
+[2019.05.29-18.58.27:756][641]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (574)
+[2019.05.29-18.58.27:756][641]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (572)
+[2019.05.29-18.58.27:780][641]LogModuleManager: Shutting down and abandoning module SequenceRecorder (571)
+[2019.05.29-18.58.27:780][641]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (568)
+[2019.05.29-18.58.27:780][641]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (566)
+[2019.05.29-18.58.27:780][641]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (564)
+[2019.05.29-18.58.27:780][641]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (562)
+[2019.05.29-18.58.27:780][641]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (560)
+[2019.05.29-18.58.27:780][641]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (558)
+[2019.05.29-18.58.27:780][641]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (556)
+[2019.05.29-18.58.27:780][641]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (554)
+[2019.05.29-18.58.27:780][641]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (552)
+[2019.05.29-18.58.27:781][641]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (550)
+[2019.05.29-18.58.27:781][641]LogModuleManager: Shutting down and abandoning module CharacterAI (548)
+[2019.05.29-18.58.27:781][641]LogModuleManager: Shutting down and abandoning module SmartSnapping (546)
+[2019.05.29-18.58.27:781][641]LogModuleManager: Shutting down and abandoning module SessionServices (544)
+[2019.05.29-18.58.27:781][641]LogModuleManager: Shutting down and abandoning module ViewportSnapping (542)
+[2019.05.29-18.58.27:781][641]LogModuleManager: Shutting down and abandoning module ViewportInteraction (540)
+[2019.05.29-18.58.27:781][641]LogModuleManager: Shutting down and abandoning module ClothPainter (538)
+[2019.05.29-18.58.27:814][641]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (537)
+[2019.05.29-18.58.27:868][641]LogModuleManager: Shutting down and abandoning module LogVisualizer (534)
+[2019.05.29-18.58.27:869][641]LogModuleManager: Shutting down and abandoning module IntroTutorials (532)
+[2019.05.29-18.58.27:908][641]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (531)
+[2019.05.29-18.58.27:908][641]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (528)
+[2019.05.29-18.58.27:909][641]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (526)
+[2019.05.29-18.58.27:909][641]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (524)
+[2019.05.29-18.58.27:909][641]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (522)
+[2019.05.29-18.58.27:909][641]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (521)
+[2019.05.29-18.58.28:533][641]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (518)
+[2019.05.29-18.58.28:533][641]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (516)
+[2019.05.29-18.58.28:533][641]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (514)
+[2019.05.29-18.58.28:533][641]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (512)
+[2019.05.29-18.58.28:533][641]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (510)
+[2019.05.29-18.58.28:534][641]LogModuleManager: Shutting down and abandoning module InputBindingEditor (508)
+[2019.05.29-18.58.28:565][641]LogModuleManager: Shutting down and abandoning module MergeActors (506)
+[2019.05.29-18.58.28:573][641]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (504)
+[2019.05.29-18.58.28:585][641]LogModuleManager: Shutting down and abandoning module LocalizationService (503)
+[2019.05.29-18.58.28:585][641]LogModuleManager: Shutting down and abandoning module HardwareTargeting (500)
+[2019.05.29-18.58.28:585][641]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (498)
+[2019.05.29-18.58.28:595][641]LogModuleManager: Shutting down and abandoning module UndoHistory (496)
+[2019.05.29-18.58.28:596][641]LogModuleManager: Shutting down and abandoning module XmlParser (494)
+[2019.05.29-18.58.28:596][641]LogModuleManager: Shutting down and abandoning module Blutility (492)
+[2019.05.29-18.58.28:603][641]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (490)
+[2019.05.29-18.58.28:603][641]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (489)
+[2019.05.29-18.58.28:603][641]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (486)
+[2019.05.29-18.58.28:603][641]LogModuleManager: Shutting down and abandoning module SettingsEditor (484)
+[2019.05.29-18.58.28:603][641]LogModuleManager: Shutting down and abandoning module ProjectLauncher (482)
+[2019.05.29-18.58.28:615][641]LogModuleManager: Shutting down and abandoning module SessionFrontend (480)
+[2019.05.29-18.58.28:615][641]LogModuleManager: Shutting down and abandoning module ProfilerClient (478)
+[2019.05.29-18.58.28:615][641]LogModuleManager: Shutting down and abandoning module DeviceManager (476)
+[2019.05.29-18.58.28:626][641]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (475)
+[2019.05.29-18.58.28:680][641]LogModuleManager: Shutting down and abandoning module AutomationController (472)
+[2019.05.29-18.58.28:726][641]LogModuleManager: Shutting down and abandoning module AutomationWindow (470)
+[2019.05.29-18.58.28:743][641]LogModuleManager: Shutting down and abandoning module Layers (468)
+[2019.05.29-18.58.28:756][641]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (466)
+[2019.05.29-18.58.28:756][641]LogModuleManager: Shutting down and abandoning module DetailCustomizations (464)
+[2019.05.29-18.58.28:756][641]LogModuleManager: Shutting down and abandoning module PackagesDialog (462)
+[2019.05.29-18.58.28:756][641]LogModuleManager: Shutting down and abandoning module Persona (460)
+[2019.05.29-18.58.28:756][641]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (459)
+[2019.05.29-18.58.28:756][641]LogModuleManager: Shutting down and abandoning module AnimGraph (457)
+[2019.05.29-18.58.28:756][641]LogModuleManager: Shutting down and abandoning module Kismet (454)
+[2019.05.29-18.58.28:765][641]LogModuleManager: Shutting down and abandoning module GraphEditor (452)
+[2019.05.29-18.58.28:765][641]LogModuleManager: Shutting down and abandoning module ClassViewer (450)
+[2019.05.29-18.58.28:765][641]LogModuleManager: Shutting down and abandoning module Toolbox (448)
+[2019.05.29-18.58.28:765][641]LogModuleManager: Shutting down and abandoning module ModuleUI (446)
+[2019.05.29-18.58.28:776][641]LogModuleManager: Shutting down and abandoning module MovieSceneTools (444)
+[2019.05.29-18.58.28:777][641]LogModuleManager: Shutting down and abandoning module OutputLog (442)
+[2019.05.29-18.58.28:777][641]LogModuleManager: Shutting down and abandoning module GammaUI (440)
+[2019.05.29-18.58.28:783][641]LogModuleManager: Shutting down and abandoning module Documentation (438)
+[2019.05.29-18.58.28:783][641]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (436)
+[2019.05.29-18.58.28:783][641]LogModuleManager: Shutting down and abandoning module MovieScene (434)
+[2019.05.29-18.58.28:796][641]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (432)
+[2019.05.29-18.58.28:808][641]LogModuleManager: Shutting down and abandoning module LauncherPlatform (430)
+[2019.05.29-18.58.28:808][641]LogModuleManager: Shutting down and abandoning module AnalyticsET (428)
+[2019.05.29-18.58.28:808][641]LogModuleManager: Shutting down and abandoning module PortalServices (426)
+[2019.05.29-18.58.28:808][641]LogModuleManager: Shutting down and abandoning module PortalRpc (424)
+[2019.05.29-18.58.28:808][641]LogModuleManager: Shutting down and abandoning module MessagingRpc (422)
+[2019.05.29-18.58.28:808][641]LogModuleManager: Shutting down and abandoning module AIModule (420)
+[2019.05.29-18.58.28:808][641]LogModuleManager: Shutting down and abandoning module GameplayDebugger (419)
+[2019.05.29-18.58.28:808][641]LogModuleManager: Shutting down and abandoning module AITestSuite (417)
+[2019.05.29-18.58.28:808][641]LogModuleManager: Shutting down and abandoning module NavigationSystem (415)
+[2019.05.29-18.58.28:808][641]LogModuleManager: Shutting down and abandoning module DesktopPlatform (412)
+[2019.05.29-18.58.28:808][641]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.05.29-18.58.28:813][641]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.05.29-18.58.28:984][641]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.05.29-18.58.29:003][641]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.05.29-18.58.29:003][641]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.05.29-18.58.29:003][641]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.05.29-18.58.29:014][641]LogModuleManager: Shutting down and abandoning module OculusInput (398)
+[2019.05.29-18.58.29:014][641]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (396)
+[2019.05.29-18.58.29:014][641]LogModuleManager: Shutting down and abandoning module LeapMotion (394)
+[2019.05.29-18.58.29:014][641]LeapMotionLog: Leap Plugin shutdown.
+[2019.05.29-18.58.29:014][641]BodyStateLog: Id: 1
+[2019.05.29-18.58.29:014][641]LogUObjectArray: Warning: Empty slot
+[2019.05.29-18.58.29:014][641]BodyStateLog: BodyState::Device Detached: Leap Motion (1)
+[2019.05.29-18.58.29:014][641]LeapMotionLog: Attempt at closing an already closed connection.
+[2019.05.29-18.58.29:014][641]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.05.29-18.58.29:020][641]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.05.29-18.58.29:020][641]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.05.29-18.58.29:029][641]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.05.29-18.58.29:029][641]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.05.29-18.58.29:029][641]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.05.29-18.58.29:029][641]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.05.29-18.58.29:029][641]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.05.29-18.58.29:044][641]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.05.29-18.58.29:044][641]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.05.29-18.58.29:044][641]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.05.29-18.58.29:050][641]LogModuleManager: Shutting down and abandoning module HTML5Networking (370)
+[2019.05.29-18.58.29:050][641]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (368)
+[2019.05.29-18.58.29:050][641]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (366)
+[2019.05.29-18.58.29:050][641]LogModuleManager: Shutting down and abandoning module BackChannel (364)
+[2019.05.29-18.58.29:058][641]LogModuleManager: Shutting down and abandoning module AppleVision (362)
+[2019.05.29-18.58.29:058][641]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (360)
+[2019.05.29-18.58.29:058][641]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2019.05.29-18.58.29:058][641]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2019.05.29-18.58.29:058][641]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2019.05.29-18.58.29:058][641]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2019.05.29-18.58.29:058][641]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2019.05.29-18.58.29:058][641]LogModuleManager: Shutting down and abandoning module VariantManagerContent (348)
+[2019.05.29-18.58.29:058][641]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2019.05.29-18.58.29:067][641]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2019.05.29-18.58.29:067][641]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2019.05.29-18.58.29:082][641]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2019.05.29-18.58.29:082][641]LogModuleManager: Shutting down and abandoning module PolygonModeling (338)
+[2019.05.29-18.58.29:082][641]LogModuleManager: Shutting down and abandoning module MeshEditor (336)
+[2019.05.29-18.58.29:093][641]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (334)
+[2019.05.29-18.58.29:104][641]LogModuleManager: Shutting down and abandoning module CryptoKeys (332)
+[2019.05.29-18.58.29:104][641]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (330)
+[2019.05.29-18.58.29:104][641]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (328)
+[2019.05.29-18.58.29:104][641]LogModuleManager: Shutting down and abandoning module UObjectPlugin (326)
+[2019.05.29-18.58.29:104][641]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (324)
+[2019.05.29-18.58.29:104][641]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (322)
+[2019.05.29-18.58.29:122][641]LogModuleManager: Shutting down and abandoning module GitSourceControl (320)
+[2019.05.29-18.58.29:122][641]LogModuleManager: Shutting down and abandoning module SourceControl (319)
+[2019.05.29-18.58.29:122][641]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2019.05.29-18.58.29:133][641]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (314)
+[2019.05.29-18.58.29:133][641]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (312)
+[2019.05.29-18.58.29:133][641]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2019.05.29-18.58.29:133][641]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2019.05.29-18.58.29:133][641]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2019.05.29-18.58.29:133][641]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2019.05.29-18.58.29:133][641]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2019.05.29-18.58.29:140][641]LogModuleManager: Shutting down and abandoning module UE4Duino (300)
+[2019.05.29-18.58.29:140][641]UE4DuinoLog: Warning: UE4Duino: Log Ended
+[2019.05.29-18.58.29:140][641]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.05.29-18.58.29:140][641]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.05.29-18.58.29:140][641]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.05.29-18.58.29:140][641]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.05.29-18.58.29:150][641]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.05.29-18.58.29:150][641]LogModuleManager: Shutting down and abandoning module BodyState (288)
+[2019.05.29-18.58.29:150][641]BodyStateLog: Id: 2
+[2019.05.29-18.58.29:150][641]LogUObjectArray: Warning: Empty slot
+[2019.05.29-18.58.29:150][641]BodyStateLog: BodyState::Device Detached: HMD (0)
+[2019.05.29-18.58.29:150][641]LogUObjectArray: Warning: Empty slot
+[2019.05.29-18.58.29:150][641]LogModuleManager: Shutting down and abandoning module LeapMotionEditor (286)
+[2019.05.29-18.58.29:150][641]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.29-18.58.29:150][641]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.29-18.58.29:251][641]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.29-18.58.29:397][641]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.29-18.58.29:397][641]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.29-18.58.29:435][641]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.29-18.58.29:435][641]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.29-18.58.29:435][641]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.29-18.58.29:435][641]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.29-18.58.29:449][641]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.29-18.58.29:570][641]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.29-18.58.29:617][641]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.29-18.58.29:617][641]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.29-18.58.29:617][641]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.29-18.58.29:651][641]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.29-18.58.29:653][641]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.29-18.58.29:688][641]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.29-18.58.29:688][641]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.29-18.58.29:688][641]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.29-18.58.29:721][641]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.29-18.58.29:721][641]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.05.29-18.58.29:721][641]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.05.29-18.58.29:757][641]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.05.29-18.58.29:764][641]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.05.29-18.58.29:764][641]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.05.29-18.58.29:764][641]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.05.29-18.58.29:798][641]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.05.29-18.58.29:798][641]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.05.29-18.58.29:798][641]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.05.29-18.58.29:798][641]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.05.29-18.58.29:876][641]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.05.29-18.58.29:891][641]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.05.29-18.58.29:891][641]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.05.29-18.58.29:918][641]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.05.29-18.58.29:918][641]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.05.29-18.58.29:929][641]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.05.29-18.58.29:929][641]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.05.29-18.58.29:929][641]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.05.29-18.58.29:968][641]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.05.29-18.58.30:136][641]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.05.29-18.58.30:136][641]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.05.29-18.58.30:230][641]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.05.29-18.58.30:230][641]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.05.29-18.58.30:232][641]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.05.29-18.58.30:264][641]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.05.29-18.58.30:264][641]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.05.29-18.58.30:264][641]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.05.29-18.58.30:264][641]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.05.29-18.58.30:264][641]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.05.29-18.58.30:264][641]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.05.29-18.58.30:264][641]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.05.29-18.58.30:264][641]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.05.29-18.58.30:264][641]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.05.29-18.58.30:339][641]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.05.29-18.58.30:339][641]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.05.29-18.58.30:378][641]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.05.29-18.58.30:425][641]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.05.29-18.58.30:425][641]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.05.29-18.58.30:436][641]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.05.29-18.58.30:470][641]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.05.29-18.58.30:470][641]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.05.29-18.58.30:531][641]LogDerivedDataCache: Shutdown
+[2019.05.29-18.58.30:531][641]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.05.29-18.58.30:531][641]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.05.29-18.58.30:531][641]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.05.29-18.58.30:568][641]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.05.29-18.58.30:606][641]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.05.29-18.58.30:609][641]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.05.29-18.58.30:609][641]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.05.29-18.58.30:658][641]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.05.29-18.58.30:658][641]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.05.29-18.58.30:658][641]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.05.29-18.58.30:658][641]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.05.29-18.58.30:664][641]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.05.29-18.58.30:664][641]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.05.29-18.58.30:664][641]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.05.29-18.58.30:664][641]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.05.29-18.58.30:664][641]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.05.29-18.58.30:664][641]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.05.29-18.58.30:664][641]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.05.29-18.58.30:670][641]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.05.29-18.58.30:670][641]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.05.29-18.58.30:670][641]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.05.29-18.58.30:670][641]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.05.29-18.58.30:670][641]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.05.29-18.58.30:678][641]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.05.29-18.58.30:678][641]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.05.29-18.58.30:679][641]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.05.29-18.58.30:679][641]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.05.29-18.58.30:685][641]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.05.29-18.58.30:685][641]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.05.29-18.58.30:685][641]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.05.29-18.58.30:685][641]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.05.29-18.58.30:685][641]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.05.29-18.58.30:685][641]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.05.29-18.58.30:685][641]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.05.29-18.58.30:685][641]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.05.29-18.58.30:685][641]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.05.29-18.58.30:685][641]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.05.29-18.58.30:685][641]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.05.29-18.58.30:686][641]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.05.29-18.58.30:686][641]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.05.29-18.58.30:697][641]LogHMD: Freeing OpenVRDLLHandle.
+[2019.05.29-18.58.30:697][641]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.05.29-18.58.30:708][641]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.05.29-18.58.30:708][641]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.05.29-18.58.30:708][641]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.05.29-18.58.30:708][641]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.05.29-18.58.30:751][641]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.05.29-18.58.30:851][641]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.05.29-18.58.30:898][641]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.05.29-18.58.30:898][641]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.29-18.58.30:898][641]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9BEDEC39-424F-0F0F-A670-4CB7136BE5A3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=fbf3ab684b879c99d028bbaddddbf163%7C7d01047c186743739f24d6603d4a1d30%7Ce7308b59-2e6c-4e9c-b171-f07fbc57087a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.29-18.58.30:904][641]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.05.29-18.58.30:906][641]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.05.29-18.58.30:906][641]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.05.29-18.58.30:906][641]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.05.29-18.58.30:906][641]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.05.29-18.58.30:906][641]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.05.29-18.58.30:906][641]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.05.29-18.58.30:906][641]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.05.29-18.58.30:906][641]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.29-18.58.30:906][641]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.05.29-18.58.30:916][641]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.05.29-18.58.30:917][641]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.29-18.58.30:938][641]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.29-18.58.30:938][641]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.29-18.58.30:938][641]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.29-18.58.30:950][641]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.29-18.58.30:950][641]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.29-18.58.30:950][641]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.29-18.58.30:963][641]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.29-18.58.31:037][641]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.29-18.58.31:037][641]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.29-18.58.31:037][641]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.29-18.58.31:037][641]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.29-18.58.31:037][641]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.29-18.58.31:037][641]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.29-18.58.31:073][641]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.29-18.58.31:073][641]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.29-18.58.31:075][641]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.29-18.58.31:076][641]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.29-18.58.31:102][641]LogExit: Exiting.
+[2019.05.29-18.58.31:106][641]Log file closed, 05/29/19 13:58:31
