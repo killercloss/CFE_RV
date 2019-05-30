@@ -1,0 +1,1063 @@
+﻿Log file open, 05/29/19 17:58:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CFE_LeapMotion
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.277511
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UE4Duino
+LogStreaming: Display: Took  0.206s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G, GPU: AMD Radeon(TM) R6 Graphics
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.29-22.58.49:542][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.29-22.58.49:542][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.58.49:543][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.29-22.58.49:543][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.29-22.58.49:544][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.29-22.58.49:544][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.29-22.58.49:544][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.29-22.58.49:544][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.29-22.58.49:544][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.29-22.58.49:544][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.29-22.58.49:544][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.29-22.58.49:544][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.29-22.58.49:544][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.29-22.58.49:544][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.58.49:544][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.58.49:549][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:549][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.29-22.58.49:549][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.29-22.58.49:550][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.29-22.58.49:551][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.29-22.58.49:552][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.29-22.58.49:552][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.29-22.58.49:552][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-22.58.49:552][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.29-22.58.49:552][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.29-22.58.49:552][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:552][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.29-22.58.49:552][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.29-22.58.49:552][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-22.58.49:552][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.29-22.58.49:586][  0]LogHAL: Display: Platform has ~ 7 GB [7455145984 / 8589934592 / 7], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.29-22.58.49:586][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.29-22.58.49:586][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.29-22.58.49:586][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:586][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.05.29-22.58.49:586][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.05.29-22.58.49:586][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:586][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.05.29-22.58.49:586][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:586][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.05.29-22.58.49:587][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.05.29-22.58.49:588][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.29-22.58.49:589][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.29-22.58.49:589][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.58.49:590][  0]LogInit: Computer: DESKTOP-RTM83TK
+[2019.05.29-22.58.49:590][  0]LogInit: User: Samuel
+[2019.05.29-22.58.49:590][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.29-22.58.49:590][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.29-22.58.49:590][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2019.05.29-22.58.49:590][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.29-22.58.49:590][  0]LogMemory: Process Physical Memory: 104.37 MB used, 104.37 MB peak
+[2019.05.29-22.58.49:590][  0]LogMemory: Process Virtual Memory: 97.62 MB used, 97.62 MB peak
+[2019.05.29-22.58.49:590][  0]LogMemory: Physical Memory: 2893.70 MB used,  4216.08 MB free, 7109.78 MB total
+[2019.05.29-22.58.49:591][  0]LogMemory: Virtual Memory: 4643.13 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.05.29-22.58.49:634][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.05.29-22.58.49:634][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.05.29-22.58.50:377][  0]LogStreaming: Display: Took  0.743s to InitEngineTextLocalization.
+[2019.05.29-22.58.50:378][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.29-22.58.50:443][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.29-22.58.50:443][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.29-22.58.50:825][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-22.58.50:825][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.29-22.58.50:884][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R6 Graphics' (Feature Level 11_0)
+[2019.05.29-22.58.50:885][  0]LogD3D11RHI:       1012/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.05.29-22.58.50:890][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.29-22.58.50:890][  0]LogD3D11RHI:       0/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.29-22.58.50:890][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.29-22.58.50:902][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.29-22.58.50:902][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.29-22.58.50:902][  0]LogWindows: EnumDisplayDevices:
+[2019.05.29-22.58.50:902][  0]LogWindows:    0. 'AMD Radeon(TM) R6 Graphics' (P:1 D:1)
+[2019.05.29-22.58.50:903][  0]LogWindows:    1. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.05.29-22.58.50:904][  0]LogWindows:    2. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.05.29-22.58.50:904][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.05.29-22.58.50:904][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R6 Graphics
+[2019.05.29-22.58.50:904][  0]LogD3D11RHI:   Driver Version: 15.201.1101.1002 (internal:15.201.1101.1002, unified:15.201.1101.1002)
+[2019.05.29-22.58.50:904][  0]LogD3D11RHI:      Driver Date: 8-21-2015
+[2019.05.29-22.58.50:904][  0]LogRHI: Texture pool is 708 MB (70% of 1012 MB)
+[2019.05.29-22.58.51:054][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.29-22.58.51:089][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2019.05.29-22.58.51:886][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.29-22.58.51:914][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.29-22.58.51:941][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.29-22.58.51:968][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.29-22.58.51:996][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.29-22.58.52:023][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.29-22.58.52:051][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.29-22.58.52:084][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.29-22.58.52:098][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.29-22.58.52:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:252][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.58.52:257][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.29-22.58.52:348][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-22.58.52:348][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-22.58.52:390][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-22.58.52:390][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-22.58.52:413][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.29-22.58.52:436][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.29-22.58.52:459][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.29-22.58.52:488][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.29-22.58.52:606][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-22.58.52:606][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-22.58.52:606][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.29-22.58.52:743][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Intermediate/Shaders/WorkingDirectory/5952/).
+[2019.05.29-22.58.52:744][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel/AppData/Local/Temp/UnrealShaderWorkingDir/2D9FCD0F4E7F85C3E48B20AA243B3019/'.
+[2019.05.29-22.58.52:749][  0]LogXGEController: Cleaning working directory: C:/Users/Samuel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.29-22.58.52:749][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.29-22.58.52:750][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.29-22.58.52:750][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.29-22.58.53:981][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.29-22.58.54:102][  0]LogDerivedDataCache: Loaded boot cache 0.12s 71MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.29-22.58.54:102][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.29-22.58.54:102][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.29-22.58.54:102][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.29-22.58.54:103][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-22.58.54:103][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.29-22.58.54:126][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.29-22.58.54:126][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-22.58.54:126][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.29-22.58.54:140][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.29-22.58.54:140][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.29-22.58.54:140][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.29-22.58.54:189][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.29-22.58.54:191][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.29-22.58.54:193][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.29-22.58.54:368][  0]LogAssetRegistry: FAssetRegistry took 0.0512 seconds to start up
+[2019.05.29-22.58.55:083][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-22.58.55:416][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.29-22.58.55:425][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.29-22.58.55:425][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.29-22.58.55:425][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.29-22.58.55:425][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.29-22.58.55:458][  0]LogNetVersion: CFE_LeapMotion 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1837852655)
+[2019.05.29-22.58.56:568][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.129372 seconds
+[2019.05.29-22.58.56:583][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.29-22.58.56:583][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.29-22.58.56:583][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.29-22.58.58:327][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.29-22.58.58:347][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.29-22.58.59:568][  0]UE4DuinoLog: Warning: UE4Duino: Log Started
+[2019.05.29-22.58.59:671][  0]SourceControl: Source control is disabled
+[2019.05.29-22.59.00:553][  0]LogSourceControl: Warning: '../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/' is not part of a Git repository
+[2019.05.29-22.59.01:246][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.29-22.59.01:358][  0]LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' (GetLastError=126)
+[2019.05.29-22.59.01:358][  0]LogWindows: File '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' does not exist
+[2019.05.29-22.59.01:358][  0]LeapMotionLog: Leap Plugin started v3.3.1
+[2019.05.29-22.59.01:365][  0]LogOcInput: OculusInput pre-init called
+[2019.05.29-22.59.01:563][  0]LogClass: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly
+[2019.05.29-22.59.01:563][  0]LogClass: Warning: FBodyStateDeviceConfig::InputType is not initialized properly
+[2019.05.29-22.59.01:564][  0]LogClass: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly
+[2019.05.29-22.59.01:564][  0]LogClass: Display: 3 Uninitialized script stuct members found
+[2019.05.29-22.59.01:565][  0]LogAutomationTest: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly
+[2019.05.29-22.59.01:565][  0]LogAutomationTest: Warning: FBodyStateDeviceConfig::InputType is not initialized properly
+[2019.05.29-22.59.01:565][  0]LogAutomationTest: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly
+[2019.05.29-22.59.01:571][  0]LogEngine: Initializing Engine...
+[2019.05.29-22.59.01:573][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-22.59.01:576][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-22.59.01:576][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-22.59.01:577][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-22.59.01:577][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-22.59.02:087][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.29-22.59.02:125][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.29-22.59.02:140][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-22.59.02:258][  0]LogInit: FAudioDevice initialized.
+[2019.05.29-22.59.02:259][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.29-22.59.02:448][  0]LogDerivedDataCache: Saved boot cache 0.19s 71MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.29-22.59.02:471][  0]LogInit: Texture streaming: Enabled
+[2019.05.29-22.59.02:523][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.29-22.59.02:617][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={AB42823D-46BC-010A-ECBD-C49873A9D299}
+[2019.05.29-22.59.02:650][  0]LogInit: Transaction tracking system initialized
+[2019.05.29-22.59.02:701][  0]BlueprintLog: New page: Editor Load
+[2019.05.29-22.59.02:865][  0]LocalizationService: Localization service is disabled
+[2019.05.29-22.59.04:673][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Desktop/CFE_LeapMotion2/Content/' took 0.02s
+[2019.05.29-22.59.04:674][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.29-22.59.04:674][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.29-22.59.04:674][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.29-22.59.04:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-22.59.04:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-22.59.04:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-22.59.04:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-22.59.04:986][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.29-22.59.04:987][  0]LightingResults: New page: Lighting Build
+[2019.05.29-22.59.04:992][  0]MapCheck: New page: Map Check
+[2019.05.29-22.59.04:992][  0]LightingResults: New page: Lighting Build
+[2019.05.29-22.59.06:283][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.29-22.59.06:301][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.29-22.59.06:424][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.29-22.59.06:425][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.425ms to complete.
+[2019.05.29-22.59.06:425][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.439
+[2019.05.29-22.59.06:561][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-22.59.06:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-22.59.06:592][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-22.59.06:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-22.59.06:622][  0]LogCollectionManager: Loaded 0 collections in 0.004061 seconds
+[2019.05.29-22.59.06:647][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Collections/' took 0.01s
+[2019.05.29-22.59.06:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Desktop/CFE_LeapMotion2/Content/Developers/Samuel/Collections/' took 0.00s
+[2019.05.29-22.59.06:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Desktop/CFE_LeapMotion2/Content/Collections/' took 0.00s
+[2019.05.29-22.59.06:648][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.29-22.59.06:666][  0]LogContentBrowser: Native class hierarchy populated in 0.0184 seconds. Added 2666 classes and 631 folders.
+[2019.05.29-22.59.06:681][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.05.29-22.59.06:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:710][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.59.06:792][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.05.29-22.59.06:804][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.05.29-22.59.06:958][  0]LogSlate: Took 0.000459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.29-22.59.06:965][  0]LogSlate: Took 0.000623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.29-22.59.06:976][  0]LogSlate: Took 0.000476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.29-22.59.07:160][  0]LogRenderer: Reallocating scene render targets to support 776x300 Format 9 NumSamples 1 (Frame:1).
+[2019.05.29-22.59.07:738][  0]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-22.59.07:894][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.29-22.59.07:894][  0]LogLoad: (Engine Initialization) Total time: 21.21 seconds
+[2019.05.29-22.59.07:894][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.29-22.59.07:929][  0]LeapMotionLog: ServiceMessageLoop started.
+[2019.05.29-22.59.07:929][  0]BodyStateLog: BodyState::DeviceAttached: Leap Motion (1)
+[2019.05.29-22.59.07:931][  0]BodyStateLog: BodyState::DeviceAttached: HMD (2)
+[2019.05.29-22.59.08:015][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.05.29-22.59.08:095][  1]LeapMotionLog: LeapService: OnConnect.
+[2019.05.29-22.59.08:200][  1]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.05.29-22.59.08:200][  1]LeapMotionLog: OnDeviceFound Peripheral S323A047707.
+[2019.05.29-22.59.08:755][  6]LogAssetRegistry: Asset discovery search completed in 14.4112 seconds
+[2019.05.29-22.59.08:759][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.29-22.59.08:759][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000153 seconds (updated 0 objects)
+[2019.05.29-22.59.09:030][ 14]LogSlate: Took 0.000485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-22.59.11:111][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-22.59.11:193][127]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.29-22.59.11:252][127]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-22.59.11:252][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-22.59.11:253][127]PIE: New page: PIE session: Minimal_Default (May 29, 2019, 12:59:11 PM)
+[2019.05.29-22.59.11:268][127]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.05.29-22.59.11:296][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026482s)
+[2019.05.29-22.59.11:298][127]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.29-22.59.11:299][127]LogPlayLevel: PIE: World Init took: (0.003225s)
+[2019.05.29-22.59.11:300][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.031434s)
+[2019.05.29-22.59.11:387][127]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-22.59.11:456][127]LogInit: FAudioDevice initialized.
+[2019.05.29-22.59.11:471][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-22.59.11:535][127]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.05.29-22.59.11:541][127]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.05.29-17.59.11
+[2019.05.29-22.59.11:543][127]LogWorld: Bringing up level for play took: 0.003904
+[2019.05.29-22.59.11:568][127]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.05.29-22.59.11:569][127]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-22.59.11:569][127]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-22.59.11:569][127]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-22.59.11:571][127]LogTemp: Bone cache synced: 20
+[2019.05.29-22.59.11:574][127]LogTemp: Bone cache synced: 0
+[2019.05.29-22.59.11:574][127]LogTemp: Bone cache synced: 20
+[2019.05.29-22.59.11:576][127]LeapMotionLog: AddEventDelegate (1).
+[2019.05.29-22.59.11:585][127]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-22.59.11:593][127]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.773
+[2019.05.29-22.59.11:594][127]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-22.59.11:693][127]LogRenderer: Reallocating scene render targets to support 916x536 Format 9 NumSamples 1 (Frame:1).
+[2019.05.29-22.59.11:762][128]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.11:939][129]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.11:939][129]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.12:026][131]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:046][132]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:067][133]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:087][134]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:110][135]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:131][136]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:151][137]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:172][138]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:195][139]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:218][140]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:246][141]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:267][142]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:287][143]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:310][144]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:331][145]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:353][146]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:374][147]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:397][148]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:419][149]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:441][150]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:441][150]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.12:520][152]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:541][153]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:564][154]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:590][155]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:614][156]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:642][157]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:665][158]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:688][159]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:713][160]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:736][161]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:760][162]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:781][163]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:803][164]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:824][165]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:847][166]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:868][167]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:888][168]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:910][169]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:932][170]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:954][171]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.12:954][171]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.13:030][173]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:049][174]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:069][175]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:092][176]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:113][177]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:135][178]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:158][179]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:179][180]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:200][181]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:222][182]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:244][183]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:266][184]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:288][185]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:309][186]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:331][187]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:352][188]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:376][189]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:398][190]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:420][191]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:442][192]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:464][193]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:464][193]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.13:542][195]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:562][196]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:582][197]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:603][198]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:625][199]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:646][200]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:669][201]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:692][202]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:715][203]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:737][204]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:760][205]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:781][206]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:802][207]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:826][208]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:849][209]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:871][210]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:894][211]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:916][212]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:940][213]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:968][214]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.13:968][214]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.14:052][216]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:072][217]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:095][218]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:121][219]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:150][220]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:177][221]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:203][222]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:227][223]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:250][224]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:277][225]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:299][226]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:323][227]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:347][228]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:376][229]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:401][230]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:428][231]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:453][232]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:480][233]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:481][233]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.14:562][235]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:587][236]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:611][237]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:636][238]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:662][239]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:688][240]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:719][241]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:745][242]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:772][243]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:798][244]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:823][245]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:849][246]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:874][247]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:902][248]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:930][249]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:955][250]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.14:979][251]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:003][252]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:004][252]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.15:089][254]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:110][255]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:133][256]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:163][257]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:190][258]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:215][259]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:247][260]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:276][261]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:302][262]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:330][263]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:360][264]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:385][265]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:413][266]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:440][267]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:470][268]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:498][269]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:525][270]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:525][270]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.15:611][272]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:632][273]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:656][274]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:683][275]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:712][276]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:738][277]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:766][278]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:795][279]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:822][280]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:848][281]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:875][282]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:902][283]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:926][284]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:955][285]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.15:980][286]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:006][287]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:031][288]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:032][288]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.16:114][290]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:137][291]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:163][292]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:189][293]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:219][294]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:244][295]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:269][296]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.16:269][296]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:296][297]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:323][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.16:324][298]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:347][299]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:373][300]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:400][301]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.16:400][301]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:430][302]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:454][303]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:480][304]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:508][305]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:533][306]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:534][306]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.16:617][308]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:639][309]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:665][310]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:687][311]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:710][312]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:734][313]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:766][314]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:791][315]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:817][316]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:844][317]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:875][318]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:900][319]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:930][320]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:960][321]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.16:983][322]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:009][323]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:034][324]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:035][324]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.17:123][326]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:147][327]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:178][328]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:207][329]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:233][330]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:260][331]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:284][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.17:285][332]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:316][333]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:343][334]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:370][335]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:395][336]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:424][337]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:449][338]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:477][339]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:503][340]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:527][341]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:552][342]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:552][342]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.17:633][344]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:656][345]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:684][346]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:710][347]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:736][348]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:761][349]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:788][350]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:815][351]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:842][352]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:869][353]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:896][354]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:923][355]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:951][356]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.17:977][357]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:006][358]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:031][359]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:062][360]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.18:062][360]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:063][360]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.18:146][362]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.18:147][362]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:170][363]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:201][364]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.18:201][364]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:226][365]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:252][366]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:278][367]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:304][368]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:331][369]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:361][370]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.18:362][370]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:386][371]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.18:386][371]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:413][372]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:441][373]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:463][374]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:490][375]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:516][376]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:546][377]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:574][378]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:574][378]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.18:665][380]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:687][381]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:713][382]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:744][383]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:769][384]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:796][385]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:823][386]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:849][387]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:875][388]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:902][389]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:932][390]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:959][391]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.18:959][391]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.18:986][392]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:013][393]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:043][394]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:067][395]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:093][396]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:093][396]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.19:123][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.19:176][398]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:196][399]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:219][400]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:244][401]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:272][402]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:298][403]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:324][404]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:351][405]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:380][406]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:407][407]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:432][408]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:458][409]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:485][410]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:510][411]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:535][412]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:561][413]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:582][414]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:605][415]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:606][415]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.19:690][417]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:714][418]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:741][419]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:764][420]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:795][421]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:820][422]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:846][423]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:873][424]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:898][425]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:926][426]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:952][427]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.19:980][428]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:009][429]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:036][430]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:062][431]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:090][432]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:118][433]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:119][433]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.20:199][435]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:224][436]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:252][437]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:277][438]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:304][439]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:328][440]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:361][441]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:384][442]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:412][443]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:440][444]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:465][445]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:491][446]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:517][447]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:545][448]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:571][449]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:598][450]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:626][451]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:626][451]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.20:712][453]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:736][454]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:761][455]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:790][456]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:815][457]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:843][458]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:872][459]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:896][460]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:923][461]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:949][462]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.20:978][463]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:007][464]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:032][465]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:060][466]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:089][467]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:114][468]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:142][469]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:143][469]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.21:230][471]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:252][472]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:277][473]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:305][474]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:330][475]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:358][476]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:384][477]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:411][478]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:438][479]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:463][480]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:488][481]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:512][482]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:544][483]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:595][484]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:628][485]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:659][486]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:660][486]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.21:741][488]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:764][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.21:765][489]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:798][490]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:826][491]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.21:826][491]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:856][492]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:887][493]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:916][494]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:943][495]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.21:972][496]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:002][497]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:028][498]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:053][499]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:082][500]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:108][501]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:140][502]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:164][503]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:165][503]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.22:253][505]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:279][506]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:308][507]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:339][508]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:364][509]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:390][510]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:417][511]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.22:418][511]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:445][512]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:468][513]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:489][514]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:519][515]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.29-22.59.22:519][515]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:549][516]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:575][517]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:602][518]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:632][519]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:661][520]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:687][521]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:687][521]LogBlueprintUserMessages: [Minimal_Default_C_5] Hello
+[2019.05.29-22.59.22:768][523]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:791][524]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:809][525]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:831][526]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:859][527]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:881][528]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:905][529]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:930][530]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:954][531]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.22:979][532]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.23:003][533]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2019.05.29-22.59.23:005][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-22.59.23:006][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-22.59.23:072][533]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.29-22.59.23:117][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-22.59.23:117][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.29-22.59.23:192][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-22.59.23:245][534]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.05.29-22.59.25:747][652]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Character/BP_Pawn.BP_Pawn
+[2019.05.29-22.59.26:832][652]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 117 classes and 0 folders.
+[2019.05.29-22.59.28:659][652]LogTemp: Bone cache synced: 20
+[2019.05.29-22.59.28:661][652]LogTemp: Bone cache synced: 0
+[2019.05.29-22.59.28:662][652]LogTemp: Bone cache synced: 20
+[2019.05.29-22.59.28:675][652]LogSlate: Took 0.000566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.29-22.59.28:999][653]LogSlate: Took 0.000506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.29-22.59.29:177][661]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.29-22.59.30:472][661]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.295 s
+[2019.05.29-22.59.30:472][661]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.29-22.59.30:472][661]LogOutputDevice: Error: 
+[2019.05.29-22.59.30:472][661]LogOutputDevice: Error: Ensure condition failed: !RotationQuat.ContainsNaN() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\UnrealMath.cpp] [Line: 448]
+[2019.05.29-22.59.30:472][661]LogOutputDevice: Error: Invalid input to FRotator::Quaternion - generated NaN output: X=nan Y=nan Z=nan W=-nan
+[2019.05.29-22.59.30:472][661]LogOutputDevice: Error: Stack: 
+[2019.05.29-22.59.30:472][661]LogOutputDevice: Error: [Callstack] 0x00007ff97cead20c UE4Editor-Core.dll!UnknownFunction []
+[2019.05.29-22.59.30:472][661]LogOutputDevice: Error: [Callstack] 0x00007ff95ee16fce UE4Editor-LeapMotion.dll!UnknownFunction []
+[2019.05.29-22.59.30:472][661]LogOutputDevice: Error: [Callstack] 0x00007ff95ee0e92f UE4Editor-LeapMotion.dll!UnknownFunction []
+[2019.05.29-22.59.30:472][661]LogOutputDevice: Error: [Callstack] 0x00007ff99547c7cc UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.29-22.59.30:472][661]LogOutputDevice: Error: [Callstack] 0x00007ff97db01966 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-22.59.30:472][661]LogOutputDevice: Error: [Callstack] 0x00007ff63f025cea UE4Editor.exe!UnknownFunction []
+[2019.05.29-22.59.30:473][661]LogOutputDevice: Error: [Callstack] 0x00007ff63f03596c UE4Editor.exe!UnknownFunction []
+[2019.05.29-22.59.30:473][661]LogOutputDevice: Error: [Callstack] 0x00007ff63f0359ea UE4Editor.exe!UnknownFunction []
+[2019.05.29-22.59.30:473][661]LogOutputDevice: Error: [Callstack] 0x00007ff63f0448da UE4Editor.exe!UnknownFunction []
+[2019.05.29-22.59.30:473][661]LogOutputDevice: Error: [Callstack] 0x00007ff63f04659a UE4Editor.exe!UnknownFunction []
+[2019.05.29-22.59.30:473][661]LogOutputDevice: Error: [Callstack] 0x00007ff9cd517974 KERNEL32.DLL!UnknownFunction []
+[2019.05.29-22.59.30:473][661]LogOutputDevice: Error: [Callstack] 0x00007ff9d019a271 ntdll.dll!UnknownFunction []
+[2019.05.29-22.59.30:473][661]LogOutputDevice: Error: 
+[2019.05.29-22.59.30:476][661]LogStats:                SubmitErrorReport -  0.000 s

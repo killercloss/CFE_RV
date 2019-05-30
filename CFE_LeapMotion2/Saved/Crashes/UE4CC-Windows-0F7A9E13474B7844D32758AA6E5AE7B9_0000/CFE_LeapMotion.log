@@ -1,0 +1,1816 @@
+﻿Log file open, 05/30/19 14:29:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CFE_LeapMotion
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.288485
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UE4Duino
+LogStreaming: Display: Took  0.203s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G, GPU: AMD Radeon(TM) R6 Graphics
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.010s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.30-19.29.49:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.30-19.29.49:789][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.30-19.29.49:790][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.30-19.29.49:790][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.30-19.29.49:790][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.30-19.29.49:790][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.30-19.29.49:790][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.30-19.29.49:794][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:794][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.30-19.29.49:794][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.30-19.29.49:794][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.30-19.29.49:795][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.30-19.29.49:796][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.30-19.29.49:797][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.30-19.29.49:797][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.30-19.29.49:797][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.30-19.29.49:829][  0]LogHAL: Display: Platform has ~ 7 GB [7455145984 / 8589934592 / 7], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.30-19.29.49:829][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.30-19.29.49:829][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.30-19.29.49:829][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:829][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.05.30-19.29.49:829][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.05.30-19.29.49:829][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.05.30-19.29.49:830][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.05.30-19.29.49:831][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.30-19.29.49:832][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.05.30-19.29.49:832][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.05.30-19.29.49:832][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.05.30-19.29.49:832][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.05.30-19.29.49:832][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.30-19.29.49:832][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.05.30-19.29.49:832][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.05.30-19.29.49:832][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-19.29.49:832][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.05.30-19.29.49:832][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.05.30-19.29.49:832][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.30-19.29.49:832][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.30-19.29.49:832][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.05.30-19.29.49:833][  0]LogInit: Computer: DESKTOP-RTM83TK
+[2019.05.30-19.29.49:833][  0]LogInit: User: Samuel
+[2019.05.30-19.29.49:833][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.30-19.29.49:833][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.30-19.29.49:834][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2019.05.30-19.29.49:834][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.30-19.29.49:834][  0]LogMemory: Process Physical Memory: 104.14 MB used, 104.14 MB peak
+[2019.05.30-19.29.49:834][  0]LogMemory: Process Virtual Memory: 97.71 MB used, 97.71 MB peak
+[2019.05.30-19.29.49:834][  0]LogMemory: Physical Memory: 3257.54 MB used,  3852.24 MB free, 7109.78 MB total
+[2019.05.30-19.29.49:834][  0]LogMemory: Virtual Memory: 4643.13 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.05.30-19.29.49:895][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.05.30-19.29.49:895][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.05.30-19.29.50:582][  0]LogStreaming: Display: Took  0.688s to InitEngineTextLocalization.
+[2019.05.30-19.29.50:582][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.30-19.29.50:639][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.30-19.29.50:639][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.30-19.29.51:088][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.30-19.29.51:088][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.30-19.29.51:376][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R6 Graphics' (Feature Level 11_0)
+[2019.05.30-19.29.51:376][  0]LogD3D11RHI:       1012/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.05.30-19.29.51:382][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.30-19.29.51:382][  0]LogD3D11RHI:       0/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.30-19.29.51:382][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.30-19.29.51:396][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.30-19.29.51:396][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.30-19.29.51:396][  0]LogWindows: EnumDisplayDevices:
+[2019.05.30-19.29.51:397][  0]LogWindows:    0. 'AMD Radeon(TM) R6 Graphics' (P:1 D:1)
+[2019.05.30-19.29.51:397][  0]LogWindows:    1. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.05.30-19.29.51:398][  0]LogWindows:    2. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.05.30-19.29.51:398][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.05.30-19.29.51:398][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R6 Graphics
+[2019.05.30-19.29.51:398][  0]LogD3D11RHI:   Driver Version: 15.201.1101.1002 (internal:15.201.1101.1002, unified:15.201.1101.1002)
+[2019.05.30-19.29.51:398][  0]LogD3D11RHI:      Driver Date: 8-21-2015
+[2019.05.30-19.29.51:398][  0]LogRHI: Texture pool is 708 MB (70% of 1012 MB)
+[2019.05.30-19.29.51:555][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.30-19.29.51:589][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2019.05.30-19.29.52:410][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.30-19.29.52:436][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.30-19.29.52:463][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.30-19.29.52:488][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.30-19.29.52:513][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.30-19.29.52:537][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.30-19.29.52:562][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.30-19.29.52:588][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.30-19.29.52:602][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-19.29.52:749][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.30-19.29.52:840][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.30-19.29.52:840][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.30-19.29.52:893][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.30-19.29.52:893][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.30-19.29.52:918][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.30-19.29.52:947][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.30-19.29.52:975][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.30-19.29.53:004][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.30-19.29.53:093][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.30-19.29.53:093][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.30-19.29.53:093][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.30-19.29.53:215][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Intermediate/Shaders/WorkingDirectory/7904/).
+[2019.05.30-19.29.53:215][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel/AppData/Local/Temp/UnrealShaderWorkingDir/F654D37E4E8937DBC533D6A2D913392E/'.
+[2019.05.30-19.29.53:219][  0]LogXGEController: Cleaning working directory: C:/Users/Samuel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.30-19.29.53:220][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.30-19.29.53:220][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.30-19.29.53:220][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.30-19.29.54:563][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.30-19.29.54:707][  0]LogDerivedDataCache: Loaded boot cache 0.14s 71MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.30-19.29.54:707][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.30-19.29.54:707][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.30-19.29.54:708][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.30-19.29.54:708][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.30-19.29.54:708][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.30-19.29.54:736][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.30-19.29.54:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.30-19.29.54:737][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.30-19.29.54:750][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.30-19.29.54:750][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.30-19.29.54:750][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.30-19.29.54:797][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.30-19.29.54:800][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.30-19.29.54:801][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.30-19.29.54:946][  0]LogAssetRegistry: FAssetRegistry took 0.0432 seconds to start up
+[2019.05.30-19.29.55:644][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.30-19.29.55:963][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.30-19.29.55:972][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.30-19.29.55:972][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.30-19.29.55:972][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.30-19.29.55:972][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.30-19.29.56:003][  0]LogNetVersion: CFE_LeapMotion 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1837852655)
+[2019.05.30-19.29.57:109][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.129122 seconds
+[2019.05.30-19.29.57:124][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.30-19.29.57:124][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.30-19.29.57:124][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.30-19.29.58:805][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.30-19.29.58:823][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.30-19.29.59:938][  0]UE4DuinoLog: Warning: UE4Duino: Log Started
+[2019.05.30-19.30.00:028][  0]SourceControl: Source control is disabled
+[2019.05.30-19.30.01:047][  0]LogSourceControl: Warning: '../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/' is not part of a Git repository
+[2019.05.30-19.30.01:716][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.30-19.30.01:859][  0]LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' (GetLastError=126)
+[2019.05.30-19.30.01:859][  0]LogWindows: File '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' does not exist
+[2019.05.30-19.30.01:859][  0]LeapMotionLog: Leap Plugin started v3.3.1
+[2019.05.30-19.30.01:867][  0]LogOcInput: OculusInput pre-init called
+[2019.05.30-19.30.02:069][  0]LogClass: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly
+[2019.05.30-19.30.02:069][  0]LogClass: Warning: FBodyStateDeviceConfig::InputType is not initialized properly
+[2019.05.30-19.30.02:069][  0]LogClass: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly
+[2019.05.30-19.30.02:070][  0]LogClass: Display: 3 Uninitialized script stuct members found
+[2019.05.30-19.30.02:071][  0]LogAutomationTest: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly
+[2019.05.30-19.30.02:071][  0]LogAutomationTest: Warning: FBodyStateDeviceConfig::InputType is not initialized properly
+[2019.05.30-19.30.02:071][  0]LogAutomationTest: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly
+[2019.05.30-19.30.02:077][  0]LogEngine: Initializing Engine...
+[2019.05.30-19.30.02:078][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.30-19.30.02:081][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.30-19.30.02:081][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.30-19.30.02:081][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.30-19.30.02:081][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.30-19.30.02:569][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.30-19.30.02:602][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.30-19.30.02:617][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.30-19.30.02:742][  0]LogInit: FAudioDevice initialized.
+[2019.05.30-19.30.02:743][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.30-19.30.03:075][  0]LogDerivedDataCache: Saved boot cache 0.33s 71MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.30-19.30.03:098][  0]LogInit: Texture streaming: Enabled
+[2019.05.30-19.30.03:141][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.30-19.30.03:172][  0]LogInit: Transaction tracking system initialized
+[2019.05.30-19.30.03:223][  0]BlueprintLog: New page: Editor Load
+[2019.05.30-19.30.03:392][  0]LocalizationService: Localization service is disabled
+[2019.05.30-19.30.05:206][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Desktop/CFE_LeapMotion2/Content/' took 0.03s
+[2019.05.30-19.30.05:206][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.30-19.30.05:206][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.30-19.30.05:207][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.30-19.30.05:207][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.30-19.30.05:207][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.30-19.30.05:207][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.30-19.30.05:207][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.30-19.30.05:533][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.30-19.30.05:534][  0]LightingResults: New page: Lighting Build
+[2019.05.30-19.30.05:540][  0]MapCheck: New page: Map Check
+[2019.05.30-19.30.05:540][  0]LightingResults: New page: Lighting Build
+[2019.05.30-19.30.06:821][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.30-19.30.06:842][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.30-19.30.06:970][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.30-19.30.06:970][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.398ms to complete.
+[2019.05.30-19.30.06:971][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.437
+[2019.05.30-19.30.07:098][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-19.30.07:111][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-19.30.07:126][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-19.30.07:140][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-19.30.07:152][  0]LogCollectionManager: Loaded 0 collections in 0.003209 seconds
+[2019.05.30-19.30.07:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Desktop/CFE_LeapMotion2/Saved/Collections/' took 0.01s
+[2019.05.30-19.30.07:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Desktop/CFE_LeapMotion2/Content/Developers/Samuel/Collections/' took 0.00s
+[2019.05.30-19.30.07:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Desktop/CFE_LeapMotion2/Content/Collections/' took 0.00s
+[2019.05.30-19.30.07:174][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.30-19.30.07:188][  0]LogContentBrowser: Native class hierarchy populated in 0.0142 seconds. Added 2666 classes and 631 folders.
+[2019.05.30-19.30.07:200][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.30-19.30.07:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-19.30.07:286][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.30-19.30.07:296][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.05.30-19.30.07:433][  0]LogSlate: Took 0.000512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.30-19.30.07:438][  0]LogSlate: Took 0.000605 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.30-19.30.07:450][  0]LogSlate: Took 0.000513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.30-19.30.07:624][  0]LogRenderer: Reallocating scene render targets to support 776x300 Format 9 NumSamples 1 (Frame:1).
+[2019.05.30-19.30.08:216][  0]LogSlate: Took 0.000515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.30-19.30.08:382][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.05.30-19.30.08:382][  0]LogLoad: (Engine Initialization) Total time: 21.63 seconds
+[2019.05.30-19.30.08:382][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.30-19.30.08:422][  0]LeapMotionLog: ServiceMessageLoop started.
+[2019.05.30-19.30.08:422][  0]BodyStateLog: BodyState::DeviceAttached: Leap Motion (1)
+[2019.05.30-19.30.08:423][  0]BodyStateLog: BodyState::DeviceAttached: HMD (2)
+[2019.05.30-19.30.08:504][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.05.30-19.30.08:701][  2]LeapMotionLog: LeapService: OnConnect.
+[2019.05.30-19.30.09:169][  6]LogAssetRegistry: Asset discovery search completed in 14.2455 seconds
+[2019.05.30-19.30.09:173][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.30-19.30.09:173][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000154 seconds (updated 0 objects)
+[2019.05.30-19.30.09:798][  8]LogSlate: Took 0.000431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.30-19.30.53:421][138]LeapMotionLog: LeapServiceLog: Firmware is up to date.
+[2019.05.30-19.30.53:421][138]LeapMotionLog: OnDeviceFound Peripheral S323A047707.
+[2019.05.30-19.30.53:422][138]LeapMotionLog: LeapServiceLog: Firmware is up to date.
+[2019.05.30-19.31.00:874][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.30-19.31.02:810][262]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.30-19.31.02:870][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.31.02:871][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.30-19.31.02:872][262]PIE: New page: PIE session: Minimal_Default (May 30, 2019, 9:31:02 AM)
+[2019.05.30-19.31.02:886][262]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.05.30-19.31.02:902][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015336s)
+[2019.05.30-19.31.02:904][262]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.30-19.31.02:904][262]LogPlayLevel: PIE: World Init took: (0.001865s)
+[2019.05.30-19.31.02:904][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.017990s)
+[2019.05.30-19.31.02:987][262]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.30-19.31.03:047][262]LogInit: FAudioDevice initialized.
+[2019.05.30-19.31.03:063][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-19.31.03:119][262]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.05.30-19.31.03:128][262]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.05.30-14.31.03
+[2019.05.30-19.31.03:130][262]LogWorld: Bringing up level for play took: 0.006888
+[2019.05.30-19.31.03:159][262]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2019.05.30-19.31.03:160][262]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.30-19.31.03:160][262]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.30-19.31.03:160][262]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.30-19.31.03:163][262]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.03:166][262]LogTemp: Bone cache synced: 0
+[2019.05.30-19.31.03:166][262]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.03:169][262]LeapMotionLog: AddEventDelegate (1).
+[2019.05.30-19.31.03:180][262]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.30-19.31.03:193][262]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.975
+[2019.05.30-19.31.03:195][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.31.03:321][262]LogRenderer: Reallocating scene render targets to support 916x536 Format 9 NumSamples 1 (Frame:1).
+[2019.05.30-19.31.05:489][342]LogTemp: Error: Failed to setup port COM1. Error: 00000006
+[2019.05.30-19.31.06:479][384]LogTemp: Error: Failed to setup port COM2. Error: 00000006
+[2019.05.30-19.31.07:799][440]LogBlueprintUserMessages: [BP_Pawn_C_0] Hello
+[2019.05.30-19.31.11:753][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.31.11:755][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-19.31.11:822][584]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.30-19.31.11:868][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.30-19.31.11:869][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.31.11:986][585]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.05.30-19.31.23:910][273]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Character/BP_Pawn.BP_Pawn
+[2019.05.30-19.31.24:991][273]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 117 classes and 0 folders.
+[2019.05.30-19.31.26:792][273]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.26:794][273]LogTemp: Bone cache synced: 0
+[2019.05.30-19.31.26:795][273]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.26:806][273]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.30-19.31.27:259][274]LogSlate: Took 0.000575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.30-19.31.38:487][855]BlueprintLog: New page: Compile BP_Pawn
+[2019.05.30-19.31.38:648][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:649][855]LogTemp: Bone cache synced: 0
+[2019.05.30-19.31.38:649][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:653][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:653][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:655][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:655][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:657][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:657][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:659][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:659][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:661][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:661][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:663][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:663][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:665][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:665][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:667][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.38:667][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.39:025][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.39:027][855]LogTemp: Bone cache synced: 0
+[2019.05.30-19.31.39:027][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.39:062][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.39:064][855]LogTemp: Bone cache synced: 0
+[2019.05.30-19.31.39:064][855]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.39:884][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Character/BP_Pawn" FILE="../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset" SILENT=true
+[2019.05.30-19.31.40:097][875]LogSavePackage: Moving '../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Saved/BP_Pawn7BFAA4434D62D0FEF72E5F898CE66318.tmp' to '../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset'
+[2019.05.30-19.31.41:562][955]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.30-19.31.41:626][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.31.41:627][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.30-19.31.41:627][955]PIE: New page: PIE session: Minimal_Default (May 30, 2019, 9:31:41 AM)
+[2019.05.30-19.31.41:627][955]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.05.30-19.31.41:639][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012149s)
+[2019.05.30-19.31.41:641][955]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.30-19.31.41:642][955]LogPlayLevel: PIE: World Init took: (0.002338s)
+[2019.05.30-19.31.41:642][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015016s)
+[2019.05.30-19.31.41:722][955]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.30-19.31.41:781][955]LogInit: FAudioDevice initialized.
+[2019.05.30-19.31.41:792][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-19.31.41:841][955]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.05.30-19.31.41:845][955]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.05.30-14.31.41
+[2019.05.30-19.31.41:846][955]LogWorld: Bringing up level for play took: 0.003884
+[2019.05.30-19.31.41:861][955]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.30-19.31.41:861][955]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.30-19.31.41:861][955]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.30-19.31.41:862][955]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.41:864][955]LogTemp: Bone cache synced: 0
+[2019.05.30-19.31.41:865][955]LogTemp: Bone cache synced: 20
+[2019.05.30-19.31.41:866][955]LeapMotionLog: AddEventDelegate (1).
+[2019.05.30-19.31.41:874][955]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.30-19.31.41:886][955]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.332
+[2019.05.30-19.31.41:887][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.31.43:301][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-19.31.44:293][ 47]LogBlueprintUserMessages: [BP_Pawn_C_0] Hello
+[2019.05.30-19.31.47:189][165]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-19.32.00:867][723]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.32.00:868][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-19.32.00:943][723]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.30-19.32.01:016][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.30-19.32.01:016][723]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.32.01:502][724]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.05.30-19.32.12:650][335]BlueprintLog: New page: Compile BP_Pawn
+[2019.05.30-19.32.12:794][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:797][335]LogTemp: Bone cache synced: 0
+[2019.05.30-19.32.12:797][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:800][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:800][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:802][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:802][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:805][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:805][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:807][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:807][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:810][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:810][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:812][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:812][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:814][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:814][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:816][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.12:816][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.13:158][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.13:160][335]LogTemp: Bone cache synced: 0
+[2019.05.30-19.32.13:160][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.13:197][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.13:200][335]LogTemp: Bone cache synced: 0
+[2019.05.30-19.32.13:200][335]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.13:933][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Character/BP_Pawn" FILE="../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset" SILENT=true
+[2019.05.30-19.32.14:132][359]LogSavePackage: Moving '../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Saved/BP_Pawn25B73DB4488F140B276DF98C6583AACF.tmp' to '../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset'
+[2019.05.30-19.32.15:353][426]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.30-19.32.15:416][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.32.15:416][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.30-19.32.15:416][426]PIE: New page: PIE session: Minimal_Default (May 30, 2019, 9:32:15 AM)
+[2019.05.30-19.32.15:416][426]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.05.30-19.32.15:432][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015058s)
+[2019.05.30-19.32.15:433][426]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.05.30-19.32.15:433][426]LogPlayLevel: PIE: World Init took: (0.001512s)
+[2019.05.30-19.32.15:433][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.016935s)
+[2019.05.30-19.32.15:517][426]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.30-19.32.15:574][426]LogInit: FAudioDevice initialized.
+[2019.05.30-19.32.15:585][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-19.32.15:633][426]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.05.30-19.32.15:637][426]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.05.30-14.32.15
+[2019.05.30-19.32.15:638][426]LogWorld: Bringing up level for play took: 0.003915
+[2019.05.30-19.32.15:654][426]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.30-19.32.15:654][426]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.30-19.32.15:654][426]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.30-19.32.15:656][426]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.15:658][426]LogTemp: Bone cache synced: 0
+[2019.05.30-19.32.15:658][426]LogTemp: Bone cache synced: 20
+[2019.05.30-19.32.15:660][426]LeapMotionLog: AddEventDelegate (1).
+[2019.05.30-19.32.15:666][426]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.30-19.32.15:677][426]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.541
+[2019.05.30-19.32.15:678][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.32.17:103][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-19.32.18:272][536]LogTemp: Error: Failed to setup port COM2. Error: 00000006
+[2019.05.30-19.32.19:519][592]LogBlueprintUserMessages: [BP_Pawn_C_0] Hello
+[2019.05.30-19.32.19:528][592]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.19:567][594]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.19:672][599]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.19:782][604]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.19:886][609]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.19:975][613]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:077][618]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:098][619]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:181][623]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:201][624]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:285][628]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:305][629]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:389][633]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:496][638]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:596][643]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:616][644]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:699][648]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:718][649]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:801][653]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.20:820][654]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.20:906][658]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.21:014][663]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.21:123][668]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.21:229][673]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.21:334][678]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.21:420][682]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.21:442][683]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.21:531][687]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.21:638][692]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.21:862][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-19.32.22:014][695]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.22:094][696]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.22:154][699]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.22:251][704]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.22:370][709]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.22:474][714]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.22:996][744]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.23:089][749]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.23:193][754]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.23:294][759]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.23:388][763]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.23:405][764]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.23:831][788]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.23:902][791]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.23:928][792]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.24:024][796]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.24:125][800]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.24:222][804]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.24:325][808]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.24:444][813]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.24:543][817]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.24:640][821]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.24:753][824]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.24:847][828]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.24:951][833]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.25:061][838]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.25:164][843]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.25:265][848]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.25:366][853]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.25:470][858]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.25:569][863]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.25:669][868]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.25:770][873]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.25:792][874]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.25:895][879]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.25:980][883]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.27:093][945]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.27:148][947]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.27:233][951]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.27:337][956]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.27:450][961]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.27:536][965]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.27:642][970]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.27:741][975]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.28:265][  4]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.28:367][  9]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.28:477][ 14]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.28:563][ 18]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.28:585][ 19]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.28:689][ 24]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.28:773][ 28]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.28:879][ 34]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.28:985][ 39]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.29:089][ 44]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.29:193][ 49]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.29:297][ 54]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.29:405][ 59]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.29:507][ 64]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.29:612][ 69]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.29:712][ 74]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.29:815][ 79]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.29:919][ 84]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.30:022][ 89]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.30:128][ 94]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.30:235][ 99]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.30:341][104]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.30:442][109]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.30:544][114]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.30:649][119]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.31:024][122]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.31:061][124]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.31:168][129]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.31:280][134]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.31:371][138]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.31:480][143]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.31:586][148]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.31:679][152]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.31:789][157]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.31:902][162]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.31:990][166]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.32:104][171]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.32:193][175]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.32:303][180]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.32:411][185]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.32:501][189]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.32:522][190]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.32:610][194]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.32:724][199]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.32:836][204]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.32:926][208]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.33:034][213]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.33:124][217]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.33:146][218]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.33:238][222]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.33:347][227]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.33:439][231]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.33:553][236]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.33:644][240]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.33:756][245]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.33:846][249]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.33:870][250]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.33:961][254]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:053][258]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:075][259]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:168][263]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:278][268]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:373][272]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:466][276]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:488][277]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:576][281]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:674][285]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:786][290]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:902][295]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.34:992][299]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.35:104][304]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.35:191][308]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.35:302][313]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.35:416][318]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.35:505][322]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.35:616][327]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.35:708][331]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.35:733][332]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.35:819][336]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.35:934][341]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.36:023][345]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.36:132][350]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.36:243][355]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.36:338][359]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.36:451][364]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.36:539][368]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.36:654][373]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.36:744][377]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.36:857][382]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.36:957][386]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.37:070][391]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.37:157][395]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.37:268][400]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.37:383][405]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.37:476][409]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.37:568][413]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.37:588][414]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.37:686][418]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.37:799][423]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.37:891][427]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.37:982][431]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.38:006][432]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.38:095][436]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.38:209][441]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.38:300][445]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.38:410][450]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.38:497][454]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.38:523][455]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.38:612][459]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.38:705][463]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.38:728][464]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.38:820][468]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.38:914][472]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.39:027][477]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.39:118][481]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.39:233][486]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.39:323][490]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.39:437][495]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.39:546][500]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.39:643][504]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.39:742][508]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.39:835][512]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.39:856][513]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.39:948][517]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:039][521]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:062][522]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.40:152][526]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:241][530]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:265][531]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.40:352][535]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:466][540]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:555][544]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:650][548]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:672][549]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:764][553]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:855][557]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:878][558]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.40:975][562]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.41:065][566]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.41:180][571]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.41:270][575]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.41:383][580]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.41:472][584]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.41:494][585]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.41:584][589]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.41:697][594]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.42:784][642]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.42:806][643]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.42:897][647]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.43:012][652]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.43:124][657]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.43:217][661]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.43:328][666]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.43:442][671]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.43:533][675]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.43:648][680]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.43:765][685]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.43:852][689]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.43:952][693]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.43:979][694]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.44:065][698]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.44:185][703]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.44:278][707]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.44:399][712]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.44:490][716]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.44:605][721]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.44:719][726]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.44:811][730]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.44:930][735]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:021][739]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:130][744]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:157][745]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:246][749]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:341][753]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:456][758]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:548][762]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:573][763]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:668][767]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:760][771]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:874][776]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.45:968][780]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.46:087][785]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.46:197][789]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.46:288][793]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.46:339][795]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.32.46:392][797]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.46:421][798]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.32.46:496][801]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.46:591][805]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.46:612][806]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.46:707][810]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.46:800][814]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.46:827][815]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.46:927][819]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.32.46:929][819]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.47:025][823]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.47:104][826]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.32.47:129][827]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.47:234][831]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.47:254][832]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.32.47:334][835]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.47:436][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.32.47:437][839]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.47:514][842]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.32.47:537][843]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.47:638][847]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.47:666][848]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.47:752][852]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.47:867][857]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.47:962][861]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.48:071][866]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.48:182][871]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.48:280][875]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.48:377][879]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.48:488][884]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.48:582][888]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.48:603][889]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.48:696][893]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.48:810][898]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.48:907][902]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.49:017][907]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.49:108][911]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.49:218][916]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.49:332][921]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.49:421][925]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.49:535][930]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.49:649][935]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.49:743][939]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.49:857][944]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.49:948][948]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.50:061][953]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.50:150][957]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.50:177][958]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.32.50:264][962]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.50:375][967]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.50:468][971]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.50:584][976]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.50:672][980]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.50:695][981]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.50:784][985]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.50:878][989]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.50:997][994]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.51:090][998]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.51:200][  3]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.51:292][  7]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.51:315][  8]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.51:407][ 12]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.51:516][ 17]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.51:605][ 21]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.51:628][ 22]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.51:717][ 26]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.51:829][ 31]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.51:924][ 35]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.52:040][ 40]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.52:125][ 44]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.52:148][ 45]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.52:237][ 49]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.52:345][ 54]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.52:434][ 58]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.52:456][ 59]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.52:549][ 63]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.52:638][ 67]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.52:661][ 68]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.52:750][ 72]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.52:942][ 76]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.52:963][ 77]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:053][ 81]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:074][ 82]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:165][ 86]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:279][ 91]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:374][ 95]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:467][ 99]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:590][104]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:671][107]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:695][108]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:772][111]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:803][112]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:884][115]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.53:993][119]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.54:104][123]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.54:183][126]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.54:213][127]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.54:293][130]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.54:321][131]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.32.54:397][134]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.32.54:398][134]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.54:498][138]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.54:594][142]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.54:616][143]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.54:712][147]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.54:808][151]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.54:922][156]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.55:016][160]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.55:134][165]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.55:228][169]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.55:323][173]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.55:346][174]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.55:441][178]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.55:534][182]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.55:636][186]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.55:752][191]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.55:851][195]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.55:947][199]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.56:044][203]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.56:141][207]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.56:255][212]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.56:348][216]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.56:371][217]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.56:465][221]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.56:559][225]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.56:678][230]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.56:773][234]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.56:869][238]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.56:989][243]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.57:082][247]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.57:175][251]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.57:198][252]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.32.57:294][256]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.57:389][260]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.57:487][264]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.57:512][265]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.57:591][268]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.57:689][272]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.57:715][273]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.57:807][277]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.57:897][281]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.57:923][282]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.58:015][286]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.58:107][290]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.58:222][295]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.58:318][299]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.58:435][304]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.58:531][308]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.58:622][312]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.58:741][317]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.58:850][322]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.58:948][326]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.59:038][330]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.59:155][335]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.59:244][339]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.59:266][340]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.59:357][344]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.32.59:450][348]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.59:566][353]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.59:661][357]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.59:755][361]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.59:778][362]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.59:874][366]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.32.59:968][370]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.00:070][374]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.00:186][379]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.00:277][383]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.00:373][387]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.00:470][391]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.00:490][392]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.00:587][396]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.00:685][400]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.00:802][405]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.00:899][409]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.00:991][413]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.01:011][414]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.01:103][418]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.01:217][423]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.01:307][427]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.01:425][432]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.01:518][436]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.01:632][441]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.01:723][445]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.01:836][450]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.01:935][454]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:048][459]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:144][463]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:238][467]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:259][468]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:353][472]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:453][476]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:560][480]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:661][484]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:766][488]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:861][492]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:891][493]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.02:966][496]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.03:081][501]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.03:170][505]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.03:195][506]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.03:290][510]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.03:382][514]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.03:487][518]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.03:591][522]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.03:695][526]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.03:798][530]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.03:904][534]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.04:013][538]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.04:119][542]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.04:223][546]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.04:332][550]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.04:441][554]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.04:521][557]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.04:624][561]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.04:741][565]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.04:863][569]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.04:863][569]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.04:864][569]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.04:938][571]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.04:963][572]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.05:055][575]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.05:149][578]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.05:254][581]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.05:370][585]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.05:463][588]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.05:587][592]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.05:684][595]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.05:780][598]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.05:899][602]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.05:997][605]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.06:093][608]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.06:185][611]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.06:315][615]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.06:404][618]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.06:496][621]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.06:629][625]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.06:722][628]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.06:777][630]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.06:812][631]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.06:874][633]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.06:909][634]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.06:947][635]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.07:013][637]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.07:015][637]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.07:048][638]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.07:103][640]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.07:136][641]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.07:170][642]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.07:231][644]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.07:339][648]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.07:368][649]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.07:445][652]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.07:536][656]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.07:656][661]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.07:750][665]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.07:849][669]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.07:956][673]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.08:052][676]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.08:053][676]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.08:133][679]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.08:161][680]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.08:268][684]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.08:378][688]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.08:488][692]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.08:574][695]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.08:680][699]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.08:784][703]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.08:906][707]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.08:991][710]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.09:094][714]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.09:200][718]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.09:202][718]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.09:308][722]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.09:333][723]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.05.30-19.33.09:413][726]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.09:523][730]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.09:616][734]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.09:710][738]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.09:735][739]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.09:825][743]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.09:922][747]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.09:946][748]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:042][752]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:133][756]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:249][761]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:342][765]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:440][769]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:551][774]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:647][778]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:673][779]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:762][783]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:860][787]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:958][791]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.10:980][792]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.11:075][796]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.11:167][800]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.11:281][805]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.11:378][809]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.11:495][814]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.11:588][818]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.11:686][822]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.11:802][827]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.11:896][831]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:013][836]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:107][840]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:203][844]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:227][845]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:323][849]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:411][853]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:529][858]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:621][862]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:739][867]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:831][871]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:927][875]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.12:951][876]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.13:044][880]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.13:142][884]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.13:256][889]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.13:356][893]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.13:458][897]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.13:556][901]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.13:675][906]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.13:772][910]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.13:866][914]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.13:982][919]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.14:079][923]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.14:191][928]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.14:281][932]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.14:397][937]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.14:490][941]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.14:608][946]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.14:704][950]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.14:798][954]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.14:919][959]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.15:010][963]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.15:126][968]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.15:218][972]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.15:335][977]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.15:428][981]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.15:523][985]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.15:545][986]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.15:643][990]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.15:737][994]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.15:854][999]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.15:953][  3]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.16:049][  7]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.16:164][ 12]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.16:263][ 16]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.16:355][ 20]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.16:473][ 25]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.16:569][ 29]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.16:671][ 33]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.16:788][ 38]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.16:879][ 42]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.17:000][ 47]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.17:094][ 51]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.17:186][ 55]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.17:288][ 59]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.17:310][ 60]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.17:404][ 64]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.17:501][ 68]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.17:620][ 73]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.17:712][ 77]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.17:808][ 81]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.17:914][ 85]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.18:172][ 96]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.18:266][100]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.18:361][104]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.18:385][105]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.18:481][109]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.18:575][113]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.18:698][118]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.18:791][122]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.18:886][126]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.18:985][130]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.19:100][135]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.19:196][139]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.19:308][144]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.19:402][148]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.19:515][153]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.19:608][157]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.19:726][162]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.19:821][166]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.19:923][170]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.20:038][175]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.20:134][179]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.20:229][183]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.20:344][188]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.20:438][192]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.20:558][197]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.20:658][201]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.20:755][205]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.20:876][210]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.20:972][214]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.21:063][218]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.21:089][219]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.21:188][223]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.21:286][227]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.21:377][231]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.21:495][236]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.21:585][240]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.21:704][245]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.21:801][249]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.21:898][253]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.21:995][257]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.22:021][258]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.22:117][262]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.22:216][266]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.22:308][270]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.22:332][271]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.22:425][275]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.22:521][279]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.22:633][284]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.22:729][288]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.22:848][293]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.22:947][297]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.23:038][301]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.23:158][306]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.23:251][310]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.23:348][314]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.23:467][319]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.23:562][323]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.23:654][327]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.23:676][328]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.23:772][332]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.23:865][336]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.23:986][341]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.24:079][345]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.24:177][349]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.24:293][354]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.24:387][358]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.24:502][363]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.24:593][367]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.24:692][371]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.24:714][372]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.24:808][376]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.24:910][380]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.25:007][384]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.25:130][389]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.25:225][393]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.25:318][397]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.25:433][402]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.25:528][406]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.25:644][411]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.25:741][415]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.25:836][419]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.25:954][424]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.26:049][428]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.26:156][432]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.26:250][436]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.26:368][441]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.26:465][445]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.26:562][449]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.26:682][454]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.26:776][458]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.26:869][462]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.26:896][463]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.26:992][467]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.27:088][471]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.27:183][475]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.27:204][476]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.27:302][480]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.27:397][484]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.27:495][488]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.27:612][493]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.27:707][497]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.27:823][502]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.27:929][506]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:023][510]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:120][514]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:217][518]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:240][519]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:334][523]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:427][527]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:451][528]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:545][532]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:640][536]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:759][541]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:854][545]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.28:952][549]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.29:067][554]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.29:164][558]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.29:263][562]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.29:358][566]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.29:475][571]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.29:568][575]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.29:688][580]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.29:782][584]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.29:880][588]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.29:978][592]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.30:002][593]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.30:096][597]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.30:190][601]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.30:310][606]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.30:404][610]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.30:498][614]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.30:523][615]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.30:619][619]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.30:717][623]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.30:813][627]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.30:911][631]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.30:935][632]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:032][636]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:130][640]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:222][644]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:249][645]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:342][649]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:440][653]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:558][658]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:653][662]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:748][666]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:846][670]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:868][671]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.31:967][675]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.32:062][679]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.32:167][683]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.32:263][687]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.32:380][692]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.32:475][696]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.32:570][700]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.32:592][701]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.32:691][705]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.32:785][709]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.32:881][713]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.32:907][714]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.33:002][718]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.33:104][722]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.33:199][726]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.33:316][731]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.33:413][735]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.33:511][739]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.33:607][743]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.33:633][744]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.33:727][748]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.33:821][752]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.33:924][756]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.34:043][761]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.34:142][765]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.34:232][769]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.34:259][770]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.34:354][774]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.34:449][778]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.34:546][782]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.34:666][787]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.34:761][791]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.34:857][795]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.34:955][799]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.34:980][800]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.35:073][804]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.35:170][808]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.35:263][812]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.35:291][813]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.35:383][817]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.35:482][821]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.35:576][825]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.35:676][829]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.35:798][834]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.35:894][838]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.35:995][842]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.36:092][846]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.36:209][851]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.36:308][855]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.36:404][859]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.36:522][864]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.36:622][868]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.36:719][872]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.36:840][877]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.36:939][881]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.37:036][885]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.37:153][890]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.37:249][894]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.37:346][898]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.37:371][899]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.37:466][903]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.37:561][907]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.37:681][912]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.37:775][916]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.37:872][920]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.37:901][921]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.37:977][924]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.38:096][929]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.38:191][933]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.38:310][938]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.38:400][942]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.38:502][946]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.38:620][951]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.38:718][955]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.38:814][959]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.38:838][960]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.38:940][964]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.39:037][968]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.39:132][972]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.39:251][977]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.39:349][981]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.39:445][985]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.39:562][990]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.39:659][994]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.39:756][998]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.39:780][999]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.39:878][  3]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.39:980][  7]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.40:077][ 11]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.40:194][ 16]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.40:289][ 20]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.40:388][ 24]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.40:486][ 28]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.40:510][ 29]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.40:608][ 33]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.40:705][ 37]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.40:803][ 41]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.40:903][ 45]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.41:004][ 49]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.41:028][ 50]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.41:128][ 54]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.41:225][ 58]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.41:322][ 62]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.41:418][ 66]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.41:443][ 67]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.41:542][ 71]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.41:641][ 75]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.41:741][ 79]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.41:841][ 83]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.41:943][ 87]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.41:967][ 88]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.42:067][ 92]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.42:163][ 96]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.42:266][100]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.42:362][104]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.42:390][105]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.42:466][108]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.42:586][113]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.42:686][117]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.42:783][121]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.42:881][125]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.42:987][129]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.43:109][134]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.43:207][138]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.43:307][142]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.43:406][146]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.43:507][150]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.43:628][155]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.43:733][159]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.43:830][163]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.43:931][167]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.44:033][171]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.44:060][172]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.44:158][176]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.44:262][180]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.44:362][184]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.44:464][188]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.44:560][192]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.44:664][196]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.44:761][200]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.44:877][205]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.44:982][209]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.45:083][213]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.45:184][217]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.45:284][221]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.45:381][225]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.45:503][230]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.45:602][234]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.45:700][238]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.45:797][242]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.45:823][243]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.45:899][246]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.45:924][247]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.46:022][251]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.46:121][255]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.46:219][259]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.46:320][263]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.46:418][267]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.46:542][272]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.46:639][276]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.46:746][280]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.46:842][284]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.46:942][288]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.47:067][293]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.47:168][297]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.47:264][301]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.47:365][305]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.47:470][309]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.47:567][313]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.47:596][314]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.47:675][317]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.47:782][321]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.47:881][325]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.47:987][329]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.48:092][333]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.48:191][337]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.48:292][341]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.48:318][342]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.48:421][346]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.48:519][350]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.48:621][354]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.48:722][358]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.48:819][362]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.48:926][366]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.49:028][370]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.49:133][374]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.49:235][378]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.49:336][382]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.49:433][386]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.49:461][387]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.49:536][390]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.49:563][391]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.49:658][395]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.49:741][398]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.49:766][399]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.49:863][403]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.49:965][407]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.50:063][411]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.50:162][415]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.50:284][420]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.50:385][424]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.50:482][428]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.50:583][432]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.50:686][436]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.50:784][440]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.50:910][445]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.51:007][449]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.51:104][453]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.51:204][457]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.51:326][462]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.51:423][466]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.51:519][470]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.51:620][474]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.51:723][478]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.51:820][482]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.51:847][483]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.51:922][486]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.51:949][487]LogBlueprintUserMessages: [BP_Pawn_C_0] 
+[2019.05.30-19.33.52:050][491]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.52:149][495]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.52:252][499]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.52:348][503]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.52:450][507]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.52:553][511]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.52:652][515]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.52:752][519]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.52:874][524]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.52:979][528]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.53:079][532]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.53:183][536]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.53:282][540]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.53:382][544]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.53:479][548]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.53:579][552]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.54:687][593]LogBlueprintUserMessages: [BP_Pawn_C_0] D
+[2019.05.30-19.33.54:814][598]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.54:917][602]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.55:013][606]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.55:113][610]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.55:213][614]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.55:312][618]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.55:413][622]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.55:536][627]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.55:636][631]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.55:739][635]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.55:836][639]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.55:939][643]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.56:035][647]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.56:153][652]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.56:252][656]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.56:349][660]LogBlueprintUserMessages: [BP_Pawn_C_0] S
+[2019.05.30-19.33.56:449][664]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.56:476][665]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.56:573][669]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.56:673][673]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.56:769][677]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.56:868][681]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.56:895][682]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.56:973][685]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.56:998][686]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.57:096][690]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.57:196][694]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.57:296][698]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.57:397][702]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.57:522][707]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.57:623][711]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.57:727][715]LogBlueprintUserMessages: [BP_Pawn_C_0] U
+[2019.05.30-19.33.57:754][716]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.33.57:756][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-19.33.57:850][716]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.30-19.33.57:940][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.30-19.33.57:941][716]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.05.30-19.33.58:456][717]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.05.30-19.34.04:424][ 49]BlueprintLog: New page: Compile BP_Pawn
+[2019.05.30-19.34.04:589][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:591][ 49]LogTemp: Bone cache synced: 0
+[2019.05.30-19.34.04:592][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:595][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:596][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:597][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:597][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:600][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:600][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:602][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:602][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:604][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:604][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:606][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:606][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:608][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:608][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:611][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.04:611][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.05:018][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.05:020][ 49]LogTemp: Bone cache synced: 0
+[2019.05.30-19.34.05:020][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.05:061][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.05:063][ 49]LogTemp: Bone cache synced: 0
+[2019.05.30-19.34.05:063][ 49]LogTemp: Bone cache synced: 20
+[2019.05.30-19.34.05:478][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Character/BP_Pawn" FILE="../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset" SILENT=true
+[2019.05.30-19.34.05:712][ 52]LogSavePackage: Moving '../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Saved/BP_Pawn454CA17C44168D5885E42499C6ED69E7.tmp' to '../../../../../../Users/Samuel/Desktop/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset'
+[2019.05.30-19.34.16:258][613]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.30-19.34.16:258][613]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
