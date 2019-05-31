@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UE4Duino.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\UE4Duino\Intermediate\Build\Win64\UE4Editor\Development\UE4Duino\Module.UE4Duino.cpp.obj"
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\UE4Duino\Intermediate\Build\Win64\UE4Editor\Development\UE4Duino\Module.UE4Duino.gen.cpp.obj"
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\UE4Duino\Intermediate\Build\Win64\UE4Editor\Development\UE4Duino\PCLaunch.rc.res"
+/OUT:"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\UE4Duino\Intermediate\Build\Win64\UE4Editor\Development\UE4Duino\UE4Editor-UE4Duino.lib"

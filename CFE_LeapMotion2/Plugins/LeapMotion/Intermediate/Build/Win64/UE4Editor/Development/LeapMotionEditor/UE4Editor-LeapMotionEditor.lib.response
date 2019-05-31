@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LeapMotionEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\LeapMotion\Intermediate\Build\Win64\UE4Editor\Development\LeapMotionEditor\Module.LeapMotionEditor.cpp.obj"
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\LeapMotion\Intermediate\Build\Win64\UE4Editor\Development\LeapMotionEditor\Module.LeapMotionEditor.gen.cpp.obj"
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\LeapMotion\Intermediate\Build\Win64\UE4Editor\Development\LeapMotionEditor\PCLaunch.rc.res"
+/OUT:"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\LeapMotion\Intermediate\Build\Win64\UE4Editor\Development\LeapMotionEditor\UE4Editor-LeapMotionEditor.lib"

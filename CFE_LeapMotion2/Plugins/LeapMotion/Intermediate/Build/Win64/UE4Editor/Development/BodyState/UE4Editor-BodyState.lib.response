@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BodyState.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\LeapMotion\Intermediate\Build\Win64\UE4Editor\Development\BodyState\Module.BodyState.cpp.obj"
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\LeapMotion\Intermediate\Build\Win64\UE4Editor\Development\BodyState\Module.BodyState.gen.cpp.obj"
+"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\LeapMotion\Intermediate\Build\Win64\UE4Editor\Development\BodyState\PCLaunch.rc.res"
+/OUT:"C:\Users\diego\Desktop\CFE_RV-master\CFE_LeapMotion2\Plugins\LeapMotion\Intermediate\Build\Win64\UE4Editor\Development\BodyState\UE4Editor-BodyState.lib"
