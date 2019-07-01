@@ -1,0 +1,1449 @@
+﻿Log file open, 06/29/19 20:59:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CFE_LeapMotion
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.275856
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UE4Duino
+LogStreaming: Display: Took  0.258s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G, GPU: AMD Radeon(TM) R6 Graphics
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.30-01.59.06:244][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.30-01.59.06:244][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.30-01.59.06:244][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.06.30-01.59.06:245][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.30-01.59.06:245][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.30-01.59.06:246][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.30-01.59.06:246][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.30-01.59.06:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.06.30-01.59.06:246][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.06.30-01.59.06:251][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.30-01.59.06:251][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.30-01.59.06:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.30-01.59.06:253][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.30-01.59.06:254][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.30-01.59.06:254][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.30-01.59.06:254][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.30-01.59.06:254][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:254][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.30-01.59.06:254][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.30-01.59.06:254][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.30-01.59.06:254][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.30-01.59.06:286][  0]LogHAL: Display: Platform has ~ 7 GB [7455145984 / 8589934592 / 7], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.30-01.59.06:287][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.30-01.59.06:287][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.06.30-01.59.06:287][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.30-01.59.06:288][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.06.30-01.59.06:289][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.30-01.59.06:290][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.30-01.59.06:290][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Config/Windows/Engine.ini]
+[2019.06.30-01.59.06:290][  0]LogInit: Computer: DESKTOP-RTM83TK
+[2019.06.30-01.59.06:290][  0]LogInit: User: Samuel
+[2019.06.30-01.59.06:290][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.30-01.59.06:290][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.30-01.59.06:291][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2019.06.30-01.59.06:291][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.30-01.59.06:291][  0]LogMemory: Process Physical Memory: 103.58 MB used, 103.58 MB peak
+[2019.06.30-01.59.06:291][  0]LogMemory: Process Virtual Memory: 85.11 MB used, 85.11 MB peak
+[2019.06.30-01.59.06:291][  0]LogMemory: Physical Memory: 3359.56 MB used,  3750.22 MB free, 7109.78 MB total
+[2019.06.30-01.59.06:291][  0]LogMemory: Virtual Memory: 4616.36 MB used,  134213112.00 MB free, 134217728.00 MB total
+[2019.06.30-01.59.06:337][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.06.30-01.59.06:337][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.06.30-01.59.07:067][  0]LogStreaming: Display: Took  0.730s to InitEngineTextLocalization.
+[2019.06.30-01.59.07:067][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.30-01.59.07:142][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.30-01.59.07:142][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.30-01.59.07:689][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.30-01.59.07:689][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.30-01.59.07:754][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R6 Graphics' (Feature Level 11_0)
+[2019.06.30-01.59.07:754][  0]LogD3D11RHI:       1012/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.06.30-01.59.07:761][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.30-01.59.07:761][  0]LogD3D11RHI:       0/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.30-01.59.07:761][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.30-01.59.07:778][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.30-01.59.07:778][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.30-01.59.07:778][  0]LogWindows: EnumDisplayDevices:
+[2019.06.30-01.59.07:779][  0]LogWindows:    0. 'AMD Radeon(TM) R6 Graphics' (P:1 D:1)
+[2019.06.30-01.59.07:780][  0]LogWindows:    1. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.06.30-01.59.07:780][  0]LogWindows:    2. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.06.30-01.59.07:781][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.06.30-01.59.07:781][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R6 Graphics
+[2019.06.30-01.59.07:781][  0]LogD3D11RHI:   Driver Version: 15.201.1101.1002 (internal:15.201.1101.1002, unified:15.201.1101.1002)
+[2019.06.30-01.59.07:781][  0]LogD3D11RHI:      Driver Date: 8-21-2015
+[2019.06.30-01.59.07:781][  0]LogRHI: Texture pool is 708 MB (70% of 1012 MB)
+[2019.06.30-01.59.07:981][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.30-01.59.08:018][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2019.06.30-01.59.09:099][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.30-01.59.09:131][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.30-01.59.09:163][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.30-01.59.09:194][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.30-01.59.09:225][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.30-01.59.09:256][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.30-01.59.09:287][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.30-01.59.09:317][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.30-01.59.09:332][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.30-01.59.09:501][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:501][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.30-01.59.09:505][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.30-01.59.09:605][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.30-01.59.09:605][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.30-01.59.09:656][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.30-01.59.09:656][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.30-01.59.09:686][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.30-01.59.09:716][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.30-01.59.09:748][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.30-01.59.09:778][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.30-01.59.09:886][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.30-01.59.09:886][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.30-01.59.09:886][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.30-01.59.10:018][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Intermediate/Shaders/WorkingDirectory/9464/).
+[2019.06.30-01.59.10:019][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel/AppData/Local/Temp/UnrealShaderWorkingDir/2E2FF78D4CB9755C35FDCEAF474B6135/'.
+[2019.06.30-01.59.10:023][  0]LogXGEController: Cleaning working directory: C:/Users/Samuel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.30-01.59.10:023][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.30-01.59.10:024][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.30-01.59.10:024][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.30-01.59.11:366][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.30-01.59.11:519][  0]LogDerivedDataCache: Loaded boot cache 0.15s 71MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.30-01.59.11:520][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.30-01.59.11:520][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.30-01.59.11:520][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.30-01.59.11:520][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.30-01.59.11:520][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.30-01.59.11:551][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.30-01.59.11:552][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.30-01.59.11:552][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.30-01.59.11:566][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.30-01.59.11:566][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.30-01.59.11:566][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.30-01.59.11:622][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.30-01.59.11:625][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.30-01.59.11:627][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.30-01.59.11:795][  0]LogAssetRegistry: FAssetRegistry took 0.0483 seconds to start up
+[2019.06.30-01.59.12:656][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.30-01.59.13:031][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.30-01.59.13:040][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.30-01.59.13:040][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.30-01.59.13:040][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.30-01.59.13:040][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.30-01.59.13:075][  0]LogNetVersion: CFE_LeapMotion 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1837852655)
+[2019.06.30-01.59.14:634][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.259401 seconds
+[2019.06.30-01.59.14:652][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.30-01.59.14:652][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.30-01.59.14:652][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.30-01.59.16:788][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.30-01.59.16:805][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.30-01.59.18:348][  0]UE4DuinoLog: Warning: UE4Duino: Log Started
+[2019.06.30-01.59.18:452][  0]SourceControl: Source control is disabled
+[2019.06.30-01.59.21:110][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.30-01.59.21:245][  0]LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' (GetLastError=126)
+[2019.06.30-01.59.21:245][  0]LogWindows: File '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' does not exist
+[2019.06.30-01.59.21:245][  0]LeapMotionLog: Leap Plugin started v3.3.1
+[2019.06.30-01.59.21:253][  0]LogOcInput: OculusInput pre-init called
+[2019.06.30-01.59.21:479][  0]LogClass: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly
+[2019.06.30-01.59.21:479][  0]LogClass: Warning: FBodyStateDeviceConfig::InputType is not initialized properly
+[2019.06.30-01.59.21:479][  0]LogClass: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly
+[2019.06.30-01.59.21:479][  0]LogClass: Display: 3 Uninitialized script stuct members found
+[2019.06.30-01.59.21:481][  0]LogAutomationTest: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly
+[2019.06.30-01.59.21:481][  0]LogAutomationTest: Warning: FBodyStateDeviceConfig::InputType is not initialized properly
+[2019.06.30-01.59.21:481][  0]LogAutomationTest: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly
+[2019.06.30-01.59.21:487][  0]LogEngine: Initializing Engine...
+[2019.06.30-01.59.21:488][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.30-01.59.21:492][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.30-01.59.21:492][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.30-01.59.21:492][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.06.30-01.59.21:492][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.30-01.59.22:097][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.30-01.59.22:141][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.30-01.59.22:164][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-01.59.22:239][  0]LogInit: FAudioDevice initialized.
+[2019.06.30-01.59.22:240][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.30-01.59.23:015][  0]LogDerivedDataCache: Saved boot cache 0.77s 71MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.30-01.59.23:050][  0]LogInit: Texture streaming: Enabled
+[2019.06.30-01.59.23:096][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.30-01.59.23:134][  0]LogInit: Transaction tracking system initialized
+[2019.06.30-01.59.23:194][  0]BlueprintLog: New page: Editor Load
+[2019.06.30-01.59.23:384][  0]LocalizationService: Localization service is disabled
+[2019.06.30-01.59.25:644][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/' took 0.03s
+[2019.06.30-01.59.25:644][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.30-01.59.25:644][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.30-01.59.25:644][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.30-01.59.25:645][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.30-01.59.25:645][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.30-01.59.25:645][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.30-01.59.25:645][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.30-01.59.25:995][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.30-01.59.25:996][  0]LightingResults: New page: Lighting Build
+[2019.06.30-01.59.26:001][  0]MapCheck: New page: Map Check
+[2019.06.30-01.59.26:001][  0]LightingResults: New page: Lighting Build
+[2019.06.30-01.59.26:710][  0]LogBlueprint: Error: [Compiler BP_Inventory] In use pin  Item BP Item Class  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.06.30-01.59.26:710][  0]LogBlueprint: Error: [Compiler BP_Inventory] In use pin  BP Item Class  no longer exists on node  Get (a ref) . Please refresh node or break links to remove pin.
+[2019.06.30-01.59.26:712][  0]LogBlueprint: Error: [Compiler BP_Inventory] In use pin  BP Item  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.06.30-01.59.26:712][  0]LogBlueprint: Error: [Compiler BP_Inventory] In use pin  BP Item  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.06.30-01.59.26:713][  0]LogBlueprint: Error: [Compiler BP_Inventory] In use pin  BP Item  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.06.30-01.59.26:713][  0]LogBlueprint: Error: [Compiler BP_Inventory] In use pin  BP Item  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.06.30-01.59.26:713][  0]LogBlueprint: Error: [Compiler BP_Inventory] In use pin  Can Interact?  no longer exists on node  SpawnActor . Please refresh node or break links to remove pin.
+[2019.06.30-01.59.26:714][  0]LogBlueprint: Error: [Compiler BP_Inventory] In use pin  Its Not Trigger?  no longer exists on node  SpawnActor . Please refresh node or break links to remove pin.
+[2019.06.30-01.59.26:714][  0]LogBlueprint: Error: [Compiler BP_Inventory] In use pin  BP Inventory  no longer exists on node  SpawnActor . Please refresh node or break links to remove pin.
+[2019.06.30-01.59.26:714][  0]LogBlueprint: Error: [Compiler BP_Inventory] In use pin  Process Index  no longer exists on node  SpawnActor . Please refresh node or break links to remove pin.
+[2019.06.30-01.59.26:714][  0]LogBlueprint: Error: [Compiler BP_Inventory] In use pin  Process Index Change  no longer exists on node  SpawnActor . Please refresh node or break links to remove pin.
+[2019.06.30-01.59.26:718][  0]LogBlueprint: Error: [Compiler BP_Inventory] This blueprint (self) is not a StaticMeshActor, therefore ' Target ' must have a connection.
+[2019.06.30-01.59.26:718][  0]LogBlueprint: Error: [Compiler BP_Inventory] This blueprint (self) is not a StaticMeshActor, therefore ' Target ' must have a connection.
+[2019.06.30-01.59.26:863][  0]LogBlueprint: Error: [Compiler BP_Inventory] Variable node  Get StaticMeshComponent  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.06.30-01.59.26:863][  0]LogBlueprint: Error: [Compiler BP_Inventory] Variable node  Get StaticMeshComponent  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.06.30-01.59.26:984][  0]LogBlueprint: Warning: [Compiler BP_Inventory] [0023.54] Compile of BP_Inventory failed. 15 Fatal Issue(s) 0 Warning(s) [in 367 ms] (/Game/BP_Items/Inventory/BP_Inventory.BP_Inventory)
+[2019.06.30-01.59.30:698][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.30-01.59.30:729][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.30-01.59.30:895][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.30-01.59.30:896][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.457ms to complete.
+[2019.06.30-01.59.30:896][  0]LogFileHelpers: Loading map 'Minimal_Default' took 4.901
+[2019.06.30-01.59.31:085][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-01.59.31:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-01.59.31:134][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-01.59.31:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-01.59.31:176][  0]LogCollectionManager: Loaded 0 collections in 0.004335 seconds
+[2019.06.30-01.59.31:214][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Collections/' took 0.01s
+[2019.06.30-01.59.31:215][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/Developers/Samuel/Collections/' took 0.01s
+[2019.06.30-01.59.31:215][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/Collections/' took 0.00s
+[2019.06.30-01.59.31:215][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.30-01.59.31:243][  0]LogContentBrowser: Native class hierarchy populated in 0.0276 seconds. Added 2666 classes and 631 folders.
+[2019.06.30-01.59.31:261][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.06.30-01.59.31:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:269][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:271][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:273][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:276][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:278][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:279][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:282][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:288][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:292][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:297][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:299][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:312][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:318][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-01.59.31:427][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.06.30-01.59.31:440][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.06.30-01.59.31:652][  0]LogSlate: Took 0.000518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.30-01.59.31:657][  0]LogSlate: Took 0.000543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.30-01.59.31:672][  0]LogSlate: Took 0.001027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.30-01.59.31:904][  0]LogRenderer: Reallocating scene render targets to support 832x348 Format 9 NumSamples 1 (Frame:1).
+[2019.06.30-01.59.32:627][  0]LogSlate: Took 0.000576 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.30-01.59.32:812][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.06.30-01.59.32:812][  0]LogLoad: (Engine Initialization) Total time: 29.36 seconds
+[2019.06.30-01.59.32:813][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.30-01.59.32:852][  0]LeapMotionLog: ServiceMessageLoop started.
+[2019.06.30-01.59.32:852][  0]BodyStateLog: BodyState::DeviceAttached: Leap Motion (1)
+[2019.06.30-01.59.32:854][  0]BodyStateLog: BodyState::DeviceAttached: HMD (2)
+[2019.06.30-01.59.32:983][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.06.30-01.59.33:105][  1]LeapMotionLog: LeapService: OnConnect.
+[2019.06.30-01.59.33:163][  1]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.06.30-01.59.33:163][  1]LeapMotionLog: OnDeviceFound Peripheral *.
+[2019.06.30-01.59.34:403][  9]LogAssetRegistry: Asset discovery search completed in 22.6331 seconds
+[2019.06.30-01.59.34:406][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.30-01.59.34:407][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000202 seconds (updated 0 objects)
+[2019.06.30-01.59.34:974][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-01.59.35:061][ 34]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-01.59.35:133][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-01.59.35:134][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-01.59.39:555][ 34]LogSlate: Window 'Message' being destroyed
+[2019.06.30-01.59.42:654][202]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-01.59.42:720][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-01.59.42:720][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-01.59.45:031][202]LogSlate: Window 'Message' being destroyed
+[2019.06.30-01.59.45:041][202]PIE: New page: PIE session: Minimal_Default (Jun 29, 2019, 3:59:45 PM)
+[2019.06.30-01.59.45:055][202]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.30-01.59.45:073][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017501s)
+[2019.06.30-01.59.45:075][202]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.30-01.59.45:075][202]LogPlayLevel: PIE: World Init took: (0.001964s)
+[2019.06.30-01.59.45:075][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.020277s)
+[2019.06.30-01.59.45:144][202]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-01.59.45:199][202]LogInit: FAudioDevice initialized.
+[2019.06.30-01.59.45:218][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-01.59.45:274][202]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.06.30-01.59.45:280][202]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.06.29-20.59.45
+[2019.06.30-01.59.45:282][202]LogWorld: Bringing up level for play took: 0.005207
+[2019.06.30-01.59.45:308][202]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2019.06.30-01.59.45:308][202]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-01.59.45:308][202]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-01.59.45:308][202]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-01.59.45:311][202]LogTemp: Bone cache synced: 20
+[2019.06.30-01.59.45:315][202]LogTemp: Bone cache synced: 0
+[2019.06.30-01.59.45:315][202]LogTemp: Bone cache synced: 20
+[2019.06.30-01.59.45:317][202]LeapMotionLog: AddEventDelegate (1).
+[2019.06.30-01.59.45:325][202]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-01.59.45:334][202]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.851
+[2019.06.30-01.59.45:334][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-01.59.45:397][202]LogRenderer: Reallocating scene render targets to support 916x536 Format 9 NumSamples 1 (Frame:1).
+[2019.06.30-01.59.47:330][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-01.59.53:047][527]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-01.59.57:051][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-01.59.57:052][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-01.59.57:135][696]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-01.59.57:153][696]LeapMotionLog: LeapServiceLog: Tracking optimized for head-mounted device
+[2019.06.30-01.59.57:180][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-01.59.57:180][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-01.59.57:320][697]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.06.30-01.59.59:170][761]LogSlate: Took 0.000671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.30-01.59.59:199][761]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Items/BP_GuantesDielectricos.BP_GuantesDielectricos
+[2019.06.30-02.00.00:338][761]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 117 classes and 0 folders.
+[2019.06.30-02.00.02:276][761]LogSlate: Took 0.000560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.30-02.00.02:456][762]LogSlate: Took 0.000771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.30-02.00.08:667][ 27]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Items/BP_Miscelaneus.BP_Miscelaneus
+[2019.06.30-02.00.27:388][ 12]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.30-02.00.28:906][ 12]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.517 s
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: 
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: Ensure condition failed: !RotationQuat.ContainsNaN() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\UnrealMath.cpp] [Line: 448]
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: Invalid input to FRotator::Quaternion - generated NaN output: X=nan Y=nan Z=nan W=-nan
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: Stack: 
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab47dd20c UE4Editor-Core.dll!UnknownFunction []
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffa834f6fce UE4Editor-LeapMotion.dll!FLeapMotionInputDevice::ParseEvents() [c:\users\diego\desktop\cfe_rv-master\cfe_leapmotion2\plugins\leapmotion\source\leapmotion\private\fleapmotioninputdevice.cpp:465]
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffa834ee92f UE4Editor-LeapMotion.dll!FLeapMotionInputDevice::CaptureAndEvaluateInput() [c:\users\diego\desktop\cfe_rv-master\cfe_leapmotion2\plugins\leapmotion\source\leapmotion\private\fleapmotioninputdevice.cpp:424]
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac82ac7cc UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab77e1966 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: [Callstack] 0x00007ff756065cea UE4Editor.exe!UnknownFunction []
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: [Callstack] 0x00007ff75607596c UE4Editor.exe!UnknownFunction []
+[2019.06.30-02.00.28:906][ 12]LogOutputDevice: Error: [Callstack] 0x00007ff7560759ea UE4Editor.exe!UnknownFunction []
+[2019.06.30-02.00.28:907][ 12]LogOutputDevice: Error: [Callstack] 0x00007ff7560848da UE4Editor.exe!UnknownFunction []
+[2019.06.30-02.00.28:907][ 12]LogOutputDevice: Error: [Callstack] 0x00007ff75608659a UE4Editor.exe!UnknownFunction []
+[2019.06.30-02.00.28:907][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffae2de7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.06.30-02.00.28:907][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffae488ce71 ntdll.dll!UnknownFunction []
+[2019.06.30-02.00.28:907][ 12]LogOutputDevice: Error: 
+[2019.06.30-02.00.28:913][ 12]LogStats:                SubmitErrorReport -  0.000 s
+[2019.06.30-02.00.30:118][ 12]LogStats:                    SendNewReport -  1.206 s
+[2019.06.30-02.00.30:118][ 12]LogStats:             FDebug::EnsureFailed -  2.730 s
+[2019.06.30-02.00.35:922][345]BlueprintLog: New page: Compile BP_Miscelaneus
+[2019.06.30-02.00.37:372][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Miscelaneus" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset" SILENT=true
+[2019.06.30-02.00.37:505][364]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Miscelaneus51ADAD80487115BCA24E5DBD17EA3E4B.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset'
+[2019.06.30-02.00.39:317][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CamionFull)
+[2019.06.30-02.00.40:014][468]LogEditorViewport: Clicking on Actor (LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos)
+[2019.06.30-02.00.45:302][702]LogEditorViewport: Clicking on Actor (LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos4)
+[2019.06.30-02.00.46:084][733]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos3)
+[2019.06.30-02.00.46:750][758]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos2)
+[2019.06.30-02.00.47:283][777]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos)
+[2019.06.30-02.00.48:856][842]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Talco_C (BP_Talco)
+[2019.06.30-02.00.56:459][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.01.06:905][710]BlueprintLog: New page: Compile BP_Miscelaneus
+[2019.06.30-02.01.08:657][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Miscelaneus" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset" SILENT=true
+[2019.06.30-02.01.08:774][727]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Miscelaneus8B713D194393DBCC8142A2859F750BE3.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset'
+[2019.06.30-02.01.11:611][830]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Items/BP_GuantesDielectricos.BP_GuantesDielectricos
+[2019.06.30-02.01.21:005][299]BlueprintLog: New page: Compile BP_GuantesDielectricos
+[2019.06.30-02.01.22:608][310]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_GuantesDielectricos331EEACA49061E5D067ED5A8DEB12BE9.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_GuantesDielectricos.uasset'
+[2019.06.30-02.01.26:239][440]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Items/BP_Talco.BP_Talco
+[2019.06.30-02.01.46:534][541]BlueprintLog: New page: Compile BP_Talco
+[2019.06.30-02.01.47:932][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Talco" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset" SILENT=true
+[2019.06.30-02.01.48:067][567]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Talco8B867E664CD9C3D040BD0584800AF5BF.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset'
+[2019.06.30-02.01.50:911][717]BlueprintLog: New page: Compile BP_Miscelaneus
+[2019.06.30-02.01.51:233][717]LogBlueprint: Error: [Compiler BP_Pawn] In use pin  <Unnamed>  no longer exists on node  CAN INTERACT EVENT . Please refresh node or break links to remove pin.
+[2019.06.30-02.01.51:246][717]LogBlueprint: Error: [Compiler BP_Pawn] Could not find a function named "CAN_INTERACT_EVENT" in 'BP_Miscelaneus_C'.
+Make sure 'BP_Miscelaneus_C' has been compiled for  CAN INTERACT EVENT
+[2019.06.30-02.01.51:254][717]LogBlueprint: Error: [Compiler BP_Pawn] This blueprint (self) is not a BP_Miscelaneus_C, therefore ' Target ' must have a connection.
+[2019.06.30-02.01.51:336][717]LogBlueprint: Warning: [Compiler BP_Pawn] [0167.89] Compile of BP_Pawn failed. 3 Fatal Issue(s) 0 Warning(s) [in 420 ms] (/Game/BP_Character/BP_Pawn.BP_Pawn)
+[2019.06.30-02.01.52:603][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Miscelaneus" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset" SILENT=true
+[2019.06.30-02.01.52:721][717]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Miscelaneus586ACAD742EA9EA916D019AF6AC9B424.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset'
+[2019.06.30-02.01.59:503][111]Cmd: TRANSACTION UNDO
+[2019.06.30-02.01.59:503][111]LogEditorTransaction: Undo Move Nodes
+[2019.06.30-02.02.00:117][130]Cmd: TRANSACTION UNDO
+[2019.06.30-02.02.00:118][130]LogEditorTransaction: Undo Delete current selection
+[2019.06.30-02.02.00:832][162]Cmd: TRANSACTION UNDO
+[2019.06.30-02.02.00:833][162]LogEditorTransaction: Undo Delete current selection
+[2019.06.30-02.02.08:996][616]BlueprintLog: New page: Compile BP_Miscelaneus
+[2019.06.30-02.02.10:441][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Miscelaneus" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset" SILENT=true
+[2019.06.30-02.02.10:558][617]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Miscelaneus468E8E974BE3DE52812FB8B2A5F395BC.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset'
+[2019.06.30-02.02.19:749][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CamionFull)
+[2019.06.30-02.02.21:357][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.02.22:897][194]Cmd: TRANSACTION UNDO
+[2019.06.30-02.02.22:898][194]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.30-02.02.24:572][280]Cmd: TRANSACTION UNDO
+[2019.06.30-02.02.24:572][280]LogEditorTransaction: Undo Delete current selection
+[2019.06.30-02.02.26:288][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CamionFull)
+[2019.06.30-02.02.27:217][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.02.28:745][460]BlueprintLog: New page: Compile BP_Miscelaneus
+[2019.06.30-02.02.30:104][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Miscelaneus" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset" SILENT=true
+[2019.06.30-02.02.30:220][478]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Miscelaneus5952F0034FBAE63E146438870FF8961B.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset'
+[2019.06.30-02.02.41:169][ 99]Cmd: TRANSACTION UNDO
+[2019.06.30-02.02.41:169][ 99]LogEditorTransaction: Undo Delete current selection
+[2019.06.30-02.02.43:269][207]LeapMotionLog: Error: LeapServiceError: Scorch exception: Leap Motion Controller authentication failed.
+[2019.06.30-02.02.43:269][207]LeapMotionLog: Error: LeapServiceError: Scorch exception: Leap Motion Controller authentication failed.
+[2019.06.30-02.02.43:316][210]LeapMotionLog: Warning: OnDeviceLost S323A047707.
+[2019.06.30-02.02.43:322][210]LeapMotionLog: LeapServiceLog: Leap Motion Controller disconnected: S323A047707
+[2019.06.30-02.02.52:321][627]BlueprintLog: New page: Compile BP_Miscelaneus
+[2019.06.30-02.02.53:637][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Miscelaneus" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset" SILENT=true
+[2019.06.30-02.02.53:784][643]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Miscelaneus15CB1BAF4502535CCD91178282285C79.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset'
+[2019.06.30-02.03.04:592][226]LogSlate: Window 'BP_Talco' being destroyed
+[2019.06.30-02.03.18:013][973]LogEditorTransaction: Undo Delete current selection
+[2019.06.30-02.03.38:129][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CamionFull)
+[2019.06.30-02.03.38:685][849]LogEditorViewport: Clicking on Actor (LMB): BP_Talco_C (BP_Talco)
+[2019.06.30-02.03.39:703][895]Cmd: DELETE
+[2019.06.30-02.03.39:703][895]Cmd: ACTOR DELETE
+[2019.06.30-02.03.39:713][895]LogEditorActor: Deleted Actor: BP_Talco_C
+[2019.06.30-02.03.39:804][895]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2019.06.30-02.03.41:101][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.03.44:949][975]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.30-02.03.44:967][975]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.30-02.03.48:944][975]SourceControl: rm 'CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset'
+[2019.06.30-02.03.50:195][ 10]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Items/BP_Miscelaneus.BP_Miscelaneus
+[2019.06.30-02.03.52:439][ 86]BlueprintLog: New page: Compile BP_Miscelaneus
+[2019.06.30-02.03.53:608][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Miscelaneus" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset" SILENT=true
+[2019.06.30-02.03.53:724][ 95]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_MiscelaneusD32387C749B9A91E50F96C8BF3D5E52A.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset'
+[2019.06.30-02.03.55:638][160]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Items/BP_GuantesDielectricos.BP_GuantesDielectricos
+[2019.06.30-02.04.21:418][444]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Items/BP_Talco.BP_Talco
+[2019.06.30-02.04.42:676][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.04.42:759][421]BlueprintLog: New page: Compile BP_Talco
+[2019.06.30-02.04.43:971][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Talco" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset" SILENT=true
+[2019.06.30-02.04.44:017][442]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_TalcoBA890F314F541BFA97B9C88B5E82919E.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset'
+[2019.06.30-02.05.08:631][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.05.10:399][860]BlueprintLog: New page: Compile BP_Talco
+[2019.06.30-02.05.11:622][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Talco" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset" SILENT=true
+[2019.06.30-02.05.11:716][878]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Talco09B83E8849DCF07EEA9D3BB085904A30.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset'
+[2019.06.30-02.05.18:221][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.06.16:929][626]LogEditorTransaction: Undo Delete current selection
+[2019.06.30-02.06.31:149][452]BlueprintLog: New page: Compile BP_Talco
+[2019.06.30-02.06.32:321][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Talco" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset" SILENT=true
+[2019.06.30-02.06.32:418][469]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Talco810AE7C24A1F87DBE95602BC576F3D78.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset'
+[2019.06.30-02.09.28:446][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.09.28:654][704]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Items/BP_ItemClass.BP_ItemClass
+[2019.06.30-02.09.43:334][162]LogSlate: Window 'Delete Variable' being destroyed
+[2019.06.30-02.10.20:350][968]BlueprintLog: New page: Compile BP_ItemClass
+[2019.06.30-02.10.21:736][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_ItemClass" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_ItemClass.uasset" SILENT=true
+[2019.06.30-02.10.21:974][974]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_ItemClass565A324E477304B31354D2A09A17B86F.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_ItemClass.uasset'
+[2019.06.30-02.10.37:719][801]BlueprintLog: New page: Compile BP_ItemClass
+[2019.06.30-02.10.38:963][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_ItemClass" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_ItemClass.uasset" SILENT=true
+[2019.06.30-02.10.39:194][802]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_ItemClass05B1AB754C662F8674BA89935C88D4F7.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_ItemClass.uasset'
+[2019.06.30-02.10.40:003][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_ItemClass" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_ItemClass.uasset" SILENT=true
+[2019.06.30-02.10.40:225][824]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_ItemClassE3445955425461F73D8FDCA3AB96F3CA.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_ItemClass.uasset'
+[2019.06.30-02.11.04:994][240]LogSlate: Took 0.000510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.30-02.11.37:773][ 59]BlueprintLog: New page: Compile BP_Miscelaneus
+[2019.06.30-02.11.38:979][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Miscelaneus" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset" SILENT=true
+[2019.06.30-02.11.39:113][ 68]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Miscelaneus73EB97594604136D19BD1F8C24562F9A.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset'
+[2019.06.30-02.14.26:738][882]BlueprintLog: New page: Compile BP_Talco
+[2019.06.30-02.14.28:001][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Talco" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset" SILENT=true
+[2019.06.30-02.14.28:115][905]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Talco21DDDD0E4D1BEB7129EF7CB289759EBA.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset'
+[2019.06.30-02.14.49:628][ 42]LeapMotionLog: LeapServiceLog: Leap Motion Controller detected: S323A047707
+[2019.06.30-02.14.49:646][ 43]LeapMotionLog: OnDeviceFound Peripheral S323A047707.
+[2019.06.30-02.14.49:707][ 45]LeapMotionLog: LeapServiceLog: Firmware is up to date.
+[2019.06.30-02.14.53:307][208]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.30-02.14.54:212][251]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.30-02.14.57:009][405]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.30-02.14.59:170][463]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Minimal_Default855739244461DC20CAA9F19F7E6BE104.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.06.30-02.14.59:887][463]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Minimal_Default_BuiltDataEC291D5A46AF5BD92E28FB8BC9EFDFA5.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.06.30-02.15.01:163][519]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-02.15.01:233][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.15.01:234][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-02.15.04:584][519]LogSlate: Window 'Message' being destroyed
+[2019.06.30-02.15.07:901][650]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Character/BP_Pawn.BP_Pawn
+[2019.06.30-02.15.12:828][848]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.12:830][848]LogTemp: Bone cache synced: 0
+[2019.06.30-02.15.12:830][848]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:754][440]BlueprintLog: New page: Compile BP_Pawn
+[2019.06.30-02.15.23:972][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:973][440]LogTemp: Bone cache synced: 0
+[2019.06.30-02.15.23:974][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:978][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:978][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:980][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:980][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:983][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:983][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:985][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:985][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:988][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:988][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:990][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:990][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:992][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:992][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:995][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.23:995][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.24:385][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.24:386][440]LogTemp: Bone cache synced: 0
+[2019.06.30-02.15.24:386][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.24:445][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.24:447][440]LogTemp: Bone cache synced: 0
+[2019.06.30-02.15.24:447][440]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.25:782][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Character/BP_Pawn" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset" SILENT=true
+[2019.06.30-02.15.26:055][471]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_PawnAF9348F9499C38186E603B912F4A37E3.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset'
+[2019.06.30-02.15.29:636][664]BlueprintLog: New page: Compile BP_Pawn
+[2019.06.30-02.15.29:856][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:858][664]LogTemp: Bone cache synced: 0
+[2019.06.30-02.15.29:858][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:863][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:863][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:865][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:865][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:867][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:868][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:870][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:870][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:873][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:873][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:875][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:875][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:877][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:877][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:879][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.29:879][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.30:274][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.30:276][664]LogTemp: Bone cache synced: 0
+[2019.06.30-02.15.30:276][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.30:343][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.30:344][664]LogTemp: Bone cache synced: 0
+[2019.06.30-02.15.30:344][664]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.30:986][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Character/BP_Pawn" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset" SILENT=true
+[2019.06.30-02.15.31:224][665]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Pawn1022169641F5634C8BE35D99B4D4C611.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Character/BP_Pawn.uasset'
+[2019.06.30-02.15.33:320][755]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-02.15.33:393][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.15.33:393][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-02.15.33:393][755]PIE: New page: PIE session: Minimal_Default (Jun 29, 2019, 4:15:33 PM)
+[2019.06.30-02.15.33:394][755]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.30-02.15.33:408][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014367s)
+[2019.06.30-02.15.33:409][755]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.30-02.15.33:410][755]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2019.06.30-02.15.33:410][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.016301s)
+[2019.06.30-02.15.33:509][755]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-02.15.33:570][755]LogInit: FAudioDevice initialized.
+[2019.06.30-02.15.33:586][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-02.15.33:629][755]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.06.30-02.15.33:636][755]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.06.29-21.15.33
+[2019.06.30-02.15.33:637][755]LogWorld: Bringing up level for play took: 0.005565
+[2019.06.30-02.15.33:653][755]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-02.15.33:653][755]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-02.15.33:653][755]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-02.15.33:655][755]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.33:657][755]LogTemp: Bone cache synced: 0
+[2019.06.30-02.15.33:657][755]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.33:658][755]LeapMotionLog: AddEventDelegate (1).
+[2019.06.30-02.15.33:664][755]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-02.15.33:672][755]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.19
+[2019.06.30-02.15.33:673][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.15.40:830][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.15.40:832][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-02.15.40:920][ 61]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-02.15.40:964][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-02.15.40:965][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.15.41:100][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.06.30-02.15.46:340][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.15.53:482][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.15.53:555][645]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-02.15.53:624][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.15.53:624][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-02.15.53:624][645]PIE: New page: PIE session: Minimal_Default (Jun 29, 2019, 4:15:53 PM)
+[2019.06.30-02.15.53:625][645]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.30-02.15.53:638][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013644s)
+[2019.06.30-02.15.53:640][645]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.30-02.15.53:641][645]LogPlayLevel: PIE: World Init took: (0.001825s)
+[2019.06.30-02.15.53:641][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015974s)
+[2019.06.30-02.15.53:725][645]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-02.15.53:784][645]LogInit: FAudioDevice initialized.
+[2019.06.30-02.15.53:800][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-02.15.53:846][645]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.06.30-02.15.53:852][645]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.06.29-21.15.53
+[2019.06.30-02.15.53:854][645]LogWorld: Bringing up level for play took: 0.005619
+[2019.06.30-02.15.53:869][645]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-02.15.53:869][645]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-02.15.53:869][645]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-02.15.53:871][645]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.53:873][645]LogTemp: Bone cache synced: 0
+[2019.06.30-02.15.53:873][645]LogTemp: Bone cache synced: 20
+[2019.06.30-02.15.53:875][645]LeapMotionLog: AddEventDelegate (1).
+[2019.06.30-02.15.53:882][645]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-02.15.53:889][645]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.407
+[2019.06.30-02.15.53:890][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.16.03:380][ 19]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 1 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.16.10:803][271]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.16.10:885][274]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.16.11:258][287]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.16.13:087][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.16.13:088][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-02.16.13:181][358]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-02.16.13:225][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-02.16.13:226][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.16.13:353][359]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.06.30-02.16.15:400][436]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Items/BP_Talco.BP_Talco
+[2019.06.30-02.16.32:163][369]LogEditorViewport: Clicking on Actor (LMB): BP_Talco_C (BP_Talco)
+[2019.06.30-02.16.34:818][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.16.37:061][574]LogEditorViewport: Clicking on Actor (LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos)
+[2019.06.30-02.16.39:417][682]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos2)
+[2019.06.30-02.16.39:991][704]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos3)
+[2019.06.30-02.16.40:446][720]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos4)
+[2019.06.30-02.16.41:813][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.16.44:844][903]LogEditorViewport: Clicking on Actor (LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos3)
+[2019.06.30-02.16.46:086][960]LogEditorViewport: Clicking on Actor (LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos2)
+[2019.06.30-02.16.47:314][ 16]LogEditorViewport: Clicking on Actor (LMB): BP_GuantesDielectricos_C (BP_GuantesDielectricos)
+[2019.06.30-02.16.48:555][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.16.49:625][ 75]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Minimal_Default38C1B7D64096A9574969BD8CEC1F4066.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.06.30-02.16.50:437][ 75]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Minimal_Default_BuiltDataCB50A9804BA348870C43AC92C3762148.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.06.30-02.16.51:515][119]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-02.16.51:588][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.16.51:588][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-02.16.51:589][119]PIE: New page: PIE session: Minimal_Default (Jun 29, 2019, 4:16:51 PM)
+[2019.06.30-02.16.51:589][119]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.30-02.16.51:605][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015708s)
+[2019.06.30-02.16.51:606][119]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.30-02.16.51:606][119]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2019.06.30-02.16.51:607][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.017590s)
+[2019.06.30-02.16.51:699][119]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-02.16.51:756][119]LogInit: FAudioDevice initialized.
+[2019.06.30-02.16.51:802][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-02.16.51:859][119]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.06.30-02.16.51:870][119]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.06.29-21.16.51
+[2019.06.30-02.16.51:872][119]LogWorld: Bringing up level for play took: 0.009889
+[2019.06.30-02.16.51:889][119]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-02.16.51:889][119]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-02.16.51:889][119]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-02.16.51:892][119]LogTemp: Bone cache synced: 20
+[2019.06.30-02.16.51:895][119]LogTemp: Bone cache synced: 0
+[2019.06.30-02.16.51:895][119]LogTemp: Bone cache synced: 20
+[2019.06.30-02.16.51:898][119]LeapMotionLog: AddEventDelegate (1).
+[2019.06.30-02.16.51:908][119]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-02.16.51:920][119]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.438
+[2019.06.30-02.16.51:922][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.16.56:270][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.16.59:627][426]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.03:876][601]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.03:938][603]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.11:157][883]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.11:325][886]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.13:006][948]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.20:426][244]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.20:729][255]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.26:709][495]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.32:902][759]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.41:341][ 56]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.45:370][197]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.47:974][290]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.48:063][293]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.48:226][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.48:280][300]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.17.48:767][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.17.48:768][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-02.17.48:861][320]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-02.17.48:915][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-02.17.48:916][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.17.49:060][321]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.06.30-02.18.19:257][ 35]BlueprintLog: New page: Compile BP_Talco
+[2019.06.30-02.18.20:496][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Talco" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset" SILENT=true
+[2019.06.30-02.18.20:620][ 57]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Talco1BCC5F1E4D7A910C8EE936AB8B3DA7A9.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Talco.uasset'
+[2019.06.30-02.18.24:842][231]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Minimal_Default64C5B5534EC46E06778FF5BE4856BF28.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.06.30-02.18.25:524][231]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Minimal_Default_BuiltData104D2BBA4E5F4AD246A66881C417C0AF.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.06.30-02.18.28:802][386]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-02.18.28:891][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.18.28:891][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-02.18.28:891][386]PIE: New page: PIE session: Minimal_Default (Jun 29, 2019, 4:18:28 PM)
+[2019.06.30-02.18.28:892][386]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.30-02.18.28:906][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014179s)
+[2019.06.30-02.18.28:907][386]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.30-02.18.28:908][386]LogPlayLevel: PIE: World Init took: (0.001688s)
+[2019.06.30-02.18.28:908][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.016260s)
+[2019.06.30-02.18.29:000][386]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-02.18.29:064][386]LogInit: FAudioDevice initialized.
+[2019.06.30-02.18.29:080][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-02.18.29:124][386]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.06.30-02.18.29:130][386]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.06.29-21.18.29
+[2019.06.30-02.18.29:131][386]LogWorld: Bringing up level for play took: 0.005850
+[2019.06.30-02.18.29:147][386]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-02.18.29:147][386]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-02.18.29:147][386]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-02.18.29:149][386]LogTemp: Bone cache synced: 20
+[2019.06.30-02.18.29:150][386]LogTemp: Bone cache synced: 0
+[2019.06.30-02.18.29:151][386]LogTemp: Bone cache synced: 20
+[2019.06.30-02.18.29:152][386]LeapMotionLog: AddEventDelegate (1).
+[2019.06.30-02.18.29:158][386]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-02.18.29:167][386]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.315
+[2019.06.30-02.18.29:167][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.18.30:819][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.18.37:360][721]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.18.39:264][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.18.39:366][793]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.18.43:037][926]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.18.43:295][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.18.43:435][940]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.18.55:327][423]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.00:573][640]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.00:871][651]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.01:974][692]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.02:033][694]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.02:084][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.02:185][700]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.02:480][710]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.04:411][780]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.09:860][999]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.09:997][  4]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.10:110][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.10:325][ 15]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.13:631][133]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.33:598][904]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.36:228][  0]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.48:066][455]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.54:718][670]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.57:950][778]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.59:578][832]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.19.59:886][843]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.20.00:118][849]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.20.04:233][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.20.15:397][348]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.20.16:776][393]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.20.18:740][456]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.20.27:530][768]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.20.27:653][772]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.20.31:446][896]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.20.31:993][915]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.20.35:309][ 26]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 1 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.20.44:535][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.20.44:536][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-02.20.44:629][343]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-02.20.44:678][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-02.20.44:679][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.20.44:821][344]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.06.30-02.21.07:833][535]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Items/BP_GuantesDielectricos.BP_GuantesDielectricos
+[2019.06.30-02.21.14:995][784]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Items/Items/BP_Miscelaneus.BP_Miscelaneus
+[2019.06.30-02.21.35:900][714]BlueprintLog: New page: Compile BP_Miscelaneus
+[2019.06.30-02.21.37:838][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Miscelaneus" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset" SILENT=true
+[2019.06.30-02.21.38:000][735]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Miscelaneus32C9297641FE27C367896AA8CC0B56A3.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset'
+[2019.06.30-02.21.38:432][751]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-02.21.38:558][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.21.38:559][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-02.21.38:559][751]PIE: New page: PIE session: Minimal_Default (Jun 29, 2019, 4:21:38 PM)
+[2019.06.30-02.21.38:559][751]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.30-02.21.38:574][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014333s)
+[2019.06.30-02.21.38:575][751]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.30-02.21.38:576][751]LogPlayLevel: PIE: World Init took: (0.001905s)
+[2019.06.30-02.21.38:576][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.016752s)
+[2019.06.30-02.21.38:696][751]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-02.21.38:766][751]LogInit: FAudioDevice initialized.
+[2019.06.30-02.21.38:783][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-02.21.38:827][751]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.06.30-02.21.38:835][751]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.06.29-21.21.38
+[2019.06.30-02.21.38:837][751]LogWorld: Bringing up level for play took: 0.007687
+[2019.06.30-02.21.38:853][751]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-02.21.38:853][751]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.30-02.21.38:853][751]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-02.21.38:856][751]LogTemp: Bone cache synced: 20
+[2019.06.30-02.21.38:858][751]LogTemp: Bone cache synced: 0
+[2019.06.30-02.21.38:859][751]LogTemp: Bone cache synced: 20
+[2019.06.30-02.21.38:860][751]LeapMotionLog: AddEventDelegate (1).
+[2019.06.30-02.21.38:868][751]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.30-02.21.38:872][751]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.61
+[2019.06.30-02.21.38:873][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.21.40:412][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-02.21.48:203][103]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.21.48:427][110]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.21.54:237][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.21.54:437][333]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.21.54:525][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.21.54:774][344]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.21.59:594][524]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.22.04:355][699]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.22.04:426][701]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.22.09:592][907]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.22.17:387][160]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.22.23:278][349]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.22.36:654][782]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.22.40:557][908]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 1 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.22.55:434][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/LeapMotion/DirectRigging/LowPoly/LeapDesktopLowPoly.LeapDesktopLowPoly_C:ExecuteUbergraph_LeapDesktopLowPoly'!
+[2019.06.30-02.22.56:724][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.22.56:726][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-02.22.56:810][446]LogSlate: Window 'CFE_LeapMotion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-02.22.56:878][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-02.22.56:879][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.30-02.22.57:148][447]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.06.30-02.23.04:530][853]BlueprintLog: New page: Compile BP_Miscelaneus
+[2019.06.30-02.23.06:197][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Items/Items/BP_Miscelaneus" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset" SILENT=true
+[2019.06.30-02.23.06:317][875]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/BP_Miscelaneus3B83B3514FD93426F0A96E966F98D439.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/BP_Items/Items/BP_Miscelaneus.uasset'
+[2019.06.30-02.23.08:794][995]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.30-02.23.10:660][ 91]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.30-02.23.12:495][126]LogSlate: Window 'Save Content' being destroyed
+[2019.06.30-02.23.13:615][126]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Saved/Minimal_Default18394BC24816CD16238BC2A2D9CB6A45.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_RV/CFE_LeapMotion2/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.06.30-02.23.13:766][126]LogFileHelpers: Saving map 'Minimal_Default' took 0.737
+[2019.06.30-02.23.14:146][126]LogSlate: Window 'CFE_LeapMotion - Unreal Editor' being destroyed
+[2019.06.30-02.23.14:147][126]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.30-02.23.14:546][127]Cmd: QUIT_EDITOR
+[2019.06.30-02.23.15:088][127]LogExit: Preparing to exit.
+[2019.06.30-02.23.15:677][127]LogExit: Editor shut down
+[2019.06.30-02.23.15:678][127]LogExit: Transaction tracking system shut down
+[2019.06.30-02.23.16:261][127]LogExit: Object subsystem successfully closed.
+[2019.06.30-02.23.16:296][127]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.30-02.23.16:316][127]LogD3D11RHI: Shutdown
+[2019.06.30-02.23.16:316][127]LogD3D11RHI: CleanupD3DDevice
+[2019.06.30-02.23.16:351][127]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.30-02.23.16:411][127]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (638)
+[2019.06.30-02.23.16:411][127]LogModuleManager: Shutting down and abandoning module BlueprintGraph (636)
+[2019.06.30-02.23.16:411][127]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (634)
+[2019.06.30-02.23.16:411][127]LogModuleManager: Shutting down and abandoning module Voice (632)
+[2019.06.30-02.23.16:411][127]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (630)
+[2019.06.30-02.23.16:411][127]LogModuleManager: Shutting down and abandoning module SceneOutliner (628)
+[2019.06.30-02.23.16:411][127]LogModuleManager: Shutting down and abandoning module AddContentDialog (626)
+[2019.06.30-02.23.16:412][127]LogModuleManager: Shutting down and abandoning module WidgetCarousel (625)
+[2019.06.30-02.23.16:413][127]LogModuleManager: Shutting down and abandoning module EditorWidgets (622)
+[2019.06.30-02.23.16:413][127]LogModuleManager: Shutting down and abandoning module CollectionManager (620)
+[2019.06.30-02.23.16:413][127]LogModuleManager: Shutting down and abandoning module StatsViewer (618)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module FoliageEdit (616)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module LandscapeEditor (614)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module MeshPaintMode (612)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (610)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module ActorPickerMode (608)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module GeometryMode (606)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module TextureAlignMode (604)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module BspMode (602)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (600)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (598)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module AutomationWorker (596)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (594)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (592)
+[2019.06.30-02.23.16:414][127]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (590)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module PlacementMode (589)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module MaterialEditor (588)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (584)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (582)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (580)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (578)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module WebMMedia (576)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (574)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (572)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module SequenceRecorder (571)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (568)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (566)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (564)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (562)
+[2019.06.30-02.23.16:415][127]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (560)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (558)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (556)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (554)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (552)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (550)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module CharacterAI (548)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module SmartSnapping (546)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module SessionServices (544)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module ViewportSnapping (542)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module ViewportInteraction (540)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module ClothPainter (538)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (537)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module LogVisualizer (534)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module IntroTutorials (532)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (531)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (528)
+[2019.06.30-02.23.16:416][127]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (526)
+[2019.06.30-02.23.16:417][127]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (524)
+[2019.06.30-02.23.16:417][127]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (522)
+[2019.06.30-02.23.16:417][127]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (521)
+[2019.06.30-02.23.17:522][127]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (518)
+[2019.06.30-02.23.17:522][127]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (516)
+[2019.06.30-02.23.17:522][127]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (514)
+[2019.06.30-02.23.17:522][127]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (512)
+[2019.06.30-02.23.17:523][127]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (510)
+[2019.06.30-02.23.17:523][127]LogModuleManager: Shutting down and abandoning module InputBindingEditor (508)
+[2019.06.30-02.23.17:523][127]LogModuleManager: Shutting down and abandoning module MergeActors (506)
+[2019.06.30-02.23.17:523][127]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (504)
+[2019.06.30-02.23.17:523][127]LogModuleManager: Shutting down and abandoning module LocalizationService (503)
+[2019.06.30-02.23.17:523][127]LogModuleManager: Shutting down and abandoning module HardwareTargeting (500)
+[2019.06.30-02.23.17:523][127]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (498)
+[2019.06.30-02.23.17:523][127]LogModuleManager: Shutting down and abandoning module UndoHistory (496)
+[2019.06.30-02.23.17:523][127]LogModuleManager: Shutting down and abandoning module XmlParser (494)
+[2019.06.30-02.23.17:523][127]LogModuleManager: Shutting down and abandoning module Blutility (492)
+[2019.06.30-02.23.17:523][127]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (490)
+[2019.06.30-02.23.17:525][127]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (489)
+[2019.06.30-02.23.17:526][127]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (486)
+[2019.06.30-02.23.17:526][127]LogModuleManager: Shutting down and abandoning module SettingsEditor (484)
+[2019.06.30-02.23.17:526][127]LogModuleManager: Shutting down and abandoning module ProjectLauncher (482)
+[2019.06.30-02.23.17:526][127]LogModuleManager: Shutting down and abandoning module SessionFrontend (480)
+[2019.06.30-02.23.17:526][127]LogModuleManager: Shutting down and abandoning module ProfilerClient (478)
+[2019.06.30-02.23.17:526][127]LogModuleManager: Shutting down and abandoning module DeviceManager (476)
+[2019.06.30-02.23.17:526][127]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (475)
+[2019.06.30-02.23.17:580][127]LogModuleManager: Shutting down and abandoning module AutomationController (472)
+[2019.06.30-02.23.17:580][127]LogModuleManager: Shutting down and abandoning module AutomationWindow (470)
+[2019.06.30-02.23.17:580][127]LogModuleManager: Shutting down and abandoning module Layers (468)
+[2019.06.30-02.23.17:580][127]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (466)
+[2019.06.30-02.23.17:580][127]LogModuleManager: Shutting down and abandoning module DetailCustomizations (464)
+[2019.06.30-02.23.17:580][127]LogModuleManager: Shutting down and abandoning module PackagesDialog (462)
+[2019.06.30-02.23.17:581][127]LogModuleManager: Shutting down and abandoning module Persona (460)
+[2019.06.30-02.23.17:581][127]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (459)
+[2019.06.30-02.23.17:581][127]LogModuleManager: Shutting down and abandoning module AnimGraph (457)
+[2019.06.30-02.23.17:581][127]LogModuleManager: Shutting down and abandoning module Kismet (454)
+[2019.06.30-02.23.17:620][127]LogModuleManager: Shutting down and abandoning module GraphEditor (452)
+[2019.06.30-02.23.17:620][127]LogModuleManager: Shutting down and abandoning module ClassViewer (450)
+[2019.06.30-02.23.17:621][127]LogModuleManager: Shutting down and abandoning module Toolbox (448)
+[2019.06.30-02.23.17:621][127]LogModuleManager: Shutting down and abandoning module ModuleUI (446)
+[2019.06.30-02.23.17:621][127]LogModuleManager: Shutting down and abandoning module MovieSceneTools (444)
+[2019.06.30-02.23.17:621][127]LogModuleManager: Shutting down and abandoning module OutputLog (442)
+[2019.06.30-02.23.17:621][127]LogModuleManager: Shutting down and abandoning module GammaUI (440)
+[2019.06.30-02.23.17:621][127]LogModuleManager: Shutting down and abandoning module Documentation (438)
+[2019.06.30-02.23.17:621][127]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (436)
+[2019.06.30-02.23.17:621][127]LogModuleManager: Shutting down and abandoning module MovieScene (434)
+[2019.06.30-02.23.17:622][127]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (432)
+[2019.06.30-02.23.17:622][127]LogModuleManager: Shutting down and abandoning module LauncherPlatform (430)
+[2019.06.30-02.23.17:622][127]LogModuleManager: Shutting down and abandoning module AnalyticsET (428)
+[2019.06.30-02.23.17:622][127]LogModuleManager: Shutting down and abandoning module PortalServices (426)
+[2019.06.30-02.23.17:622][127]LogModuleManager: Shutting down and abandoning module PortalRpc (424)
+[2019.06.30-02.23.17:622][127]LogModuleManager: Shutting down and abandoning module MessagingRpc (422)
+[2019.06.30-02.23.17:623][127]LogModuleManager: Shutting down and abandoning module AIModule (420)
+[2019.06.30-02.23.17:623][127]LogModuleManager: Shutting down and abandoning module GameplayDebugger (419)
+[2019.06.30-02.23.17:623][127]LogModuleManager: Shutting down and abandoning module AITestSuite (417)
+[2019.06.30-02.23.17:623][127]LogModuleManager: Shutting down and abandoning module NavigationSystem (415)
+[2019.06.30-02.23.17:623][127]LogModuleManager: Shutting down and abandoning module DesktopPlatform (412)
+[2019.06.30-02.23.17:623][127]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.06.30-02.23.17:631][127]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.06.30-02.23.17:785][127]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.06.30-02.23.17:785][127]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.06.30-02.23.17:785][127]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.06.30-02.23.17:785][127]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.06.30-02.23.17:785][127]LogModuleManager: Shutting down and abandoning module OculusInput (398)
+[2019.06.30-02.23.17:785][127]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (396)
+[2019.06.30-02.23.17:785][127]LogModuleManager: Shutting down and abandoning module LeapMotion (394)
+[2019.06.30-02.23.17:785][127]LeapMotionLog: Leap Plugin shutdown.
+[2019.06.30-02.23.17:785][127]BodyStateLog: Id: 1
+[2019.06.30-02.23.17:785][127]LogUObjectArray: Warning: Empty slot
+[2019.06.30-02.23.17:786][127]BodyStateLog: BodyState::Device Detached: Leap Motion (1)
+[2019.06.30-02.23.20:787][127]LeapMotionLog: Connection successfully closed.
+[2019.06.30-02.23.20:787][127]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.06.30-02.23.20:787][127]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.06.30-02.23.20:787][127]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.06.30-02.23.20:787][127]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.06.30-02.23.20:787][127]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.06.30-02.23.20:787][127]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.06.30-02.23.20:787][127]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.06.30-02.23.20:787][127]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.06.30-02.23.20:787][127]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.06.30-02.23.20:787][127]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.06.30-02.23.20:787][127]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.06.30-02.23.20:797][127]LogModuleManager: Shutting down and abandoning module HTML5Networking (370)
+[2019.06.30-02.23.20:797][127]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (368)
+[2019.06.30-02.23.20:797][127]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (366)
+[2019.06.30-02.23.20:797][127]LogModuleManager: Shutting down and abandoning module BackChannel (364)
+[2019.06.30-02.23.20:797][127]LogModuleManager: Shutting down and abandoning module AppleVision (362)
+[2019.06.30-02.23.20:797][127]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (360)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module VariantManagerContent (348)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module PolygonModeling (338)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module MeshEditor (336)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (334)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module CryptoKeys (332)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (330)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (328)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module UObjectPlugin (326)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (324)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (322)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module GitSourceControl (320)
+[2019.06.30-02.23.20:798][127]LogModuleManager: Shutting down and abandoning module SourceControl (319)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (314)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (312)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module UE4Duino (300)
+[2019.06.30-02.23.20:799][127]UE4DuinoLog: Warning: UE4Duino: Log Ended
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module BodyState (288)
+[2019.06.30-02.23.20:799][127]BodyStateLog: Id: 2
+[2019.06.30-02.23.20:799][127]LogUObjectArray: Warning: Empty slot
+[2019.06.30-02.23.20:799][127]BodyStateLog: BodyState::Device Detached: HMD (0)
+[2019.06.30-02.23.20:799][127]LogUObjectArray: Warning: Empty slot
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module LeapMotionEditor (286)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.30-02.23.20:799][127]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.30-02.23.20:900][127]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.30-02.23.21:005][127]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.06.30-02.23.21:005][127]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.06.30-02.23.21:006][127]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.06.30-02.23.21:006][127]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.06.30-02.23.21:006][127]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.06.30-02.23.21:006][127]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.06.30-02.23.21:007][127]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.06.30-02.23.21:026][127]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.06.30-02.23.21:029][127]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.06.30-02.23.21:036][127]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.06.30-02.23.21:048][127]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.06.30-02.23.21:166][127]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.06.30-02.23.21:184][127]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.06.30-02.23.21:184][127]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.06.30-02.23.21:184][127]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.06.30-02.23.21:184][127]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.06.30-02.23.21:184][127]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.06.30-02.23.21:188][127]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.06.30-02.23.21:190][127]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.06.30-02.23.21:209][127]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.06.30-02.23.21:231][127]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.06.30-02.23.21:231][127]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.06.30-02.23.21:237][127]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.06.30-02.23.21:237][127]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.06.30-02.23.21:237][127]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.06.30-02.23.21:237][127]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.06.30-02.23.21:237][127]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.06.30-02.23.21:237][127]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.06.30-02.23.21:237][127]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.06.30-02.23.21:237][127]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.06.30-02.23.21:237][127]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.06.30-02.23.21:237][127]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.06.30-02.23.21:237][127]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.06.30-02.23.21:238][127]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.06.30-02.23.21:238][127]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.06.30-02.23.21:238][127]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.06.30-02.23.21:238][127]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.06.30-02.23.21:238][127]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.06.30-02.23.21:238][127]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.06.30-02.23.21:238][127]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.06.30-02.23.21:242][127]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.06.30-02.23.21:243][127]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.06.30-02.23.21:243][127]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.06.30-02.23.21:243][127]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.06.30-02.23.21:243][127]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.06.30-02.23.21:243][127]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.06.30-02.23.21:310][127]LogDerivedDataCache: Shutdown
+[2019.06.30-02.23.21:311][127]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.06.30-02.23.21:311][127]LogXGEController: Cleaning working directory: C:/Users/Samuel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.30-02.23.21:311][127]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.06.30-02.23.21:311][127]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.06.30-02.23.21:311][127]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.06.30-02.23.21:311][127]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.06.30-02.23.21:311][127]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.06.30-02.23.21:311][127]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.06.30-02.23.21:311][127]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.06.30-02.23.21:312][127]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.06.30-02.23.21:312][127]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.06.30-02.23.21:312][127]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.06.30-02.23.21:312][127]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.06.30-02.23.21:312][127]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.06.30-02.23.21:312][127]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.06.30-02.23.21:312][127]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.06.30-02.23.21:312][127]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.06.30-02.23.21:312][127]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.06.30-02.23.21:312][127]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.06.30-02.23.21:314][127]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.06.30-02.23.21:314][127]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.06.30-02.23.21:314][127]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.06.30-02.23.21:314][127]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.06.30-02.23.21:314][127]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.06.30-02.23.21:315][127]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.06.30-02.23.21:315][127]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.06.30-02.23.21:316][127]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.06.30-02.23.21:317][127]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.06.30-02.23.21:329][127]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.06.30-02.23.21:330][127]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.30-02.23.21:330][127]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.06.30-02.23.21:330][127]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.06.30-02.23.21:330][127]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.06.30-02.23.21:330][127]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.06.30-02.23.21:330][127]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.06.30-02.23.21:331][127]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.06.30-02.23.21:331][127]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.06.30-02.23.21:368][127]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.06.30-02.23.21:368][127]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.30-02.23.21:368][127]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34FD6068-4D71-C7B8-9390-E888548FE06D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=34b3586e4a633e0d90f680967c10b65a%7C5817b15a57bb4b6dba2f996d373837f5%7C216417f5-3d98-4c9e-a9c4-0049c7a7195e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.30-02.23.21:401][127]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.06.30-02.23.21:408][127]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.06.30-02.23.21:408][127]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.06.30-02.23.21:408][127]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.06.30-02.23.21:408][127]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.06.30-02.23.21:408][127]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.06.30-02.23.21:408][127]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.06.30-02.23.21:408][127]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.06.30-02.23.21:409][127]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.30-02.23.21:409][127]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.06.30-02.23.21:409][127]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.06.30-02.23.21:410][127]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.30-02.23.21:410][127]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.30-02.23.21:410][127]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.30-02.23.21:411][127]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.30-02.23.21:411][127]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.30-02.23.21:411][127]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.30-02.23.21:411][127]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.30-02.23.21:413][127]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.30-02.23.21:413][127]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.30-02.23.21:413][127]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.30-02.23.21:413][127]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.30-02.23.21:413][127]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.30-02.23.21:413][127]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.30-02.23.21:413][127]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.30-02.23.21:413][127]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.30-02.23.21:413][127]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.30-02.23.21:413][127]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.30-02.23.21:413][127]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.30-02.23.21:429][127]LogExit: Exiting.
+[2019.06.30-02.23.21:442][127]Log file closed, 06/29/19 21:23:21
